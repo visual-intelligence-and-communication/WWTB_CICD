@@ -61,6 +61,6 @@ jobs:
       - name: Log successful deployment
         if: success() 
         run: |
-          echo "Deployment successful at $(date '+%Y-%m-%d %H:%M:%S %Z')" >> log.txt
-          echo "----------------------------------------" >> log.txt
+          echo "Deployment successful at $(date '+%Y-%m-%d %H:%M:%S %Z')" >> ~/wwtb_logs/log.txt
+          echo "----------------------------------------" >> ~/wwtb_logs/log.txt
           
