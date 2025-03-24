@@ -1,9 +1,8 @@
-name: Deploy to Hetzner
+name: Deploy to Hetzner Cron Job
 
 on:
   schedule:
-    - cron: '*/15 * * * *'  # UTC 22:00 = Germany 23:00 (Winter)
-    # - cron: '0 22 * * *'  # UTC 22:00 = Germany 23:00 (Winter)
+    - cron: '0 22 * * *'  # UTC 22:00 = Germany 23:00 (Winter)
     # Or
     # - cron: '0 21 * * *'  # UTC 21:00 = Germany 23:00 (Summer)
 
