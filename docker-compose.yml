@@ -4,8 +4,10 @@ services:
       context: .
       dockerfile: Dockerfile
     image: wwtb-client
-    ports:
-      - "3005:3000"
+    # ports:
+    #   - "3005:3000"
+    expose:
+      - "3000"
     restart: always
     env_file:
       - .env.production
