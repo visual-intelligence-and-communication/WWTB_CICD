@@ -37,7 +37,7 @@ jobs:
             # 2. Prepare Project Directory
             # Create project folder if it doesn't exist
             mkdir -p wwtb
-            cd project
+            cd wwtb
             # → Create and move to project directory
             
             # 3. Get Code
