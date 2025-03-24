@@ -56,5 +56,4 @@ jobs:
       - name: Log successful deployment
         if: success() 
         run: |
-          echo "Deployment successful at $(date '+%Y-%m-%d %H:%M:%S %Z')" >> ~/wwtb_logs/log.txt
-          echo "----------------------------------------" >> ~/wwtb_logs/log.txt  
+          ssh ${{ secrets.HETZNER_USER }}@${{ secrets.HETZNER_IP }} "echo 'Deployment successful at $(date '+%Y-%m-%d %H:%M:%S %Z')' >> /home/${{ secrets.HETZNER_USER }}/wwtb_logs/log.txt && echo '----------------------------------------' >> /home/${{ secrets.HETZNER_USER }}/wwtb_logs/log.txt"
