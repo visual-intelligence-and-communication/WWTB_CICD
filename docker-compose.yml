@@ -11,8 +11,12 @@ services:
     restart: always
     env_file:
       - .env.production
+    environment:
+      - VIRTUAL_HOST=wewantthemback.berlin,www.wewantthemback.berlin   # Nginx Proxy
+      - VIRTUAL_PORT=3000
+      - LETSENCRYPT_HOST=wewantthemback.berlin,www.wewantthemback.berlin   # SSL Domain
+      - LETSENCRYPT_EMAIL=dain-p@visual-intelligence.org # SSL Email
 
-    # test
     networks:
       - shared_network
     
