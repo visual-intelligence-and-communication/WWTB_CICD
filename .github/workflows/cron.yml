@@ -1,15 +1,10 @@
 name: Deploy to Hetzner
 
 on:
-  push:
-    branches: ['main']
-    paths-ignore:    # 이러한 파일들이 변경되었을 때는 워크플로우를 실행하지 않음
-      - '**.md'      # 모든 마크다운 파일
-      - 'docu/**'    # docs 폴더의 모든 파일
-      - 'README.md'  # README.md 파일
-      - 'LICENSE'    # LICENSE 파일
-      - '.gitignore' # .gitignore 파일
-      - 'data/**'    # data 폴더의 모든 파일
+  schedule:
+    - cron: '0 22 * * *'  # UTC 22:00 = 독일시간 23:00 (겨울)
+    # 또는
+    - cron: '0 21 * * *'  # UTC 21:00 = 독일시간 23:00 (여름)
 
 jobs:
   deploy:
@@ -57,10 +52,9 @@ jobs:
             docker rmi wwtb-client
            
             docker-compose up -d --build
-    
+            
       - name: Log successful deployment
         if: success() 
         run: |
           echo "Deployment successful at $(date '+%Y-%m-%d %H:%M:%S %Z')" >> log.txt
-          echo "----------------------------------------" >> log.txt
-          
+          echo "----------------------------------------" >> log.txt  
