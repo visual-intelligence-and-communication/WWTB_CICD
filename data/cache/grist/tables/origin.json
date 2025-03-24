@@ -1,0 +1,6710 @@
+{
+  "records": [
+    {
+      "id": 1,
+      "fields": {
+        "original_detail": "Tanzania",
+        "original_group": "German East Africa",
+        "ancestry": 21,
+        "region": 3,
+        "country": 1,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "colonial_name"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 1,
+        "longitude": 34.818322,
+        "latitude": -6.355794,
+        "origin_category": "country",
+        "original_reference": "Tanzania",
+        "currentCount": 235,
+        "institutions": [
+          "L",
+          1,
+          2,
+          1
+        ],
+        "Human_remains_group_id": [
+          "L",
+          1,
+          22,
+          65
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "fields": {
+        "original_detail": "Rwanda",
+        "original_group": "German East Africa",
+        "ancestry": 21,
+        "region": 3,
+        "country": 2,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "colonial_name"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 2,
+        "longitude": 29.91944,
+        "latitude": -2.014687,
+        "origin_category": "country",
+        "original_reference": "Rwanda",
+        "currentCount": 907,
+        "institutions": [
+          "L",
+          1
+        ],
+        "Human_remains_group_id": [
+          "L",
+          2
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "fields": {
+        "original_detail": "Kenya",
+        "original_group": "German East Africa",
+        "ancestry": 21,
+        "region": 3,
+        "country": 3,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "colonial_name"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 3,
+        "longitude": 37.953094,
+        "latitude": 0.689918,
+        "origin_category": "country",
+        "original_reference": "Kenya",
+        "currentCount": 23,
+        "institutions": [
+          "L",
+          1,
+          2
+        ],
+        "Human_remains_group_id": [
+          "L",
+          3,
+          23
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "fields": {
+        "original_detail": "unknown",
+        "original_group": "German East Africa",
+        "ancestry": 21,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "unknown"
+        ],
+        "original_group_category": [
+          "L",
+          "colonial_name"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 4,
+        "longitude": 16.162174978577365,
+        "latitude": 18.124569746225802,
+        "origin_category": "continent",
+        "original_reference": "German East Africa",
+        "currentCount": 0,
+        "institutions": null,
+        "Human_remains_group_id": [
+          "L"
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "fields": {
+        "original_detail": "Cameroon",
+        "original_group": "German West Africa",
+        "ancestry": 21,
+        "region": 3,
+        "country": 4,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "colonial_name"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 5,
+        "longitude": 12.948474,
+        "latitude": 6.294168,
+        "origin_category": "country",
+        "original_reference": "Cameroon",
+        "currentCount": 367,
+        "institutions": [
+          "L",
+          1,
+          2
+        ],
+        "Human_remains_group_id": [
+          "L",
+          5,
+          24
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "fields": {
+        "original_detail": "Togo",
+        "original_group": "German West Africa",
+        "ancestry": 21,
+        "region": 3,
+        "country": 5,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "colonial_name"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 6,
+        "longitude": 0.899086,
+        "latitude": 8.660743,
+        "origin_category": "country",
+        "original_reference": "Togo",
+        "currentCount": 66,
+        "institutions": [
+          "L",
+          1,
+          2
+        ],
+        "Human_remains_group_id": [
+          "L",
+          6,
+          25
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "fields": {
+        "original_detail": "Micronesia",
+        "original_group": "German New Guinea",
+        "ancestry": 21,
+        "region": 1,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "region"
+        ],
+        "original_group_category": [
+          "L",
+          "colonial_name"
+        ],
+        "continent": [
+          "L",
+          5
+        ],
+        "check_id": 7,
+        "longitude": 158.22919,
+        "latitude": 6.878945,
+        "origin_category": "region",
+        "original_reference": "Micronesia",
+        "currentCount": 20,
+        "institutions": [
+          "L",
+          1
+        ],
+        "Human_remains_group_id": [
+          "L",
+          7
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "fields": {
+        "original_detail": "Nauru",
+        "original_group": "German New Guinea",
+        "ancestry": 21,
+        "region": 3,
+        "country": 6,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "colonial_name"
+        ],
+        "continent": [
+          "L",
+          5
+        ],
+        "check_id": 8,
+        "longitude": 166.929376,
+        "latitude": -0.522102,
+        "origin_category": "country",
+        "original_reference": "Nauru",
+        "currentCount": 10,
+        "institutions": [
+          "L",
+          1
+        ],
+        "Human_remains_group_id": [
+          "L",
+          8
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "fields": {
+        "original_detail": "Palau",
+        "original_group": "German New Guinea",
+        "ancestry": 21,
+        "region": 3,
+        "country": 7,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "colonial_name"
+        ],
+        "continent": [
+          "L",
+          5
+        ],
+        "check_id": 9,
+        "longitude": 134.579651,
+        "latitude": 7.534776,
+        "origin_category": "country",
+        "original_reference": "Palau",
+        "currentCount": 10,
+        "institutions": [
+          "L",
+          1
+        ],
+        "Human_remains_group_id": [
+          "L",
+          9
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "fields": {
+        "original_detail": "Papua-New Guinea",
+        "original_group": "German New Guinea",
+        "ancestry": 21,
+        "region": 3,
+        "country": 23,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "colonial_name"
+        ],
+        "continent": [
+          "L",
+          5
+        ],
+        "check_id": 10,
+        "longitude": 147.21,
+        "latitude": -9.26,
+        "origin_category": "country",
+        "original_reference": "Papua-New Guinea",
+        "currentCount": 2000,
+        "institutions": [
+          "L",
+          1
+        ],
+        "Human_remains_group_id": [
+          "L",
+          10
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "fields": {
+        "original_detail": "USA Mariana Islands",
+        "original_group": "German New Guinea",
+        "ancestry": 21,
+        "region": 2,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "region"
+        ],
+        "original_group_category": [
+          "L",
+          "colonial_name"
+        ],
+        "continent": [
+          "L",
+          5
+        ],
+        "check_id": 11,
+        "longitude": 145.44891665689454,
+        "latitude": 14.944217936027455,
+        "origin_category": "region",
+        "original_reference": "USA Mariana Islands",
+        "currentCount": 20,
+        "institutions": [
+          "L",
+          1
+        ],
+        "Human_remains_group_id": [
+          "L",
+          11
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "fields": {
+        "original_detail": "German Samoa",
+        "original_group": "German Samoa",
+        "ancestry": 21,
+        "region": 3,
+        "country": 9,
+        "original_detail_category": [
+          "L",
+          "colonial_name"
+        ],
+        "original_group_category": [
+          "L",
+          "colonial_name"
+        ],
+        "continent": [
+          "L",
+          5
+        ],
+        "check_id": 12,
+        "longitude": -172.441077,
+        "latitude": -13.634253,
+        "origin_category": "country",
+        "original_reference": "German Samoa",
+        "currentCount": 19,
+        "institutions": [
+          "L",
+          1,
+          2
+        ],
+        "Human_remains_group_id": [
+          "L",
+          12,
+          26
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "fields": {
+        "original_detail": "unknown",
+        "original_group": "North- and East Asia",
+        "ancestry": 21,
+        "region": 19,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "unknown"
+        ],
+        "original_group_category": [
+          "L",
+          "department",
+          "region"
+        ],
+        "continent": [
+          "L",
+          3
+        ],
+        "check_id": 13,
+        "longitude": 111.57097234371439,
+        "latitude": 49.334668991454095,
+        "origin_category": "region",
+        "original_reference": "North- and East Asia",
+        "currentCount": 33,
+        "institutions": [
+          "L",
+          2
+        ],
+        "Human_remains_group_id": [
+          "L",
+          13
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "fields": {
+        "original_detail": "unknown",
+        "original_group": "North Africa, West and Central Asia",
+        "ancestry": 21,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "unknown"
+        ],
+        "original_group_category": [
+          "L",
+          "department",
+          "region"
+        ],
+        "continent": [
+          "L",
+          1,
+          3
+        ],
+        "check_id": 14,
+        "longitude": 16.162174978577365,
+        "latitude": 18.124569746225802,
+        "origin_category": "continent",
+        "original_reference": "North Africa, West and Central Asia",
+        "currentCount": 5,
+        "institutions": [
+          "L",
+          2
+        ],
+        "Human_remains_group_id": [
+          "L",
+          14
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "fields": {
+        "original_detail": "unknown",
+        "original_group": "South and Southeast Asia",
+        "ancestry": 21,
+        "region": 21,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "unknown"
+        ],
+        "original_group_category": [
+          "L",
+          "department",
+          "region"
+        ],
+        "continent": [
+          "L",
+          3
+        ],
+        "check_id": 15,
+        "longitude": 99.14011974443791,
+        "latitude": 9.0781897391037,
+        "origin_category": "region",
+        "original_reference": "South and Southeast Asia",
+        "currentCount": 30,
+        "institutions": [
+          "L",
+          2
+        ],
+        "Human_remains_group_id": [
+          "L",
+          15
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "fields": {
+        "original_detail": "unknown",
+        "original_group": "Africa",
+        "ancestry": 21,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "unknown"
+        ],
+        "original_group_category": [
+          "L",
+          "department",
+          "region"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 16,
+        "longitude": 16.162174978577365,
+        "latitude": 18.124569746225802,
+        "origin_category": "continent",
+        "original_reference": "Africa",
+        "currentCount": 61,
+        "institutions": [
+          "L",
+          2
+        ],
+        "Human_remains_group_id": [
+          "L",
+          16
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "fields": {
+        "original_detail": "unknown",
+        "original_group": "North America",
+        "ancestry": 21,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "unknown"
+        ],
+        "original_group_category": [
+          "L",
+          "department",
+          "region"
+        ],
+        "continent": [
+          "L",
+          7
+        ],
+        "check_id": 17,
+        "longitude": -104.42544904987916,
+        "latitude": 50.26487079067549,
+        "origin_category": "continent",
+        "original_reference": "North America",
+        "currentCount": 31,
+        "institutions": [
+          "L",
+          2
+        ],
+        "Human_remains_group_id": [
+          "L",
+          17
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "fields": {
+        "original_detail": "unknown",
+        "original_group": "Mesoamerica",
+        "ancestry": 21,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "unknown"
+        ],
+        "original_group_category": [
+          "L",
+          "department",
+          "region"
+        ],
+        "continent": [
+          "L",
+          7
+        ],
+        "check_id": 18,
+        "longitude": -104.42544904987916,
+        "latitude": 50.26487079067549,
+        "origin_category": "continent",
+        "original_reference": "Mesoamerica",
+        "currentCount": 0,
+        "institutions": null,
+        "Human_remains_group_id": [
+          "L"
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "fields": {
+        "original_detail": "unknown",
+        "original_group": "South America",
+        "ancestry": 21,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "unknown"
+        ],
+        "original_group_category": [
+          "L",
+          "department",
+          "region"
+        ],
+        "continent": [
+          "L",
+          6
+        ],
+        "check_id": 19,
+        "longitude": -61.51873222725019,
+        "latitude": -8.19683014174719,
+        "origin_category": "continent",
+        "original_reference": "South America",
+        "currentCount": 699,
+        "institutions": [
+          "L",
+          2
+        ],
+        "Human_remains_group_id": [
+          "L",
+          19
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "fields": {
+        "original_detail": "unknown",
+        "original_group": "South Seas and Australia",
+        "ancestry": 21,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "unknown"
+        ],
+        "original_group_category": [
+          "L",
+          "department",
+          "region"
+        ],
+        "continent": [
+          "L",
+          5
+        ],
+        "check_id": 20,
+        "longitude": 128.2188155426399,
+        "latitude": -4.827784594522241,
+        "origin_category": "continent",
+        "original_reference": "South Seas and Australia",
+        "currentCount": 1009,
+        "institutions": [
+          "L",
+          2
+        ],
+        "Human_remains_group_id": [
+          "L",
+          20
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "fields": {
+        "original_detail": "unknown",
+        "original_group": "Music ethnology",
+        "ancestry": 21,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "unknown"
+        ],
+        "original_group_category": [
+          "L",
+          "department"
+        ],
+        "continent": [
+          "L",
+          8
+        ],
+        "check_id": 21,
+        "longitude": 0,
+        "latitude": 0,
+        "origin_category": "unknown",
+        "original_reference": "Music ethnology",
+        "currentCount": 3,
+        "institutions": [
+          "L",
+          2
+        ],
+        "Human_remains_group_id": [
+          "L",
+          21
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "fields": {
+        "original_detail": "unknown",
+        "original_group": "unknown",
+        "ancestry": 21,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "unknown"
+        ],
+        "original_group_category": [
+          "L",
+          "unknown"
+        ],
+        "continent": [
+          "L",
+          8
+        ],
+        "check_id": 22,
+        "longitude": 0,
+        "latitude": 0,
+        "origin_category": "unknown",
+        "original_reference": "unknown",
+        "currentCount": 3546,
+        "institutions": [
+          "L",
+          3,
+          4,
+          7,
+          8,
+          9,
+          11,
+          14,
+          12,
+          13,
+          12
+        ],
+        "Human_remains_group_id": [
+          "L",
+          27,
+          59,
+          67,
+          70,
+          71,
+          72,
+          73,
+          88,
+          89,
+          90
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "fields": {
+        "original_detail": "Hehe",
+        "original_group": "Tanzania",
+        "ancestry": 1,
+        "region": 3,
+        "country": 1,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 23,
+        "longitude": 35.60269597,
+        "latitude": -7.80346427,
+        "origin_category": "ancestry",
+        "original_reference": "Hehe",
+        "currentCount": 12,
+        "institutions": [
+          "L",
+          4
+        ],
+        "Human_remains_group_id": [
+          "L",
+          28
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "fields": {
+        "original_detail": "Wapangwa",
+        "original_group": "Tanzania",
+        "ancestry": 2,
+        "region": 3,
+        "country": 1,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 24,
+        "longitude": 35.74394801,
+        "latitude": -9.43949327,
+        "origin_category": "ancestry",
+        "original_reference": "Wapangwa",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          4
+        ],
+        "Human_remains_group_id": [
+          "L",
+          29
+        ]
+      }
+    },
+    {
+      "id": 25,
+      "fields": {
+        "original_detail": "Wambugu",
+        "original_group": "Tanzania",
+        "ancestry": 3,
+        "region": 3,
+        "country": 1,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 25,
+        "longitude": 38.50343359,
+        "latitude": -4.74837223,
+        "origin_category": "ancestry",
+        "original_reference": "Wambugu",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          4
+        ],
+        "Human_remains_group_id": [
+          "L",
+          30
+        ]
+      }
+    },
+    {
+      "id": 26,
+      "fields": {
+        "original_detail": "Maasai",
+        "original_group": "Tanzania",
+        "ancestry": 4,
+        "region": 3,
+        "country": 1,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 26,
+        "longitude": 36.764372,
+        "latitude": -2.58588087,
+        "origin_category": "ancestry",
+        "original_reference": "Maasai",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          4
+        ],
+        "Human_remains_group_id": [
+          "L",
+          31
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "fields": {
+        "original_detail": "unknown",
+        "original_group": "Tanzania",
+        "ancestry": 21,
+        "region": 3,
+        "country": 1,
+        "original_detail_category": [
+          "L",
+          "unknown"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 27,
+        "longitude": 34.818322,
+        "latitude": -6.355794,
+        "origin_category": "country",
+        "original_reference": "Tanzania",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          4
+        ],
+        "Human_remains_group_id": [
+          "L",
+          32
+        ]
+      }
+    },
+    {
+      "id": 28,
+      "fields": {
+        "original_detail": "Iraqw (Wambulu)",
+        "original_group": "Tanzania",
+        "ancestry": 5,
+        "region": 3,
+        "country": 1,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 28,
+        "longitude": 36.68613965,
+        "latitude": -3.38648264,
+        "origin_category": "ancestry",
+        "original_reference": "Iraqw (Wambulu)",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          4
+        ],
+        "Human_remains_group_id": [
+          "L",
+          33
+        ]
+      }
+    },
+    {
+      "id": 29,
+      "fields": {
+        "original_detail": "unknown",
+        "original_group": "Ethopia",
+        "ancestry": 21,
+        "region": 3,
+        "country": 11,
+        "original_detail_category": [
+          "L",
+          "unknown"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 29,
+        "longitude": 39.914903,
+        "latitude": 8.72939,
+        "origin_category": "country",
+        "original_reference": "Ethopia",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          4
+        ],
+        "Human_remains_group_id": [
+          "L",
+          34
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "fields": {
+        "original_detail": "Mang'anja / Mangania / Marari / Nyanja",
+        "original_group": "Mozambique",
+        "ancestry": 6,
+        "region": 3,
+        "country": 12,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 30,
+        "longitude": 34.80138589,
+        "latitude": -16.04130948,
+        "origin_category": "ancestry",
+        "original_reference": "Mang'anja / Mangania / Marari / Nyanja",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          4
+        ],
+        "Human_remains_group_id": [
+          "L",
+          35
+        ]
+      }
+    },
+    {
+      "id": 31,
+      "fields": {
+        "original_detail": "Monyalo",
+        "original_group": "Mozambique",
+        "ancestry": 7,
+        "region": 3,
+        "country": 12,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 31,
+        "longitude": 29.44653657,
+        "latitude": -23.82457252,
+        "origin_category": "ancestry",
+        "original_reference": "Monyalo",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          4
+        ],
+        "Human_remains_group_id": [
+          "L",
+          36
+        ]
+      }
+    },
+    {
+      "id": 32,
+      "fields": {
+        "original_detail": "Mtutsi",
+        "original_group": "Rwanda",
+        "ancestry": 8,
+        "region": 3,
+        "country": 2,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 32,
+        "longitude": 30.06606365,
+        "latitude": -1.94482532,
+        "origin_category": "ancestry",
+        "original_reference": "Mtutsi",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          4
+        ],
+        "Human_remains_group_id": [
+          "L",
+          37
+        ]
+      }
+    },
+    {
+      "id": 33,
+      "fields": {
+        "original_detail": "Rwanda",
+        "original_group": "Rwanda",
+        "ancestry": 21,
+        "region": 3,
+        "country": 2,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 33,
+        "longitude": 29.91944,
+        "latitude": -2.014687,
+        "origin_category": "country",
+        "original_reference": "Rwanda",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          4
+        ],
+        "Human_remains_group_id": [
+          "L",
+          38
+        ]
+      }
+    },
+    {
+      "id": 34,
+      "fields": {
+        "original_detail": "unknown",
+        "original_group": "South Africa",
+        "ancestry": 21,
+        "region": 3,
+        "country": 13,
+        "original_detail_category": [
+          "L",
+          "unknown"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 34,
+        "longitude": 24.752527,
+        "latitude": -28.553619,
+        "origin_category": "country",
+        "original_reference": "South Africa",
+        "currentCount": 3,
+        "institutions": [
+          "L",
+          4,
+          15
+        ],
+        "Human_remains_group_id": [
+          "L",
+          39,
+          103
+        ]
+      }
+    },
+    {
+      "id": 35,
+      "fields": {
+        "original_detail": "Xhosa",
+        "original_group": "South Africa",
+        "ancestry": 9,
+        "region": 3,
+        "country": 13,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 35,
+        "longitude": 18.4174,
+        "latitude": -33.9291,
+        "origin_category": "ancestry",
+        "original_reference": "Xhosa",
+        "currentCount": 3,
+        "institutions": [
+          "L",
+          4,
+          14
+        ],
+        "Human_remains_group_id": [
+          "L",
+          40,
+          75
+        ]
+      }
+    },
+    {
+      "id": 36,
+      "fields": {
+        "original_detail": "Zulu",
+        "original_group": "South Africa",
+        "ancestry": 10,
+        "region": 3,
+        "country": 13,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 36,
+        "longitude": 31.45968861,
+        "latitude": -28.31628442,
+        "origin_category": "ancestry",
+        "original_reference": "Zulu",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          4
+        ],
+        "Human_remains_group_id": [
+          "L",
+          41
+        ]
+      }
+    },
+    {
+      "id": 37,
+      "fields": {
+        "original_detail": "Mfengu",
+        "original_group": "South Africa",
+        "ancestry": 11,
+        "region": 3,
+        "country": 13,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 37,
+        "longitude": 27.39559154,
+        "latitude": -32.87017404,
+        "origin_category": "ancestry",
+        "original_reference": "Mfengu",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          4
+        ],
+        "Human_remains_group_id": [
+          "L",
+          42
+        ]
+      }
+    },
+    {
+      "id": 38,
+      "fields": {
+        "original_detail": "San",
+        "original_group": "South Africa",
+        "ancestry": 12,
+        "region": 3,
+        "country": 13,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 38,
+        "longitude": 19.10073969,
+        "latitude": -25.89360716,
+        "origin_category": "ancestry",
+        "original_reference": "San",
+        "currentCount": 3,
+        "institutions": [
+          "L",
+          4
+        ],
+        "Human_remains_group_id": [
+          "L",
+          43
+        ]
+      }
+    },
+    {
+      "id": 39,
+      "fields": {
+        "original_detail": "Ngqika",
+        "original_group": "South Africa",
+        "ancestry": 13,
+        "region": 3,
+        "country": 13,
+        "original_detail_category": [
+          "L",
+          "ancestry",
+          "monarchy"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 39,
+        "longitude": 27.39559154,
+        "latitude": -32.87017404,
+        "origin_category": "ancestry",
+        "original_reference": "Ngqika",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          4
+        ],
+        "Human_remains_group_id": [
+          "L",
+          44
+        ]
+      }
+    },
+    {
+      "id": 40,
+      "fields": {
+        "original_detail": "Damara",
+        "original_group": "Namibia",
+        "ancestry": 14,
+        "region": 3,
+        "country": 14,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 40,
+        "longitude": 17.72575162,
+        "latitude": -25.12808726,
+        "origin_category": "ancestry",
+        "original_reference": "Damara",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          4
+        ],
+        "Human_remains_group_id": [
+          "L",
+          45
+        ]
+      }
+    },
+    {
+      "id": 41,
+      "fields": {
+        "original_detail": "Ovambo",
+        "original_group": "Namibia",
+        "ancestry": 15,
+        "region": 3,
+        "country": 14,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 41,
+        "longitude": 16.30376425,
+        "latitude": -17.92736265,
+        "origin_category": "ancestry",
+        "original_reference": "Ovambo",
+        "currentCount": 2,
+        "institutions": [
+          "L",
+          4
+        ],
+        "Human_remains_group_id": [
+          "L",
+          46
+        ]
+      }
+    },
+    {
+      "id": 42,
+      "fields": {
+        "original_detail": "Ntcham (Bassari)",
+        "original_group": "Togo",
+        "ancestry": 16,
+        "region": 3,
+        "country": 5,
+        "original_detail_category": [
+          "L",
+          "ancestry",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 42,
+        "longitude": 0.77723963,
+        "latitude": 9.26121985,
+        "origin_category": "ancestry",
+        "original_reference": "Ntcham (Bassari)",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          4
+        ],
+        "Human_remains_group_id": [
+          "L",
+          47
+        ]
+      }
+    },
+    {
+      "id": 43,
+      "fields": {
+        "original_detail": "Ba-ndeng",
+        "original_group": "Cameroon",
+        "ancestry": 17,
+        "region": 3,
+        "country": 4,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 43,
+        "longitude": 10.10218883,
+        "latitude": 6.00375557,
+        "origin_category": "ancestry",
+        "original_reference": "Ba-ndeng",
+        "currentCount": 2,
+        "institutions": [
+          "L",
+          4
+        ],
+        "Human_remains_group_id": [
+          "L",
+          48
+        ]
+      }
+    },
+    {
+      "id": 44,
+      "fields": {
+        "original_detail": "Kru",
+        "original_group": "Liberia",
+        "ancestry": 18,
+        "region": 3,
+        "country": 15,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 44,
+        "longitude": -7.4714422,
+        "latitude": 5.31944446,
+        "origin_category": "ancestry",
+        "original_reference": "Kru",
+        "currentCount": 2,
+        "institutions": [
+          "L",
+          4
+        ],
+        "Human_remains_group_id": [
+          "L",
+          49
+        ]
+      }
+    },
+    {
+      "id": 45,
+      "fields": {
+        "original_detail": "Congo",
+        "original_group": "Congo",
+        "ancestry": 21,
+        "region": 3,
+        "country": 16,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 45,
+        "longitude": 14.879733,
+        "latitude": -0.729439,
+        "origin_category": "country",
+        "original_reference": "Congo",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          4
+        ],
+        "Human_remains_group_id": [
+          "L",
+          50
+        ]
+      }
+    },
+    {
+      "id": 46,
+      "fields": {
+        "original_detail": "French Island (Victoria)",
+        "original_group": "Oceania",
+        "ancestry": 21,
+        "region": 4,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "region"
+        ],
+        "original_group_category": [
+          "L",
+          "region"
+        ],
+        "continent": [
+          "L",
+          5
+        ],
+        "check_id": 46,
+        "longitude": 145.35770969621856,
+        "latitude": -38.35450975694103,
+        "origin_category": "region",
+        "original_reference": "French Island (Victoria)",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          4
+        ],
+        "Human_remains_group_id": [
+          "L",
+          51
+        ]
+      }
+    },
+    {
+      "id": 47,
+      "fields": {
+        "original_detail": "Solomons Islands",
+        "original_group": "Oceania",
+        "ancestry": 21,
+        "region": 3,
+        "country": 17,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "region"
+        ],
+        "continent": [
+          "L",
+          5
+        ],
+        "check_id": 47,
+        "longitude": 160.164758,
+        "latitude": -9.613105,
+        "origin_category": "country",
+        "original_reference": "Solomons Islands",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          4
+        ],
+        "Human_remains_group_id": [
+          "L",
+          52
+        ]
+      }
+    },
+    {
+      "id": 48,
+      "fields": {
+        "original_detail": "Mangaia",
+        "original_group": "Oceania",
+        "ancestry": 21,
+        "region": 5,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "region",
+          "island"
+        ],
+        "original_group_category": [
+          "L",
+          "region"
+        ],
+        "continent": [
+          "L",
+          5
+        ],
+        "check_id": 48,
+        "longitude": -157.92291225904802,
+        "latitude": -21.928012052269708,
+        "origin_category": "region",
+        "original_reference": "Mangaia",
+        "currentCount": 3,
+        "institutions": [
+          "L",
+          4
+        ],
+        "Human_remains_group_id": [
+          "L",
+          53
+        ]
+      }
+    },
+    {
+      "id": 49,
+      "fields": {
+        "original_detail": "Raiatea",
+        "original_group": "Oceania",
+        "ancestry": 21,
+        "region": 6,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "region",
+          "island"
+        ],
+        "original_group_category": [
+          "L",
+          "region"
+        ],
+        "continent": [
+          "L",
+          5
+        ],
+        "check_id": 49,
+        "longitude": -151.4449469963409,
+        "latitude": -16.813486748855535,
+        "origin_category": "region",
+        "original_reference": "Raiatea",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          4
+        ],
+        "Human_remains_group_id": [
+          "L",
+          54
+        ]
+      }
+    },
+    {
+      "id": 50,
+      "fields": {
+        "original_detail": "Tahiti",
+        "original_group": "Oceania",
+        "ancestry": 21,
+        "region": 7,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "region",
+          "island"
+        ],
+        "original_group_category": [
+          "L",
+          "region"
+        ],
+        "continent": [
+          "L",
+          5
+        ],
+        "check_id": 50,
+        "longitude": -149.45484393938438,
+        "latitude": -17.634725606417447,
+        "origin_category": "region",
+        "original_reference": "Tahiti",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          4
+        ],
+        "Human_remains_group_id": [
+          "L",
+          55
+        ]
+      }
+    },
+    {
+      "id": 51,
+      "fields": {
+        "original_detail": "Manus Islands",
+        "original_group": "Oceania",
+        "ancestry": 21,
+        "region": 8,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "region",
+          "island"
+        ],
+        "original_group_category": [
+          "L",
+          "region"
+        ],
+        "continent": [
+          "L",
+          5
+        ],
+        "check_id": 51,
+        "longitude": 146.90823838558978,
+        "latitude": -2.0600600449012716,
+        "origin_category": "region",
+        "original_reference": "Manus Islands",
+        "currentCount": 3,
+        "institutions": [
+          "L",
+          4
+        ],
+        "Human_remains_group_id": [
+          "L",
+          56
+        ]
+      }
+    },
+    {
+      "id": 52,
+      "fields": {
+        "original_detail": "Caroline Islands",
+        "original_group": "Oceania",
+        "ancestry": 21,
+        "region": 9,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "region",
+          "island"
+        ],
+        "original_group_category": [
+          "L",
+          "region"
+        ],
+        "continent": [
+          "L",
+          5
+        ],
+        "check_id": 52,
+        "longitude": 144.13296604537337,
+        "latitude": 7.880324910428334,
+        "origin_category": "region",
+        "original_reference": "Caroline Islands",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          4
+        ],
+        "Human_remains_group_id": [
+          "L",
+          57
+        ]
+      }
+    },
+    {
+      "id": 53,
+      "fields": {
+        "original_detail": "Toi Moko",
+        "original_group": "New Zealand",
+        "ancestry": 21,
+        "region": 3,
+        "country": 18,
+        "original_detail_category": [
+          "L",
+          "term_for_preserved_heads"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          5
+        ],
+        "check_id": 53,
+        "longitude": 172.24768689863598,
+        "latitude": -42.63364565969775,
+        "origin_category": "country",
+        "original_reference": "Toi Moko",
+        "currentCount": 0,
+        "institutions": [
+          "L",
+          4
+        ],
+        "Human_remains_group_id": [
+          "L",
+          58
+        ]
+      }
+    },
+    {
+      "id": 54,
+      "fields": {
+        "original_detail": "China",
+        "original_group": "unknown",
+        "ancestry": 21,
+        "region": 3,
+        "country": 19,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "unknown"
+        ],
+        "continent": [
+          "L",
+          3
+        ],
+        "check_id": 54,
+        "longitude": 104.691139,
+        "latitude": 38.073255,
+        "origin_category": "country",
+        "original_reference": "China",
+        "currentCount": 3,
+        "institutions": [
+          "L",
+          4,
+          7
+        ],
+        "Human_remains_group_id": [
+          "L",
+          60,
+          66
+        ]
+      }
+    },
+    {
+      "id": 55,
+      "fields": {
+        "original_detail": "Mongol",
+        "original_group": "Manchuria",
+        "ancestry": 20,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "subregion"
+        ],
+        "continent": [
+          "L",
+          3
+        ],
+        "check_id": 55,
+        "longitude": 92.80956884880557,
+        "latitude": 47.017211166540655,
+        "origin_category": "ancestry",
+        "original_reference": "Mongol",
+        "currentCount": 2,
+        "institutions": [
+          "L",
+          4
+        ],
+        "Human_remains_group_id": [
+          "L",
+          61
+        ]
+      }
+    },
+    {
+      "id": 56,
+      "fields": {
+        "original_detail": "Australian",
+        "original_group": "unknown",
+        "ancestry": 21,
+        "region": 3,
+        "country": 20,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "unknown"
+        ],
+        "continent": [
+          "L",
+          5
+        ],
+        "check_id": 56,
+        "longitude": 134.022772,
+        "latitude": -25.697338,
+        "origin_category": "country",
+        "original_reference": "Australian",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          4,
+          3,
+          4,
+          3
+        ],
+        "Human_remains_group_id": [
+          "L",
+          62,
+          69,
+          95,
+          97
+        ]
+      }
+    },
+    {
+      "id": 57,
+      "fields": {
+        "original_detail": "Indonesian",
+        "original_group": "Indonesia",
+        "ancestry": 21,
+        "region": 3,
+        "country": 21,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": null,
+        "continent": [
+          "L",
+          3
+        ],
+        "check_id": 57,
+        "longitude": 106.77,
+        "latitude": -6.18,
+        "origin_category": "country",
+        "original_reference": "Indonesian",
+        "currentCount": 57,
+        "institutions": [
+          "L",
+          6,
+          15
+        ],
+        "Human_remains_group_id": [
+          "L",
+          63,
+          99
+        ]
+      }
+    },
+    {
+      "id": 58,
+      "fields": {
+        "original_detail": "Borneo",
+        "original_group": "Borneo / Dayak",
+        "ancestry": 23,
+        "region": 14,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          3
+        ],
+        "check_id": 58,
+        "longitude": 92.80956884880557,
+        "latitude": 47.017211166540655,
+        "origin_category": "ancestry",
+        "original_reference": "Borneo",
+        "currentCount": 2,
+        "institutions": [
+          "L",
+          15
+        ],
+        "Human_remains_group_id": [
+          "L",
+          100
+        ]
+      }
+    },
+    {
+      "id": 61,
+      "fields": {
+        "original_detail": "mesoamerica ",
+        "original_group": "mesoamerica",
+        "ancestry": 21,
+        "region": 22,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "region"
+        ],
+        "original_group_category": [
+          "L",
+          "region"
+        ],
+        "continent": [
+          "L",
+          6
+        ],
+        "check_id": 61,
+        "longitude": -97.75841250652446,
+        "latitude": 19.850338631935664,
+        "origin_category": "region",
+        "original_reference": "mesoamerica ",
+        "currentCount": 96,
+        "institutions": [
+          "L",
+          2
+        ],
+        "Human_remains_group_id": [
+          "L",
+          18
+        ]
+      }
+    },
+    {
+      "id": 63,
+      "fields": {
+        "original_detail": "Japan",
+        "original_group": "Japan",
+        "ancestry": 24,
+        "region": 3,
+        "country": 24,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "ancestry"
+        ],
+        "continent": [
+          "L",
+          3
+        ],
+        "check_id": 63,
+        "longitude": 142.49508457,
+        "latitude": 43.30018056,
+        "origin_category": "ancestry",
+        "original_reference": "Japan",
+        "currentCount": 14,
+        "institutions": [
+          "L",
+          3
+        ],
+        "Human_remains_group_id": [
+          "L",
+          68
+        ]
+      }
+    },
+    {
+      "id": 64,
+      "fields": {
+        "original_detail": "Australia",
+        "original_group": "Australia",
+        "ancestry": 21,
+        "region": 3,
+        "country": 20,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          5
+        ],
+        "check_id": 64,
+        "longitude": 134.022772,
+        "latitude": -25.697338,
+        "origin_category": "country",
+        "original_reference": "Australia",
+        "currentCount": 0,
+        "institutions": null,
+        "Human_remains_group_id": [
+          "L"
+        ]
+      }
+    },
+    {
+      "id": 65,
+      "fields": {
+        "original_detail": "China",
+        "original_group": "China",
+        "ancestry": 21,
+        "region": 3,
+        "country": 19,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          3
+        ],
+        "check_id": 65,
+        "longitude": 104.691139,
+        "latitude": 38.073255,
+        "origin_category": "country",
+        "original_reference": "China",
+        "currentCount": 3,
+        "institutions": [
+          "L",
+          14
+        ],
+        "Human_remains_group_id": [
+          "L",
+          74
+        ]
+      }
+    },
+    {
+      "id": 66,
+      "fields": {
+        "original_detail": "Africa",
+        "original_group": "Africa",
+        "ancestry": 10,
+        "region": 3,
+        "country": 13,
+        "original_detail_category": [
+          "L",
+          "unknown"
+        ],
+        "original_group_category": [
+          "L",
+          "unknown"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 66,
+        "longitude": 31.45968861,
+        "latitude": -28.31628442,
+        "origin_category": "ancestry",
+        "original_reference": "Africa",
+        "currentCount": 2,
+        "institutions": [
+          "L",
+          14
+        ],
+        "Human_remains_group_id": [
+          "L",
+          76
+        ]
+      }
+    },
+    {
+      "id": 67,
+      "fields": {
+        "original_detail": "java",
+        "original_group": "Java",
+        "ancestry": 21,
+        "region": 30,
+        "country": 21,
+        "original_detail_category": [
+          "L",
+          "region"
+        ],
+        "original_group_category": [
+          "L",
+          "region"
+        ],
+        "continent": [
+          "L",
+          3
+        ],
+        "check_id": 67,
+        "longitude": 109.9633934539286,
+        "latitude": -7.337809240854551,
+        "origin_category": "region",
+        "original_reference": "java",
+        "currentCount": 2,
+        "institutions": [
+          "L",
+          14
+        ],
+        "Human_remains_group_id": [
+          "L",
+          77
+        ]
+      }
+    },
+    {
+      "id": 68,
+      "fields": {
+        "original_detail": "sulawesi",
+        "original_group": "Sulawesi",
+        "ancestry": 34,
+        "region": 27,
+        "country": 21,
+        "original_detail_category": [
+          "L",
+          "region",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "ancestry"
+        ],
+        "continent": [
+          "L",
+          3
+        ],
+        "check_id": 68,
+        "longitude": 114.6208821,
+        "latitude": 4.50588326,
+        "origin_category": "ancestry",
+        "original_reference": "sulawesi",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          14
+        ],
+        "Human_remains_group_id": [
+          "L",
+          78
+        ]
+      }
+    },
+    {
+      "id": 69,
+      "fields": {
+        "original_detail": "viti_levu",
+        "original_group": "Viti Levu",
+        "ancestry": 38,
+        "region": 28,
+        "country": 30,
+        "original_detail_category": [
+          "L",
+          "region"
+        ],
+        "original_group_category": [
+          "L",
+          "region"
+        ],
+        "continent": [
+          "L",
+          5
+        ],
+        "check_id": 69,
+        "longitude": 177.97550923,
+        "latitude": -17.8017413,
+        "origin_category": "ancestry",
+        "original_reference": "viti_levu",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          14
+        ],
+        "Human_remains_group_id": [
+          "L",
+          79
+        ]
+      }
+    },
+    {
+      "id": 70,
+      "fields": {
+        "original_detail": "greenland",
+        "original_group": "Greenland",
+        "ancestry": 39,
+        "region": 3,
+        "country": 31,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          7
+        ],
+        "check_id": 70,
+        "longitude": -42.1736914,
+        "latitude": 69.6354163,
+        "origin_category": "ancestry",
+        "original_reference": "greenland",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          14
+        ],
+        "Human_remains_group_id": [
+          "L",
+          80
+        ]
+      }
+    },
+    {
+      "id": 71,
+      "fields": {
+        "original_detail": "Zulu",
+        "original_group": "Zulu",
+        "ancestry": 10,
+        "region": 74,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "region"
+        ],
+        "original_group_category": [
+          "L",
+          "region"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 71,
+        "longitude": 31.45968861,
+        "latitude": -28.31628442,
+        "origin_category": "ancestry",
+        "original_reference": "Zulu",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          14
+        ],
+        "Human_remains_group_id": [
+          "L",
+          81
+        ]
+      }
+    },
+    {
+      "id": 72,
+      "fields": {
+        "original_detail": "Malaysia",
+        "original_group": "Malaysia",
+        "ancestry": 21,
+        "region": 3,
+        "country": 32,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          3
+        ],
+        "check_id": 72,
+        "longitude": 102.134,
+        "latitude": 3.78,
+        "origin_category": "country",
+        "original_reference": "Malaysia",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          14
+        ],
+        "Human_remains_group_id": [
+          "L",
+          82
+        ]
+      }
+    },
+    {
+      "id": 73,
+      "fields": {
+        "original_detail": "Bugi",
+        "original_group": "Bugi",
+        "ancestry": 34,
+        "region": 27,
+        "country": 21,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "ancestry"
+        ],
+        "continent": [
+          "L",
+          3
+        ],
+        "check_id": 73,
+        "longitude": 114.6208821,
+        "latitude": 4.50588326,
+        "origin_category": "ancestry",
+        "original_reference": "Bugi",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          14
+        ],
+        "Human_remains_group_id": [
+          "L",
+          83
+        ]
+      }
+    },
+    {
+      "id": 74,
+      "fields": {
+        "original_detail": "Makassar",
+        "original_group": "Makassar",
+        "ancestry": 35,
+        "region": 27,
+        "country": 21,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          3
+        ],
+        "check_id": 74,
+        "longitude": 120.46327002,
+        "latitude": -5.21134454,
+        "origin_category": "ancestry",
+        "original_reference": "Makassar",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          14
+        ],
+        "Human_remains_group_id": [
+          "L",
+          84
+        ]
+      }
+    },
+    {
+      "id": 75,
+      "fields": {
+        "original_detail": "Ambon",
+        "original_group": "Ambon",
+        "ancestry": 21,
+        "region": 57,
+        "country": 21,
+        "original_detail_category": [
+          "L",
+          "region"
+        ],
+        "original_group_category": [
+          "L",
+          "region"
+        ],
+        "continent": [
+          "L",
+          3
+        ],
+        "check_id": 75,
+        "longitude": 128.18873087541292,
+        "latitude": -3.659491463463085,
+        "origin_category": "region",
+        "original_reference": "Ambon",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          14
+        ],
+        "Human_remains_group_id": [
+          "L",
+          85
+        ]
+      }
+    },
+    {
+      "id": 76,
+      "fields": {
+        "original_detail": "Madura",
+        "original_group": "Madura",
+        "ancestry": 21,
+        "region": 32,
+        "country": 21,
+        "original_detail_category": [
+          "L",
+          "region"
+        ],
+        "original_group_category": [
+          "L",
+          "region"
+        ],
+        "continent": [
+          "L",
+          3
+        ],
+        "check_id": 76,
+        "longitude": 113.30340421145624,
+        "latitude": -7.069992170850837,
+        "origin_category": "region",
+        "original_reference": "Madura",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          14
+        ],
+        "Human_remains_group_id": [
+          "L",
+          86
+        ]
+      }
+    },
+    {
+      "id": 77,
+      "fields": {
+        "original_detail": "Hindustani",
+        "original_group": "Hindustani",
+        "ancestry": 36,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "ancestry"
+        ],
+        "continent": [
+          "L",
+          3
+        ],
+        "check_id": 77,
+        "longitude": 75.89147774,
+        "latitude": 27.38847787,
+        "origin_category": "ancestry",
+        "original_reference": "Hindustani",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          14
+        ],
+        "Human_remains_group_id": [
+          "L",
+          87
+        ]
+      }
+    },
+    {
+      "id": 78,
+      "fields": {
+        "original_detail": "Eastafrica",
+        "original_group": "Eastafrica",
+        "ancestry": 21,
+        "region": 23,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "region"
+        ],
+        "original_group_category": [
+          "L",
+          "region"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 78,
+        "longitude": 30.60790261261619,
+        "latitude": -2.3752786558776964,
+        "origin_category": "region",
+        "original_reference": "Eastafrica",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          1
+        ],
+        "Human_remains_group_id": [
+          "L",
+          4
+        ]
+      }
+    },
+    {
+      "id": 79,
+      "fields": {
+        "original_detail": "Southwestafrica",
+        "original_group": "Southwestafrica",
+        "ancestry": 21,
+        "region": 24,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "region"
+        ],
+        "original_group_category": [
+          "L",
+          "region"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 79,
+        "longitude": 19.804856501467064,
+        "latitude": -28.052533912849775,
+        "origin_category": "region",
+        "original_reference": "Southwestafrica",
+        "currentCount": 100,
+        "institutions": [
+          "L",
+          1
+        ],
+        "Human_remains_group_id": [
+          "L",
+          91
+        ]
+      }
+    },
+    {
+      "id": 80,
+      "fields": {
+        "original_detail": "New Guinea",
+        "original_group": "New Guinea",
+        "ancestry": 21,
+        "region": 60,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "region"
+        ],
+        "original_group_category": [
+          "L",
+          "region"
+        ],
+        "continent": [
+          "L",
+          5
+        ],
+        "check_id": 80,
+        "longitude": 144.38005377598463,
+        "latitude": -4.530828511804014,
+        "origin_category": "region",
+        "original_reference": "New Guinea",
+        "currentCount": 40,
+        "institutions": [
+          "L",
+          1
+        ],
+        "Human_remains_group_id": [
+          "L",
+          92
+        ]
+      }
+    },
+    {
+      "id": 81,
+      "fields": {
+        "original_detail": "Namibia",
+        "original_group": "Namibia",
+        "ancestry": 21,
+        "region": 3,
+        "country": 14,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 81,
+        "longitude": 18.164513,
+        "latitude": -21.908582,
+        "origin_category": "country",
+        "original_reference": "Namibia",
+        "currentCount": 0,
+        "institutions": [
+          "L",
+          4
+        ],
+        "Human_remains_group_id": [
+          "L",
+          93
+        ]
+      }
+    },
+    {
+      "id": 82,
+      "fields": {
+        "original_detail": "paraguay",
+        "original_group": "paraguay",
+        "ancestry": 21,
+        "region": 3,
+        "country": 25,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          6
+        ],
+        "check_id": 82,
+        "longitude": -58.087,
+        "latitude": -23.896,
+        "origin_category": "country",
+        "original_reference": "paraguay",
+        "currentCount": 0,
+        "institutions": [
+          "L",
+          4
+        ],
+        "Human_remains_group_id": [
+          "L",
+          94
+        ]
+      }
+    },
+    {
+      "id": 83,
+      "fields": {
+        "original_detail": "Japan",
+        "original_group": "Japan",
+        "ancestry": 21,
+        "region": 3,
+        "country": 24,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          3
+        ],
+        "check_id": 83,
+        "longitude": 139.02,
+        "latitude": 36.138,
+        "origin_category": "country",
+        "original_reference": "Japan",
+        "currentCount": 0,
+        "institutions": [
+          "L",
+          3
+        ],
+        "Human_remains_group_id": [
+          "L",
+          98
+        ]
+      }
+    },
+    {
+      "id": 84,
+      "fields": {
+        "original_detail": "Sepik River",
+        "original_group": "Sepik River",
+        "ancestry": 21,
+        "region": 15,
+        "country": 23,
+        "original_detail_category": [
+          "L",
+          "region"
+        ],
+        "original_group_category": [
+          "L",
+          "region"
+        ],
+        "continent": [
+          "L",
+          5
+        ],
+        "check_id": 84,
+        "longitude": 142.92083931512778,
+        "latitude": -4.127752308018803,
+        "origin_category": "region",
+        "original_reference": "Sepik River",
+        "currentCount": 8,
+        "institutions": [
+          "L",
+          15
+        ],
+        "Human_remains_group_id": [
+          "L",
+          101
+        ]
+      }
+    },
+    {
+      "id": 85,
+      "fields": {
+        "original_detail": "Nama",
+        "original_group": "Nama",
+        "ancestry": 28,
+        "region": 74,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "ancestry"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 85,
+        "longitude": 18.13258851,
+        "latitude": -26.56307108,
+        "origin_category": "ancestry",
+        "original_reference": "Nama",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          15
+        ],
+        "Human_remains_group_id": [
+          "L",
+          102
+        ]
+      }
+    },
+    {
+      "id": 86,
+      "fields": {
+        "original_detail": "Qingdao",
+        "original_group": "Qingdao",
+        "ancestry": 21,
+        "region": 85,
+        "country": 19,
+        "original_detail_category": [
+          "L",
+          "region"
+        ],
+        "original_group_category": [
+          "L",
+          "region"
+        ],
+        "continent": [
+          "L",
+          3
+        ],
+        "check_id": 86,
+        "longitude": 120.38323395162689,
+        "latitude": 36.07203854442552,
+        "origin_category": "region",
+        "original_reference": "Qingdao",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          16
+        ],
+        "Human_remains_group_id": [
+          "L",
+          104
+        ]
+      }
+    },
+    {
+      "id": 87,
+      "fields": {
+        "original_detail": "Peru",
+        "original_group": "Peru",
+        "ancestry": 21,
+        "region": 3,
+        "country": 35,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          6
+        ],
+        "check_id": 87,
+        "longitude": -75.4892233716147,
+        "latitude": -10.455855506800578,
+        "origin_category": "country",
+        "original_reference": "Peru",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          16
+        ],
+        "Human_remains_group_id": [
+          "L",
+          105
+        ]
+      }
+    },
+    {
+      "id": 88,
+      "fields": {
+        "original_detail": "Australia",
+        "original_group": "Australia",
+        "ancestry": 21,
+        "region": 3,
+        "country": 20,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          5
+        ],
+        "check_id": 88,
+        "longitude": 134.022772,
+        "latitude": -25.697338,
+        "origin_category": "country",
+        "original_reference": "Australia",
+        "currentCount": 2,
+        "institutions": [
+          "L",
+          16
+        ],
+        "Human_remains_group_id": [
+          "L",
+          106
+        ]
+      }
+    },
+    {
+      "id": 89,
+      "fields": {
+        "original_detail": "Egypt",
+        "original_group": "Egypt",
+        "ancestry": 21,
+        "region": 3,
+        "country": 36,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 89,
+        "longitude": 29.5456353686017,
+        "latitude": 26.695683407691643,
+        "origin_category": "country",
+        "original_reference": "Egypt",
+        "currentCount": 3,
+        "institutions": [
+          "L",
+          16
+        ],
+        "Human_remains_group_id": [
+          "L",
+          107
+        ]
+      }
+    },
+    {
+      "id": 90,
+      "fields": {
+        "original_detail": "Java",
+        "original_group": "Java",
+        "ancestry": 21,
+        "region": 30,
+        "country": 21,
+        "original_detail_category": [
+          "L",
+          "region"
+        ],
+        "original_group_category": [
+          "L",
+          "region"
+        ],
+        "continent": [
+          "L",
+          3
+        ],
+        "check_id": 90,
+        "longitude": 109.9633934539286,
+        "latitude": -7.337809240854551,
+        "origin_category": "region",
+        "original_reference": "Java",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          16
+        ],
+        "Human_remains_group_id": [
+          "L",
+          108
+        ]
+      }
+    },
+    {
+      "id": 91,
+      "fields": {
+        "original_detail": "Ahmadabad",
+        "original_group": "Ahmadabad",
+        "ancestry": 21,
+        "region": 86,
+        "country": 37,
+        "original_detail_category": [
+          "L",
+          "region"
+        ],
+        "original_group_category": [
+          "L",
+          "region"
+        ],
+        "continent": [
+          "L",
+          3
+        ],
+        "check_id": 91,
+        "longitude": 72.57699786138986,
+        "latitude": 23.02323574319994,
+        "origin_category": "region",
+        "original_reference": "Ahmadabad",
+        "currentCount": 2,
+        "institutions": [
+          "L",
+          16
+        ],
+        "Human_remains_group_id": [
+          "L",
+          109
+        ]
+      }
+    },
+    {
+      "id": 92,
+      "fields": {
+        "original_detail": "Papua New Guinea",
+        "original_group": "Papua New Guinea",
+        "ancestry": 21,
+        "region": 3,
+        "country": 23,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          5
+        ],
+        "check_id": 92,
+        "longitude": 147.21,
+        "latitude": -9.26,
+        "origin_category": "country",
+        "original_reference": "Papua New Guinea",
+        "currentCount": 11,
+        "institutions": [
+          "L",
+          16
+        ],
+        "Human_remains_group_id": [
+          "L",
+          110
+        ]
+      }
+    },
+    {
+      "id": 93,
+      "fields": {
+        "original_detail": "Vanuatu",
+        "original_group": "Vanuatu",
+        "ancestry": 21,
+        "region": 3,
+        "country": 38,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          5
+        ],
+        "check_id": 93,
+        "longitude": 166.87281933187825,
+        "latitude": -15.207112473043772,
+        "origin_category": "country",
+        "original_reference": "Vanuatu",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          16
+        ],
+        "Human_remains_group_id": [
+          "L",
+          111
+        ]
+      }
+    },
+    {
+      "id": 94,
+      "fields": {
+        "original_detail": "Borneo",
+        "original_group": "Borneo",
+        "ancestry": 21,
+        "region": 14,
+        "country": 23,
+        "original_detail_category": [
+          "L",
+          "region"
+        ],
+        "original_group_category": [
+          "L",
+          "region"
+        ],
+        "continent": [
+          "L",
+          3
+        ],
+        "check_id": 94,
+        "longitude": 113.69838605671005,
+        "latitude": 1.0877635358881501,
+        "origin_category": "region",
+        "original_reference": "Borneo",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          16
+        ],
+        "Human_remains_group_id": [
+          "L",
+          112
+        ]
+      }
+    },
+    {
+      "id": 95,
+      "fields": {
+        "original_detail": "Amdamanen",
+        "original_group": "Amdamanen",
+        "ancestry": 21,
+        "region": 88,
+        "country": 37,
+        "original_detail_category": [
+          "L",
+          "region"
+        ],
+        "original_group_category": [
+          "L",
+          "region"
+        ],
+        "continent": [
+          "L",
+          3
+        ],
+        "check_id": 95,
+        "longitude": 92.7878739255,
+        "latitude": 12.523856602114208,
+        "origin_category": "region",
+        "original_reference": "Amdamanen",
+        "currentCount": 3,
+        "institutions": [
+          "L",
+          16
+        ],
+        "Human_remains_group_id": [
+          "L",
+          113
+        ]
+      }
+    },
+    {
+      "id": 96,
+      "fields": {
+        "original_detail": "Tanzania",
+        "original_group": "Tanzania",
+        "ancestry": 21,
+        "region": 3,
+        "country": 1,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 96,
+        "longitude": 34.818322,
+        "latitude": -6.355794,
+        "origin_category": "country",
+        "original_reference": "Tanzania",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          16
+        ],
+        "Human_remains_group_id": [
+          "L",
+          114
+        ]
+      }
+    },
+    {
+      "id": 97,
+      "fields": {
+        "original_detail": "Botswana",
+        "original_group": "Botswana",
+        "ancestry": 21,
+        "region": 3,
+        "country": 39,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 97,
+        "longitude": 24.032277654034083,
+        "latitude": -22.211637472685844,
+        "origin_category": "country",
+        "original_reference": "Botswana",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          16
+        ],
+        "Human_remains_group_id": [
+          "L",
+          115
+        ]
+      }
+    },
+    {
+      "id": 98,
+      "fields": {
+        "original_detail": "French Polynesia",
+        "original_group": "French Polynesia",
+        "ancestry": 21,
+        "region": 3,
+        "country": 40,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          5
+        ],
+        "check_id": 98,
+        "longitude": -149.4509413429868,
+        "latitude": -17.659289021082703,
+        "origin_category": "country",
+        "original_reference": "French Polynesia",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          16
+        ],
+        "Human_remains_group_id": [
+          "L",
+          117
+        ]
+      }
+    },
+    {
+      "id": 99,
+      "fields": {
+        "original_detail": "Inka",
+        "original_group": "Inka",
+        "ancestry": 41,
+        "region": 3,
+        "country": 35,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "ancestry"
+        ],
+        "continent": [
+          "L",
+          6
+        ],
+        "check_id": 99,
+        "longitude": -61.51873222725019,
+        "latitude": -8.19683014174719,
+        "origin_category": "ancestry",
+        "original_reference": "Inka",
+        "currentCount": 18,
+        "institutions": [
+          "L",
+          16
+        ],
+        "Human_remains_group_id": [
+          "L",
+          118
+        ]
+      }
+    },
+    {
+      "id": 100,
+      "fields": {
+        "original_detail": "Chincas",
+        "original_group": "Chincas",
+        "ancestry": 42,
+        "region": 3,
+        "country": 35,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "ancestry"
+        ],
+        "continent": [
+          "L",
+          6
+        ],
+        "check_id": 100,
+        "longitude": -61.51873222725019,
+        "latitude": -8.19683014174719,
+        "origin_category": "ancestry",
+        "original_reference": "Chincas",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          16
+        ],
+        "Human_remains_group_id": [
+          "L",
+          119
+        ]
+      }
+    },
+    {
+      "id": 101,
+      "fields": {
+        "original_detail": "Colon",
+        "original_group": "Colon",
+        "ancestry": 21,
+        "region": 89,
+        "country": 41,
+        "original_detail_category": [
+          "L",
+          "region"
+        ],
+        "original_group_category": [
+          "L",
+          "region"
+        ],
+        "continent": [
+          "L",
+          6
+        ],
+        "check_id": 101,
+        "longitude": -79.89658654266012,
+        "latitude": 9.361092082918413,
+        "origin_category": "region",
+        "original_reference": "Colon",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          16
+        ],
+        "Human_remains_group_id": [
+          "L",
+          120
+        ]
+      }
+    },
+    {
+      "id": 102,
+      "fields": {
+        "original_detail": "Chile",
+        "original_group": "Chile",
+        "ancestry": 21,
+        "region": 3,
+        "country": 42,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          6
+        ],
+        "check_id": 102,
+        "longitude": -70.11036623064528,
+        "latitude": -26.62754639328036,
+        "origin_category": "country",
+        "original_reference": "Chile",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          16
+        ],
+        "Human_remains_group_id": [
+          "L",
+          121
+        ]
+      }
+    },
+    {
+      "id": 103,
+      "fields": {
+        "original_detail": "Greenland",
+        "original_group": "Greenland",
+        "ancestry": 21,
+        "region": 3,
+        "country": 31,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          7
+        ],
+        "check_id": 103,
+        "longitude": -42.252,
+        "latitude": 71.788,
+        "origin_category": "country",
+        "original_reference": "Greenland",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          16
+        ],
+        "Human_remains_group_id": [
+          "L",
+          122
+        ]
+      }
+    },
+    {
+      "id": 104,
+      "fields": {
+        "original_detail": "Maasai",
+        "original_group": "Maasai",
+        "ancestry": 4,
+        "region": 3,
+        "country": 3,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "ancestry"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 104,
+        "longitude": 36.764372,
+        "latitude": -2.58588087,
+        "origin_category": "ancestry",
+        "original_reference": "Maasai",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          16
+        ],
+        "Human_remains_group_id": [
+          "L",
+          116
+        ]
+      }
+    },
+    {
+      "id": 105,
+      "fields": {
+        "original_detail": "Oceania",
+        "original_group": "Oceania",
+        "ancestry": 21,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "unknown"
+        ],
+        "original_group_category": [
+          "L",
+          "unknown"
+        ],
+        "continent": [
+          "L",
+          5
+        ],
+        "check_id": 105,
+        "longitude": 128.2188155426399,
+        "latitude": -4.827784594522241,
+        "origin_category": "continent",
+        "original_reference": "Oceania",
+        "currentCount": 222,
+        "institutions": [
+          "L",
+          1
+        ],
+        "Human_remains_group_id": [
+          "L",
+          123
+        ]
+      }
+    },
+    {
+      "id": 106,
+      "fields": {
+        "original_detail": "North America",
+        "original_group": "North America",
+        "ancestry": 21,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "unknown"
+        ],
+        "original_group_category": [
+          "L",
+          "unknown"
+        ],
+        "continent": [
+          "L",
+          7
+        ],
+        "check_id": 106,
+        "longitude": -104.42544904987916,
+        "latitude": 50.26487079067549,
+        "origin_category": "continent",
+        "original_reference": "North America",
+        "currentCount": 121,
+        "institutions": [
+          "L",
+          1
+        ],
+        "Human_remains_group_id": [
+          "L",
+          124
+        ]
+      }
+    },
+    {
+      "id": 107,
+      "fields": {
+        "original_detail": "Asia",
+        "original_group": "Asia",
+        "ancestry": 21,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "unknown"
+        ],
+        "original_group_category": [
+          "L",
+          "unknown"
+        ],
+        "continent": [
+          "L",
+          3
+        ],
+        "check_id": 107,
+        "longitude": 92.80956884880557,
+        "latitude": 47.017211166540655,
+        "origin_category": "continent",
+        "original_reference": "Asia",
+        "currentCount": 446,
+        "institutions": [
+          "L",
+          1
+        ],
+        "Human_remains_group_id": [
+          "L",
+          125
+        ]
+      }
+    },
+    {
+      "id": 108,
+      "fields": {
+        "original_detail": "South America",
+        "original_group": "South America",
+        "ancestry": 21,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "unknown"
+        ],
+        "original_group_category": [
+          "L",
+          "unknown"
+        ],
+        "continent": [
+          "L",
+          6
+        ],
+        "check_id": 108,
+        "longitude": -61.51873222725019,
+        "latitude": -8.19683014174719,
+        "origin_category": "continent",
+        "original_reference": "South America",
+        "currentCount": 710,
+        "institutions": [
+          "L",
+          1
+        ],
+        "Human_remains_group_id": [
+          "L",
+          126
+        ]
+      }
+    },
+    {
+      "id": 109,
+      "fields": {
+        "original_detail": "unknown",
+        "original_group": "unknown",
+        "ancestry": 21,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "unknown"
+        ],
+        "original_group_category": [
+          "L",
+          "unknown"
+        ],
+        "continent": [
+          "L",
+          8
+        ],
+        "check_id": 109,
+        "longitude": 0,
+        "latitude": 0,
+        "origin_category": "unknown",
+        "original_reference": "unknown",
+        "currentCount": 969,
+        "institutions": [
+          "L",
+          1
+        ],
+        "Human_remains_group_id": [
+          "L",
+          127
+        ]
+      }
+    },
+    {
+      "id": 110,
+      "fields": {
+        "original_detail": "Ghana",
+        "original_group": "Ghana",
+        "ancestry": 21,
+        "region": 3,
+        "country": 47,
+        "original_detail_category": [
+          "L",
+          "unknown"
+        ],
+        "original_group_category": [
+          "L",
+          "unknown"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 110,
+        "longitude": -1.2617505084943887,
+        "latitude": 8.009116695186906,
+        "origin_category": "country",
+        "original_reference": "Ghana",
+        "currentCount": 19,
+        "institutions": [
+          "L",
+          1
+        ],
+        "Human_remains_group_id": [
+          "L",
+          128
+        ]
+      }
+    },
+    {
+      "id": 111,
+      "fields": {
+        "original_detail": "Nigeria",
+        "original_group": "Nigeria",
+        "ancestry": 21,
+        "region": 3,
+        "country": 48,
+        "original_detail_category": [
+          "L",
+          "unknown"
+        ],
+        "original_group_category": [
+          "L",
+          "unknown"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 111,
+        "longitude": 8.397013009920489,
+        "latitude": 9.614804786954124,
+        "origin_category": "country",
+        "original_reference": "Nigeria",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          1
+        ],
+        "Human_remains_group_id": [
+          "L",
+          129
+        ]
+      }
+    },
+    {
+      "id": 112,
+      "fields": {
+        "original_detail": "Africa",
+        "original_group": "Africa",
+        "ancestry": 21,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "unknown"
+        ],
+        "original_group_category": [
+          "L",
+          "unknown"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 112,
+        "longitude": 16.162174978577365,
+        "latitude": 18.124569746225802,
+        "origin_category": "continent",
+        "original_reference": "Africa",
+        "currentCount": 369,
+        "institutions": [
+          "L",
+          1
+        ],
+        "Human_remains_group_id": [
+          "L",
+          130
+        ]
+      }
+    },
+    {
+      "id": 113,
+      "fields": {
+        "original_detail": "Cameroon",
+        "original_group": "Cameroon",
+        "ancestry": 21,
+        "region": 3,
+        "country": 4,
+        "original_detail_category": [
+          "L",
+          "unknown"
+        ],
+        "original_group_category": [
+          "L",
+          "unknown"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 113,
+        "longitude": 12.948474,
+        "latitude": 6.294168,
+        "origin_category": "country",
+        "original_reference": "Cameroon",
+        "currentCount": 3,
+        "institutions": [
+          "L",
+          16
+        ],
+        "Human_remains_group_id": [
+          "L",
+          131
+        ]
+      }
+    },
+    {
+      "id": 114,
+      "fields": {
+        "original_detail": "Aoteaora",
+        "original_group": "Aoteaora",
+        "ancestry": 32,
+        "region": 3,
+        "country": 18,
+        "original_detail_category": [
+          "L",
+          "unknown"
+        ],
+        "original_group_category": [
+          "L",
+          "unknown"
+        ],
+        "continent": [
+          "L",
+          5
+        ],
+        "check_id": 114,
+        "longitude": 172.24768689863598,
+        "latitude": -42.63364565969775,
+        "origin_category": "ancestry",
+        "original_reference": "Aoteaora",
+        "currentCount": 0,
+        "institutions": [
+          "L",
+          4
+        ],
+        "Human_remains_group_id": [
+          "L",
+          96
+        ]
+      }
+    },
+    {
+      "id": 115,
+      "fields": {
+        "original_detail": "Australia",
+        "original_group": "Australia",
+        "ancestry": 21,
+        "region": 3,
+        "country": 20,
+        "original_detail_category": [
+          "L",
+          "unknown"
+        ],
+        "original_group_category": [
+          "L",
+          "unknown"
+        ],
+        "continent": [
+          "L",
+          5
+        ],
+        "check_id": 115,
+        "longitude": 134.022772,
+        "latitude": -25.697338,
+        "origin_category": "country",
+        "original_reference": "Australia",
+        "currentCount": 3,
+        "institutions": [
+          "L",
+          17
+        ],
+        "Human_remains_group_id": [
+          "L",
+          132
+        ]
+      }
+    },
+    {
+      "id": 116,
+      "fields": {
+        "original_detail": "Papua New Guinea",
+        "original_group": "Papua New Guinea",
+        "ancestry": 21,
+        "region": 3,
+        "country": 23,
+        "original_detail_category": [
+          "L",
+          "unknown"
+        ],
+        "original_group_category": [
+          "L",
+          "unknown"
+        ],
+        "continent": [
+          "L",
+          5
+        ],
+        "check_id": 116,
+        "longitude": 147.21,
+        "latitude": -9.26,
+        "origin_category": "country",
+        "original_reference": "Papua New Guinea",
+        "currentCount": 2,
+        "institutions": [
+          "L",
+          17
+        ],
+        "Human_remains_group_id": [
+          "L",
+          133
+        ]
+      }
+    },
+    {
+      "id": 117,
+      "fields": {
+        "original_detail": "Brazil",
+        "original_group": "Brazil",
+        "ancestry": 21,
+        "region": 3,
+        "country": 50,
+        "original_detail_category": [
+          "L",
+          "unknown"
+        ],
+        "original_group_category": [
+          "L",
+          "unknown"
+        ],
+        "continent": [
+          "L",
+          6
+        ],
+        "check_id": 117,
+        "longitude": -55.76253892942066,
+        "latitude": -8.075008419153662,
+        "origin_category": "country",
+        "original_reference": "Brazil",
+        "currentCount": 4,
+        "institutions": [
+          "L",
+          17
+        ],
+        "Human_remains_group_id": [
+          "L",
+          134
+        ]
+      }
+    },
+    {
+      "id": 118,
+      "fields": {
+        "original_detail": "Sudan",
+        "original_group": "Sudan",
+        "ancestry": 21,
+        "region": 3,
+        "country": 51,
+        "original_detail_category": [
+          "L",
+          "unknown"
+        ],
+        "original_group_category": [
+          "L",
+          "unknown"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 118,
+        "longitude": 30.23192976999008,
+        "latitude": 16.434576121666346,
+        "origin_category": "country",
+        "original_reference": "Sudan",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          17
+        ],
+        "Human_remains_group_id": [
+          "L",
+          135
+        ]
+      }
+    },
+    {
+      "id": 119,
+      "fields": {
+        "original_detail": "China",
+        "original_group": "China",
+        "ancestry": 21,
+        "region": 3,
+        "country": 19,
+        "original_detail_category": [
+          "L",
+          "unknown"
+        ],
+        "original_group_category": [
+          "L",
+          "unknown"
+        ],
+        "continent": [
+          "L",
+          3
+        ],
+        "check_id": 119,
+        "longitude": 104.691139,
+        "latitude": 38.073255,
+        "origin_category": "country",
+        "original_reference": "China",
+        "currentCount": 2,
+        "institutions": [
+          "L",
+          17
+        ],
+        "Human_remains_group_id": [
+          "L",
+          136
+        ]
+      }
+    },
+    {
+      "id": 120,
+      "fields": {
+        "original_detail": "India",
+        "original_group": "India",
+        "ancestry": 21,
+        "region": 3,
+        "country": 37,
+        "original_detail_category": [
+          "L",
+          "unknown"
+        ],
+        "original_group_category": [
+          "L",
+          "unknown"
+        ],
+        "continent": [
+          "L",
+          3
+        ],
+        "check_id": 120,
+        "longitude": 79.417825132978,
+        "latitude": 22.89249592536483,
+        "origin_category": "country",
+        "original_reference": "India",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          17
+        ],
+        "Human_remains_group_id": [
+          "L",
+          137
+        ]
+      }
+    },
+    {
+      "id": 121,
+      "fields": {
+        "original_detail": "Indonesia",
+        "original_group": "Indonesia",
+        "ancestry": 21,
+        "region": 3,
+        "country": 21,
+        "original_detail_category": [
+          "L",
+          "unknown"
+        ],
+        "original_group_category": [
+          "L",
+          "unknown"
+        ],
+        "continent": [
+          "L",
+          3
+        ],
+        "check_id": 121,
+        "longitude": 106.77,
+        "latitude": -6.18,
+        "origin_category": "country",
+        "original_reference": "Indonesia",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          17
+        ],
+        "Human_remains_group_id": [
+          "L",
+          138
+        ]
+      }
+    },
+    {
+      "id": 122,
+      "fields": {
+        "original_detail": "South America",
+        "original_group": "South America",
+        "ancestry": 21,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "unknown"
+        ],
+        "original_group_category": [
+          "L",
+          "unknown"
+        ],
+        "continent": [
+          "L",
+          6
+        ],
+        "check_id": 122,
+        "longitude": -61.51873222725019,
+        "latitude": -8.19683014174719,
+        "origin_category": "continent",
+        "original_reference": "South America",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          17
+        ],
+        "Human_remains_group_id": [
+          "L",
+          139
+        ]
+      }
+    },
+    {
+      "id": 123,
+      "fields": {
+        "original_detail": "North America",
+        "original_group": "North America",
+        "ancestry": 21,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "unknown"
+        ],
+        "original_group_category": [
+          "L",
+          "unknown"
+        ],
+        "continent": [
+          "L",
+          7
+        ],
+        "check_id": 123,
+        "longitude": -104.42544904987916,
+        "latitude": 50.26487079067549,
+        "origin_category": "continent",
+        "original_reference": "North America",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          17
+        ],
+        "Human_remains_group_id": [
+          "L",
+          140
+        ]
+      }
+    },
+    {
+      "id": 124,
+      "fields": {
+        "original_detail": "Africa",
+        "original_group": "Africa",
+        "ancestry": 21,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "unknown"
+        ],
+        "original_group_category": [
+          "L",
+          "unknown"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 124,
+        "longitude": 16.162174978577365,
+        "latitude": 18.124569746225802,
+        "origin_category": "continent",
+        "original_reference": "Africa",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          17
+        ],
+        "Human_remains_group_id": [
+          "L",
+          141
+        ]
+      }
+    },
+    {
+      "id": 125,
+      "fields": {
+        "original_detail": "Maasai",
+        "original_group": "Maasai",
+        "ancestry": 4,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "ancestry"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 125,
+        "longitude": 36.764372,
+        "latitude": -2.58588087,
+        "origin_category": "ancestry",
+        "original_reference": "Maasai",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          18
+        ],
+        "Human_remains_group_id": [
+          "L",
+          142
+        ]
+      }
+    },
+    {
+      "id": 126,
+      "fields": {
+        "original_detail": "Zulu",
+        "original_group": "Zulu",
+        "ancestry": 10,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "ancestry"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 126,
+        "longitude": 31.45968861,
+        "latitude": -28.31628442,
+        "origin_category": "ancestry",
+        "original_reference": "Zulu",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          18
+        ],
+        "Human_remains_group_id": [
+          "L",
+          143
+        ]
+      }
+    },
+    {
+      "id": 127,
+      "fields": {
+        "original_detail": "Dschagga",
+        "original_group": "Dschagga",
+        "ancestry": 43,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "ancestry"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 127,
+        "longitude": 37.40739896,
+        "latitude": -3.314529429,
+        "origin_category": "ancestry",
+        "original_reference": "Dschagga",
+        "currentCount": 30,
+        "institutions": [
+          "L",
+          18
+        ],
+        "Human_remains_group_id": [
+          "L",
+          144
+        ]
+      }
+    },
+    {
+      "id": 128,
+      "fields": {
+        "original_detail": "Nyamwesi",
+        "original_group": "Nyamwesi",
+        "ancestry": 44,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "ancestry"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 128,
+        "longitude": 32.82663,
+        "latitude": -5.01622,
+        "origin_category": "ancestry",
+        "original_reference": "Nyamwesi",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          18
+        ],
+        "Human_remains_group_id": [
+          "L",
+          145
+        ]
+      }
+    },
+    {
+      "id": 129,
+      "fields": {
+        "original_detail": "Bangwa",
+        "original_group": "Bangwa",
+        "ancestry": 45,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "ancestry"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 129,
+        "longitude": 9.85276792,
+        "latitude": 5.478500903,
+        "origin_category": "ancestry",
+        "original_reference": "Bangwa",
+        "currentCount": 12,
+        "institutions": [
+          "L",
+          18
+        ],
+        "Human_remains_group_id": [
+          "L",
+          146
+        ]
+      }
+    },
+    {
+      "id": 130,
+      "fields": {
+        "original_detail": "Bamenda",
+        "original_group": "Bamenda",
+        "ancestry": 46,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "ancestry"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 130,
+        "longitude": 10.15725773,
+        "latitude": 5.962976544,
+        "origin_category": "ancestry",
+        "original_reference": "Bamenda",
+        "currentCount": 9,
+        "institutions": [
+          "L",
+          18
+        ],
+        "Human_remains_group_id": [
+          "L",
+          147
+        ]
+      }
+    },
+    {
+      "id": 131,
+      "fields": {
+        "original_detail": "Cross River",
+        "original_group": "Cross River",
+        "ancestry": 47,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "ancestry"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 131,
+        "longitude": 8.981806009,
+        "latitude": 5.883961566,
+        "origin_category": "ancestry",
+        "original_reference": "Cross River",
+        "currentCount": 10,
+        "institutions": [
+          "L",
+          18
+        ],
+        "Human_remains_group_id": [
+          "L",
+          148
+        ]
+      }
+    },
+    {
+      "id": 132,
+      "fields": {
+        "original_detail": "Batscha",
+        "original_group": "Batscha",
+        "ancestry": 48,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "ancestry"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 132,
+        "longitude": 10.3508,
+        "latitude": 5.1059,
+        "origin_category": "ancestry",
+        "original_reference": "Batscha",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          18
+        ],
+        "Human_remains_group_id": [
+          "L",
+          149
+        ]
+      }
+    },
+    {
+      "id": 133,
+      "fields": {
+        "original_detail": "Bali",
+        "original_group": "Bali",
+        "ancestry": 49,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "ancestry"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 133,
+        "longitude": 10.0061,
+        "latitude": 5.8747,
+        "origin_category": "ancestry",
+        "original_reference": "Bali",
+        "currentCount": 2,
+        "institutions": [
+          "L",
+          18
+        ],
+        "Human_remains_group_id": [
+          "L",
+          150
+        ]
+      }
+    },
+    {
+      "id": 134,
+      "fields": {
+        "original_detail": "Babadju",
+        "original_group": "Babadju",
+        "ancestry": 50,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "ancestry"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 134,
+        "longitude": 10.162,
+        "latitude": 5.6783,
+        "origin_category": "ancestry",
+        "original_reference": "Babadju",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          18
+        ],
+        "Human_remains_group_id": [
+          "L",
+          151
+        ]
+      }
+    },
+    {
+      "id": 135,
+      "fields": {
+        "original_detail": "Mamfe",
+        "original_group": "Mamfe",
+        "ancestry": 51,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "ancestry"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 135,
+        "longitude": 9.3733,
+        "latitude": 5.6482,
+        "origin_category": "ancestry",
+        "original_reference": "Mamfe",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          18
+        ],
+        "Human_remains_group_id": [
+          "L",
+          152
+        ]
+      }
+    },
+    {
+      "id": 136,
+      "fields": {
+        "original_detail": "Bakumba",
+        "original_group": "Bakumba",
+        "ancestry": 52,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "ancestry"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 136,
+        "longitude": 9.141,
+        "latitude": 6.015,
+        "origin_category": "ancestry",
+        "original_reference": "Bakumba",
+        "currentCount": 6,
+        "institutions": [
+          "L",
+          18
+        ],
+        "Human_remains_group_id": [
+          "L",
+          153
+        ]
+      }
+    },
+    {
+      "id": 137,
+      "fields": {
+        "original_detail": "Bugi",
+        "original_group": "Bugi",
+        "ancestry": 62,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "ancestry"
+        ],
+        "continent": [
+          "L",
+          3
+        ],
+        "check_id": 137,
+        "longitude": 119.49113213,
+        "latitude": -3.98193383,
+        "origin_category": "ancestry",
+        "original_reference": "Bugi",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          14
+        ],
+        "Human_remains_group_id": [
+          "L",
+          154
+        ]
+      }
+    },
+    {
+      "id": 138,
+      "fields": {
+        "original_detail": "Bafut",
+        "original_group": "Bafut",
+        "ancestry": 53,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "ancestry"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 138,
+        "longitude": 10.0659,
+        "latitude": 6.1655,
+        "origin_category": "ancestry",
+        "original_reference": "Bafut",
+        "currentCount": 11,
+        "institutions": [
+          "L",
+          18
+        ],
+        "Human_remains_group_id": [
+          "L",
+          155
+        ]
+      }
+    },
+    {
+      "id": 139,
+      "fields": {
+        "original_detail": "Balikumbat",
+        "original_group": "Balikumbat",
+        "ancestry": 54,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "ancestry"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 139,
+        "longitude": 10.113,
+        "latitude": 5.624,
+        "origin_category": "ancestry",
+        "original_reference": "Balikumbat",
+        "currentCount": 2,
+        "institutions": [
+          "L",
+          18
+        ],
+        "Human_remains_group_id": [
+          "L",
+          156
+        ]
+      }
+    },
+    {
+      "id": 140,
+      "fields": {
+        "original_detail": "Bamum",
+        "original_group": "Bamum",
+        "ancestry": 55,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "ancestry"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 140,
+        "longitude": 10.869,
+        "latitude": 5.7187,
+        "origin_category": "ancestry",
+        "original_reference": "Bamum",
+        "currentCount": 2,
+        "institutions": [
+          "L",
+          18
+        ],
+        "Human_remains_group_id": [
+          "L",
+          157
+        ]
+      }
+    },
+    {
+      "id": 141,
+      "fields": {
+        "original_detail": "Suaheli",
+        "original_group": "Suaheli",
+        "ancestry": 56,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "ancestry"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 141,
+        "longitude": 39.66866757,
+        "latitude": -4.0444275,
+        "origin_category": "ancestry",
+        "original_reference": "Suaheli",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          18
+        ],
+        "Human_remains_group_id": [
+          "L",
+          158
+        ]
+      }
+    },
+    {
+      "id": 142,
+      "fields": {
+        "original_detail": "Mindeh",
+        "original_group": "Mindeh",
+        "ancestry": 57,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "ancestry"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 142,
+        "longitude": -12.574,
+        "latitude": 8.383,
+        "origin_category": "ancestry",
+        "original_reference": "Mindeh",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          18
+        ],
+        "Human_remains_group_id": [
+          "L",
+          159
+        ]
+      }
+    },
+    {
+      "id": 143,
+      "fields": {
+        "original_detail": "Loango",
+        "original_group": "Loango",
+        "ancestry": 58,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "ancestry"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 143,
+        "longitude": 11.8115,
+        "latitude": -4.6562,
+        "origin_category": "ancestry",
+        "original_reference": "Loango",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          18
+        ],
+        "Human_remains_group_id": [
+          "L",
+          160
+        ]
+      }
+    },
+    {
+      "id": 144,
+      "fields": {
+        "original_detail": "Bakundu",
+        "original_group": "Bakundu",
+        "ancestry": 59,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "ancestry"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 144,
+        "longitude": 9.4826,
+        "latitude": 4.2999,
+        "origin_category": "ancestry",
+        "original_reference": "Bakundu",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          18
+        ],
+        "Human_remains_group_id": [
+          "L",
+          161
+        ]
+      }
+    },
+    {
+      "id": 145,
+      "fields": {
+        "original_detail": "Ovaherero",
+        "original_group": "Ovaherero",
+        "ancestry": 27,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "ancestry"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 145,
+        "longitude": 16.162174978577365,
+        "latitude": 18.124569746225802,
+        "origin_category": "ancestry",
+        "original_reference": "Ovaherero",
+        "currentCount": 2,
+        "institutions": [
+          "L",
+          18
+        ],
+        "Human_remains_group_id": [
+          "L",
+          162
+        ]
+      }
+    },
+    {
+      "id": 146,
+      "fields": {
+        "original_detail": "Mandingo",
+        "original_group": "Mandingo",
+        "ancestry": 61,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "ancestry"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 146,
+        "longitude": -12.0444,
+        "latitude": 8.8881,
+        "origin_category": "ancestry",
+        "original_reference": "Mandingo",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          18
+        ],
+        "Human_remains_group_id": [
+          "L",
+          163
+        ]
+      }
+    },
+    {
+      "id": 147,
+      "fields": {
+        "original_detail": "Xhosa",
+        "original_group": "Xhosa",
+        "ancestry": 9,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "ancestry"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 147,
+        "longitude": 18.4174,
+        "latitude": -33.9291,
+        "origin_category": "ancestry",
+        "original_reference": "Xhosa",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          18
+        ],
+        "Human_remains_group_id": [
+          "L",
+          164
+        ]
+      }
+    },
+    {
+      "id": 148,
+      "fields": {
+        "original_detail": "Maasai",
+        "original_group": "Maasai",
+        "ancestry": 4,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "ancestry"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 148,
+        "longitude": 36.764372,
+        "latitude": -2.58588087,
+        "origin_category": "ancestry",
+        "original_reference": "Maasai",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          18
+        ],
+        "Human_remains_group_id": [
+          "L",
+          165
+        ]
+      }
+    },
+    {
+      "id": 149,
+      "fields": {
+        "original_detail": "Zulu",
+        "original_group": "Zulu",
+        "ancestry": 10,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "ancestry"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 149,
+        "longitude": 31.45968861,
+        "latitude": -28.31628442,
+        "origin_category": "ancestry",
+        "original_reference": "Zulu",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          18
+        ],
+        "Human_remains_group_id": [
+          "L",
+          166
+        ]
+      }
+    },
+    {
+      "id": 150,
+      "fields": {
+        "original_detail": "Dendera",
+        "original_group": "Dendera",
+        "ancestry": 21,
+        "region": 91,
+        "country": 36,
+        "original_detail_category": [
+          "L",
+          "region"
+        ],
+        "original_group_category": [
+          "L",
+          "region"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 150,
+        "longitude": 32.65665223972524,
+        "latitude": 26.167948255225344,
+        "origin_category": "region",
+        "original_reference": "Dendera",
+        "currentCount": 2,
+        "institutions": [
+          "L",
+          19
+        ],
+        "Human_remains_group_id": [
+          "L",
+          167
+        ]
+      }
+    },
+    {
+      "id": 151,
+      "fields": {
+        "original_detail": "Gebel Muota",
+        "original_group": "Gebel Muota",
+        "ancestry": 21,
+        "region": 93,
+        "country": 36,
+        "original_detail_category": [
+          "L",
+          "region"
+        ],
+        "original_group_category": [
+          "L",
+          "region"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 151,
+        "longitude": 25.525371445168727,
+        "latitude": 29.211429330087388,
+        "origin_category": "region",
+        "original_reference": "Gebel Muota",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          19
+        ],
+        "Human_remains_group_id": [
+          "L",
+          168
+        ]
+      }
+    },
+    {
+      "id": 152,
+      "fields": {
+        "original_detail": "Theben",
+        "original_group": "Theben",
+        "ancestry": 21,
+        "region": 95,
+        "country": 36,
+        "original_detail_category": [
+          "L",
+          "region"
+        ],
+        "original_group_category": [
+          "L",
+          "region"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 152,
+        "longitude": 32.60223826084408,
+        "latitude": 25.733047804732145,
+        "origin_category": "region",
+        "original_reference": "Theben",
+        "currentCount": 6,
+        "institutions": [
+          "L",
+          19
+        ],
+        "Human_remains_group_id": [
+          "L",
+          169
+        ]
+      }
+    },
+    {
+      "id": 153,
+      "fields": {
+        "original_detail": "Egypt",
+        "original_group": "Egypt",
+        "ancestry": 21,
+        "region": 3,
+        "country": 36,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 153,
+        "longitude": 29.5456353686017,
+        "latitude": 26.695683407691643,
+        "origin_category": "country",
+        "original_reference": "Egypt",
+        "currentCount": 27,
+        "institutions": [
+          "L",
+          19
+        ],
+        "Human_remains_group_id": [
+          "L",
+          170
+        ]
+      }
+    },
+    {
+      "id": 154,
+      "fields": {
+        "original_detail": "Abydos",
+        "original_group": "Abydos",
+        "ancestry": 21,
+        "region": 103,
+        "country": 36,
+        "original_detail_category": [
+          "L",
+          "region"
+        ],
+        "original_group_category": [
+          "L",
+          "region"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 154,
+        "longitude": 31.921710747983866,
+        "latitude": 26.183844272955373,
+        "origin_category": "region",
+        "original_reference": "Abydos",
+        "currentCount": 3,
+        "institutions": [
+          "L",
+          19
+        ],
+        "Human_remains_group_id": [
+          "L",
+          171
+        ]
+      }
+    },
+    {
+      "id": 155,
+      "fields": {
+        "original_detail": "Gizeh",
+        "original_group": "Gizeh",
+        "ancestry": 21,
+        "region": 104,
+        "country": 36,
+        "original_detail_category": [
+          "L",
+          "region"
+        ],
+        "original_group_category": [
+          "L",
+          "region"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 155,
+        "longitude": 29.480143689898057,
+        "latitude": 29.038957167038227,
+        "origin_category": "region",
+        "original_reference": "Gizeh",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          19
+        ],
+        "Human_remains_group_id": [
+          "L",
+          172
+        ]
+      }
+    },
+    {
+      "id": 156,
+      "fields": {
+        "original_detail": "Cairo",
+        "original_group": "Cairo",
+        "ancestry": 21,
+        "region": 105,
+        "country": 36,
+        "original_detail_category": [
+          "L",
+          "region"
+        ],
+        "original_group_category": [
+          "L",
+          "region"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 156,
+        "longitude": 31.237510614102145,
+        "latitude": 30.045779263594795,
+        "origin_category": "region",
+        "original_reference": "Cairo",
+        "currentCount": 2,
+        "institutions": [
+          "L",
+          19
+        ],
+        "Human_remains_group_id": [
+          "L",
+          173
+        ]
+      }
+    },
+    {
+      "id": 157,
+      "fields": {
+        "original_detail": "Nubia",
+        "original_group": "Nubia",
+        "ancestry": 21,
+        "region": 106,
+        "country": 36,
+        "original_detail_category": [
+          "L",
+          "region"
+        ],
+        "original_group_category": [
+          "L",
+          "region"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 157,
+        "longitude": 32.87520685342657,
+        "latitude": 24.045279420637232,
+        "origin_category": "region",
+        "original_reference": "Nubia",
+        "currentCount": 5,
+        "institutions": [
+          "L",
+          19
+        ],
+        "Human_remains_group_id": [
+          "L",
+          174
+        ]
+      }
+    },
+    {
+      "id": 158,
+      "fields": {
+        "original_detail": "Wadi Halfa",
+        "original_group": "Wadi Halfa",
+        "ancestry": 21,
+        "region": 109,
+        "country": 51,
+        "original_detail_category": [
+          "L",
+          "region"
+        ],
+        "original_group_category": [
+          "L",
+          "region"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 158,
+        "longitude": 31.371896859730033,
+        "latitude": 21.800223541197976,
+        "origin_category": "region",
+        "original_reference": "Wadi Halfa",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          19
+        ],
+        "Human_remains_group_id": [
+          "L",
+          175
+        ]
+      }
+    },
+    {
+      "id": 159,
+      "fields": {
+        "original_detail": "Fazogli",
+        "original_group": "Fazogli",
+        "ancestry": 21,
+        "region": 110,
+        "country": 51,
+        "original_detail_category": [
+          "L",
+          "region"
+        ],
+        "original_group_category": [
+          "L",
+          "region"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 159,
+        "longitude": 34.97643463106578,
+        "latitude": 12.339380312651963,
+        "origin_category": "region",
+        "original_reference": "Fazogli",
+        "currentCount": 3,
+        "institutions": [
+          "L",
+          19
+        ],
+        "Human_remains_group_id": [
+          "L",
+          176
+        ]
+      }
+    },
+    {
+      "id": 160,
+      "fields": {
+        "original_detail": "East Africa",
+        "original_group": "East Africa",
+        "ancestry": 21,
+        "region": 111,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "region"
+        ],
+        "original_group_category": [
+          "L",
+          "region"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 160,
+        "longitude": 36.880491042961445,
+        "latitude": -1.8648013928554406,
+        "origin_category": "region",
+        "original_reference": "East Africa",
+        "currentCount": 3,
+        "institutions": [
+          "L",
+          19
+        ],
+        "Human_remains_group_id": [
+          "L",
+          177
+        ]
+      }
+    },
+    {
+      "id": 161,
+      "fields": {
+        "original_detail": "Darfur",
+        "original_group": "Darfur",
+        "ancestry": 21,
+        "region": 112,
+        "country": 51,
+        "original_detail_category": [
+          "L",
+          "region"
+        ],
+        "original_group_category": [
+          "L",
+          "region"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 161,
+        "longitude": 24.351751504704882,
+        "latitude": 12.897501449384421,
+        "origin_category": "region",
+        "original_reference": "Darfur",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          19
+        ],
+        "Human_remains_group_id": [
+          "L",
+          178
+        ]
+      }
+    },
+    {
+      "id": 162,
+      "fields": {
+        "original_detail": "Ghana",
+        "original_group": "Ghana",
+        "ancestry": 21,
+        "region": 3,
+        "country": 47,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 162,
+        "longitude": -1.2617505084943887,
+        "latitude": 8.009116695186906,
+        "origin_category": "country",
+        "original_reference": "Ghana",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          19
+        ],
+        "Human_remains_group_id": [
+          "L",
+          179
+        ]
+      }
+    },
+    {
+      "id": 163,
+      "fields": {
+        "original_detail": "Africa",
+        "original_group": "Africa",
+        "ancestry": 21,
+        "region": 3,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "unknown"
+        ],
+        "original_group_category": [
+          "L",
+          "unknown"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 163,
+        "longitude": 16.162174978577365,
+        "latitude": 18.124569746225802,
+        "origin_category": "continent",
+        "original_reference": "Africa",
+        "currentCount": 7,
+        "institutions": [
+          "L",
+          19
+        ],
+        "Human_remains_group_id": [
+          "L",
+          180
+        ]
+      }
+    },
+    {
+      "id": 164,
+      "fields": {
+        "original_detail": "Sudan",
+        "original_group": "Sudan",
+        "ancestry": 21,
+        "region": 3,
+        "country": 51,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 164,
+        "longitude": 30.23192976999008,
+        "latitude": 16.434576121666346,
+        "origin_category": "country",
+        "original_reference": "Sudan",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          19
+        ],
+        "Human_remains_group_id": [
+          "L",
+          181
+        ]
+      }
+    },
+    {
+      "id": 165,
+      "fields": {
+        "original_detail": "Tunis",
+        "original_group": "Tunis",
+        "ancestry": 21,
+        "region": 113,
+        "country": 52,
+        "original_detail_category": [
+          "L",
+          "region"
+        ],
+        "original_group_category": [
+          "L",
+          "region"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 165,
+        "longitude": 10.178325701147255,
+        "latitude": 36.80909442531333,
+        "origin_category": "region",
+        "original_reference": "Tunis",
+        "currentCount": 17,
+        "institutions": [
+          "L",
+          19
+        ],
+        "Human_remains_group_id": [
+          "L",
+          182
+        ]
+      }
+    },
+    {
+      "id": 166,
+      "fields": {
+        "original_detail": "South-Sudan",
+        "original_group": "South-Sudan",
+        "ancestry": 21,
+        "region": 3,
+        "country": 53,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 166,
+        "longitude": 29.869508445571324,
+        "latitude": 7.575860883171803,
+        "origin_category": "country",
+        "original_reference": "South-Sudan",
+        "currentCount": 8,
+        "institutions": [
+          "L",
+          19
+        ],
+        "Human_remains_group_id": [
+          "L",
+          183
+        ]
+      }
+    },
+    {
+      "id": 167,
+      "fields": {
+        "original_detail": "Fellah",
+        "original_group": "Fellah",
+        "ancestry": 64,
+        "region": 3,
+        "country": 36,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "ancestry"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 167,
+        "longitude": 29.61250995386261,
+        "latitude": 26.711249019754316,
+        "origin_category": "ancestry",
+        "original_reference": "Fellah",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          19
+        ],
+        "Human_remains_group_id": [
+          "L",
+          184
+        ]
+      }
+    },
+    {
+      "id": 168,
+      "fields": {
+        "original_detail": "Shakawa",
+        "original_group": "Shakawa",
+        "ancestry": 21,
+        "region": 114,
+        "country": 16,
+        "original_detail_category": [
+          "L",
+          "region"
+        ],
+        "original_group_category": [
+          "L",
+          "region"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 168,
+        "longitude": 20.90141621234489,
+        "latitude": -6.665856721198832,
+        "origin_category": "region",
+        "original_reference": "Shakawa",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          19
+        ],
+        "Human_remains_group_id": [
+          "L",
+          185
+        ]
+      }
+    },
+    {
+      "id": 169,
+      "fields": {
+        "original_detail": "Gabun",
+        "original_group": "Gabun",
+        "ancestry": 21,
+        "region": 3,
+        "country": 54,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 169,
+        "longitude": 11.761064443583331,
+        "latitude": -0.6133891379475992,
+        "origin_category": "country",
+        "original_reference": "Gabun",
+        "currentCount": 2,
+        "institutions": [
+          "L",
+          19
+        ],
+        "Human_remains_group_id": [
+          "L",
+          186
+        ]
+      }
+    },
+    {
+      "id": 170,
+      "fields": {
+        "original_detail": "Guinea",
+        "original_group": "Guinea",
+        "ancestry": 21,
+        "region": 3,
+        "country": 55,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 170,
+        "longitude": -10.968809144058538,
+        "latitude": 10.374390195511149,
+        "origin_category": "country",
+        "original_reference": "Guinea",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          19
+        ],
+        "Human_remains_group_id": [
+          "L",
+          187
+        ]
+      }
+    },
+    {
+      "id": 171,
+      "fields": {
+        "original_detail": "Makaa",
+        "original_group": "Makaa",
+        "ancestry": 63,
+        "region": 3,
+        "country": 4,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "ancestry"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 171,
+        "longitude": 12.236044048206372,
+        "latitude": 5.49239141164285,
+        "origin_category": "ancestry",
+        "original_reference": "Makaa",
+        "currentCount": 6,
+        "institutions": [
+          "L",
+          19
+        ],
+        "Human_remains_group_id": [
+          "L",
+          188
+        ]
+      }
+    },
+    {
+      "id": 172,
+      "fields": {
+        "original_detail": "Congo",
+        "original_group": "Congo",
+        "ancestry": 21,
+        "region": 3,
+        "country": 16,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 172,
+        "longitude": 14.879733,
+        "latitude": -0.729439,
+        "origin_category": "country",
+        "original_reference": "Congo",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          19
+        ],
+        "Human_remains_group_id": [
+          "L",
+          189
+        ]
+      }
+    },
+    {
+      "id": 173,
+      "fields": {
+        "original_detail": "Togo",
+        "original_group": "Togo",
+        "ancestry": 21,
+        "region": 3,
+        "country": 5,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 173,
+        "longitude": 0.899086,
+        "latitude": 8.660743,
+        "origin_category": "country",
+        "original_reference": "Togo",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          19
+        ],
+        "Human_remains_group_id": [
+          "L",
+          190
+        ]
+      }
+    },
+    {
+      "id": 174,
+      "fields": {
+        "original_detail": "Mali",
+        "original_group": "Mali",
+        "ancestry": 21,
+        "region": 3,
+        "country": 56,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 174,
+        "longitude": -1.8004173997625268,
+        "latitude": 17.785922739153094,
+        "origin_category": "country",
+        "original_reference": "Mali",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          19
+        ],
+        "Human_remains_group_id": [
+          "L",
+          191
+        ]
+      }
+    },
+    {
+      "id": 175,
+      "fields": {
+        "original_detail": "Spain",
+        "original_group": "Spain",
+        "ancestry": 21,
+        "region": 3,
+        "country": 57,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          2
+        ],
+        "check_id": 175,
+        "longitude": -3.4074038301871967,
+        "latitude": 39.696230023558975,
+        "origin_category": "country",
+        "original_reference": "Spain",
+        "currentCount": 22,
+        "institutions": [
+          "L",
+          19
+        ],
+        "Human_remains_group_id": [
+          "L",
+          192
+        ]
+      }
+    },
+    {
+      "id": 176,
+      "fields": {
+        "original_detail": "Bissagos",
+        "original_group": "Bissagos",
+        "ancestry": 21,
+        "region": 116,
+        "country": 58,
+        "original_detail_category": [
+          "L",
+          "region"
+        ],
+        "original_group_category": [
+          "L",
+          "region"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 176,
+        "longitude": -15.968396428751882,
+        "latitude": 11.357916298316121,
+        "origin_category": "region",
+        "original_reference": "Bissagos",
+        "currentCount": 2,
+        "institutions": [
+          "L",
+          19
+        ],
+        "Human_remains_group_id": [
+          "L",
+          193
+        ]
+      }
+    },
+    {
+      "id": 177,
+      "fields": {
+        "original_detail": "Southwest Africa",
+        "original_group": "Southwest Africa",
+        "ancestry": 21,
+        "region": 117,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "region"
+        ],
+        "original_group_category": [
+          "L",
+          "region"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 177,
+        "longitude": 12.292331472375917,
+        "latitude": -2.224953744247847,
+        "origin_category": "region",
+        "original_reference": "Southwest Africa",
+        "currentCount": 4,
+        "institutions": [
+          "L",
+          19
+        ],
+        "Human_remains_group_id": [
+          "L",
+          194
+        ]
+      }
+    },
+    {
+      "id": 178,
+      "fields": {
+        "original_detail": "Namibia",
+        "original_group": "Namibia",
+        "ancestry": 21,
+        "region": 3,
+        "country": 14,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 178,
+        "longitude": 18.164513,
+        "latitude": -21.908582,
+        "origin_category": "country",
+        "original_reference": "Namibia",
+        "currentCount": 0,
+        "institutions": [
+          "L",
+          19
+        ],
+        "Human_remains_group_id": [
+          "L",
+          195
+        ]
+      }
+    },
+    {
+      "id": 179,
+      "fields": {
+        "original_detail": "Cape Peninsula",
+        "original_group": "Cape Peninsula",
+        "ancestry": 21,
+        "region": 118,
+        "country": 13,
+        "original_detail_category": [
+          "L",
+          "region"
+        ],
+        "original_group_category": [
+          "L",
+          "region"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 179,
+        "longitude": 18.411802329781548,
+        "latitude": -34.22396480273133,
+        "origin_category": "region",
+        "original_reference": "Cape Peninsula",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          19
+        ],
+        "Human_remains_group_id": [
+          "L",
+          196
+        ]
+      }
+    },
+    {
+      "id": 180,
+      "fields": {
+        "original_detail": "Bari",
+        "original_group": "Bari",
+        "ancestry": 21,
+        "region": 119,
+        "country": 59,
+        "original_detail_category": [
+          "L",
+          "region"
+        ],
+        "original_group_category": [
+          "L",
+          "region"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 180,
+        "longitude": 50.288062612408616,
+        "latitude": 10.186062746085883,
+        "origin_category": "region",
+        "original_reference": "Bari",
+        "currentCount": 2,
+        "institutions": [
+          "L",
+          19
+        ],
+        "Human_remains_group_id": [
+          "L",
+          197
+        ]
+      }
+    },
+    {
+      "id": 181,
+      "fields": {
+        "original_detail": "Nigeria",
+        "original_group": "Nigeria",
+        "ancestry": 21,
+        "region": 3,
+        "country": 48,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 181,
+        "longitude": 8.397013009920489,
+        "latitude": 9.614804786954124,
+        "origin_category": "country",
+        "original_reference": "Nigeria",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          19
+        ],
+        "Human_remains_group_id": [
+          "L",
+          198
+        ]
+      }
+    },
+    {
+      "id": 182,
+      "fields": {
+        "original_detail": "Cameroon",
+        "original_group": "Cameroon",
+        "ancestry": 21,
+        "region": 3,
+        "country": 4,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 182,
+        "longitude": 12.948474,
+        "latitude": 6.294168,
+        "origin_category": "country",
+        "original_reference": "Cameroon",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          19
+        ],
+        "Human_remains_group_id": [
+          "L",
+          199
+        ]
+      }
+    },
+    {
+      "id": 183,
+      "fields": {
+        "original_detail": "Ethiopia",
+        "original_group": "Ethiopia",
+        "ancestry": 21,
+        "region": 3,
+        "country": 11,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 183,
+        "longitude": 39.914903,
+        "latitude": 8.72939,
+        "origin_category": "country",
+        "original_reference": "Ethiopia",
+        "currentCount": 3,
+        "institutions": [
+          "L",
+          19
+        ],
+        "Human_remains_group_id": [
+          "L",
+          200
+        ]
+      }
+    },
+    {
+      "id": 184,
+      "fields": {
+        "original_detail": "Somalia",
+        "original_group": "Somalia",
+        "ancestry": 21,
+        "region": 3,
+        "country": 59,
+        "original_detail_category": [
+          "L",
+          "country"
+        ],
+        "original_group_category": [
+          "L",
+          "country"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 184,
+        "longitude": 45.11668181405366,
+        "latitude": 2.7756722168445496,
+        "origin_category": "country",
+        "original_reference": "Somalia",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          19
+        ],
+        "Human_remains_group_id": [
+          "L",
+          201
+        ]
+      }
+    },
+    {
+      "id": 185,
+      "fields": {
+        "original_detail": "Sambesi",
+        "original_group": "Sambesi",
+        "ancestry": 21,
+        "region": 120,
+        "country": 46,
+        "original_detail_category": [
+          "L",
+          "region"
+        ],
+        "original_group_category": [
+          "L",
+          "region"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 185,
+        "longitude": 29.563030159849497,
+        "latitude": -15.429405569406672,
+        "origin_category": "region",
+        "original_reference": "Sambesi",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          19
+        ],
+        "Human_remains_group_id": [
+          "L",
+          202
+        ]
+      }
+    },
+    {
+      "id": 186,
+      "fields": {
+        "original_detail": "Northeast Africa",
+        "original_group": "Northeast Africa",
+        "ancestry": 21,
+        "region": 122,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "region"
+        ],
+        "original_group_category": [
+          "L",
+          "region"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 186,
+        "longitude": 33.17415543589365,
+        "latitude": 18.867853436995386,
+        "origin_category": "region",
+        "original_reference": "Northeast Africa",
+        "currentCount": 10,
+        "institutions": [
+          "L",
+          19
+        ],
+        "Human_remains_group_id": [
+          "L",
+          203
+        ]
+      }
+    },
+    {
+      "id": 187,
+      "fields": {
+        "original_detail": "Canary Islands",
+        "original_group": "Canary Islands",
+        "ancestry": 21,
+        "region": 121,
+        "country": 57,
+        "original_detail_category": [
+          "L",
+          "region"
+        ],
+        "original_group_category": [
+          "L",
+          "region"
+        ],
+        "continent": [
+          "L",
+          2
+        ],
+        "check_id": 187,
+        "longitude": -16.636752965336946,
+        "latitude": 28.21921637714198,
+        "origin_category": "region",
+        "original_reference": "Canary Islands",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          19
+        ],
+        "Human_remains_group_id": [
+          "L",
+          204
+        ]
+      }
+    },
+    {
+      "id": 188,
+      "fields": {
+        "original_detail": "Hehe",
+        "original_group": "Hehe",
+        "ancestry": 1,
+        "region": 111,
+        "country": 10,
+        "original_detail_category": [
+          "L",
+          "ancestry"
+        ],
+        "original_group_category": [
+          "L",
+          "ancestry"
+        ],
+        "continent": [
+          "L",
+          1
+        ],
+        "check_id": 188,
+        "longitude": 35.60269597,
+        "latitude": -7.80346427,
+        "origin_category": "ancestry",
+        "original_reference": "Hehe",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          19
+        ],
+        "Human_remains_group_id": [
+          "L",
+          205
+        ]
+      }
+    }
+  ]
+}

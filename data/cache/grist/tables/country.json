@@ -1,0 +1,862 @@
+{
+  "records": [
+    {
+      "id": 1,
+      "fields": {
+        "slug": "tanzania",
+        "label": "Tanzania",
+        "continent": 1,
+        "longitude": 34.818322,
+        "latitude": -6.355794,
+        "notes": "",
+        "currentCount": 253,
+        "institutions": [
+          "L",
+          4,
+          16,
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "fields": {
+        "slug": "rwanda",
+        "label": "Rwanda",
+        "continent": 1,
+        "longitude": 29.91944,
+        "latitude": -2.014687,
+        "notes": "",
+        "currentCount": 909,
+        "institutions": [
+          "L",
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "fields": {
+        "slug": "kenya",
+        "label": "Kenya",
+        "continent": 1,
+        "longitude": 37.953094,
+        "latitude": 0.689918,
+        "notes": "",
+        "currentCount": 24,
+        "institutions": [
+          "L",
+          16,
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "fields": {
+        "slug": "cameroon",
+        "label": "Cameroon",
+        "continent": 1,
+        "longitude": 12.948474,
+        "latitude": 6.294168,
+        "notes": "",
+        "currentCount": 379,
+        "institutions": [
+          "L",
+          1,
+          4,
+          16,
+          19,
+          2
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "fields": {
+        "slug": "togo",
+        "label": "Togo",
+        "continent": 1,
+        "longitude": 0.899086,
+        "latitude": 8.660743,
+        "notes": "",
+        "currentCount": 68,
+        "institutions": [
+          "L",
+          4,
+          19,
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "fields": {
+        "slug": "nauru",
+        "label": "Nauru",
+        "continent": 5,
+        "longitude": 166.929376,
+        "latitude": -0.522102,
+        "notes": "",
+        "currentCount": 10,
+        "institutions": [
+          "L",
+          1
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "fields": {
+        "slug": "palau",
+        "label": "Palau",
+        "continent": 5,
+        "longitude": 134.579651,
+        "latitude": 7.534776,
+        "notes": "",
+        "currentCount": 10,
+        "institutions": [
+          "L",
+          1
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "fields": {
+        "slug": "samoa",
+        "label": "Samoa",
+        "continent": 5,
+        "longitude": -172.441077,
+        "latitude": -13.634253,
+        "notes": "Not using the colonial terminology German Samoa here, the geography is fully represented in the new state",
+        "currentCount": 19,
+        "institutions": [
+          "L",
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "fields": {
+        "slug": "unknown",
+        "label": "Country not specified",
+        "continent": 8,
+        "longitude": 0,
+        "latitude": 0,
+        "notes": "",
+        "currentCount": 8677,
+        "institutions": [
+          "L",
+          11,
+          1,
+          14,
+          4,
+          17,
+          7,
+          13,
+          3,
+          19,
+          9,
+          15,
+          12,
+          18,
+          2,
+          8
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "fields": {
+        "slug": "ethopia",
+        "label": "Ethopia",
+        "continent": 1,
+        "longitude": 39.914903,
+        "latitude": 8.72939,
+        "notes": "",
+        "currentCount": 4,
+        "institutions": [
+          "L",
+          4,
+          19
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "fields": {
+        "slug": "mozambique",
+        "label": "Mozambique",
+        "continent": 1,
+        "longitude": 35.208577,
+        "latitude": -17.52523,
+        "notes": "",
+        "currentCount": 2,
+        "institutions": [
+          "L",
+          4
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "fields": {
+        "slug": "south_africa",
+        "label": "South Africa",
+        "continent": 1,
+        "longitude": 24.752527,
+        "latitude": -28.553619,
+        "notes": "",
+        "currentCount": 15,
+        "institutions": [
+          "L",
+          4,
+          15,
+          19,
+          14
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "fields": {
+        "slug": "namibia",
+        "label": "Namibia",
+        "continent": 1,
+        "longitude": 18.164513,
+        "latitude": -21.908582,
+        "notes": "",
+        "currentCount": 3,
+        "institutions": [
+          "L",
+          4,
+          19
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "fields": {
+        "slug": "liberia",
+        "label": "Liberia",
+        "continent": 1,
+        "longitude": -9.258989,
+        "latitude": 6.52013,
+        "notes": "",
+        "currentCount": 2,
+        "institutions": [
+          "L",
+          4
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "fields": {
+        "slug": "congo",
+        "label": "Congo",
+        "continent": 1,
+        "longitude": 14.879733,
+        "latitude": -0.729439,
+        "notes": "",
+        "currentCount": 3,
+        "institutions": [
+          "L",
+          4,
+          19
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "fields": {
+        "slug": "solomons_islands",
+        "label": "Solomons Islands",
+        "continent": 5,
+        "longitude": 160.164758,
+        "latitude": -9.613105,
+        "notes": "",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          4
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "fields": {
+        "slug": "aotearoa-new_zealand",
+        "label": "Aotearoa/New Zealand",
+        "continent": 5,
+        "longitude": 172.24768689863598,
+        "latitude": -42.63364565969775,
+        "notes": "",
+        "currentCount": 0,
+        "institutions": [
+          "L",
+          4
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "fields": {
+        "slug": "china",
+        "label": "China",
+        "continent": 3,
+        "longitude": 104.691139,
+        "latitude": 38.073255,
+        "notes": "",
+        "currentCount": 9,
+        "institutions": [
+          "L",
+          14,
+          4,
+          17,
+          7,
+          16
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "fields": {
+        "slug": "australia",
+        "label": "Australia",
+        "continent": 5,
+        "longitude": 134.022772,
+        "latitude": -25.697338,
+        "notes": "",
+        "currentCount": 6,
+        "institutions": [
+          "L",
+          4,
+          16,
+          17,
+          3
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "fields": {
+        "slug": "indonesia",
+        "label": "Indonesia",
+        "continent": 3,
+        "longitude": 106.77,
+        "latitude": -6.18,
+        "notes": "",
+        "currentCount": 66,
+        "institutions": [
+          "L",
+          14,
+          17,
+          16,
+          6,
+          15
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "fields": {
+        "slug": "papua_new_guinea",
+        "label": "Papua New Guinea",
+        "continent": 5,
+        "longitude": 147.21,
+        "latitude": -9.26,
+        "notes": "",
+        "currentCount": 2022,
+        "institutions": [
+          "L",
+          15,
+          16,
+          17,
+          1
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "fields": {
+        "slug": "japan",
+        "label": "Japan",
+        "continent": 3,
+        "longitude": 139.02,
+        "latitude": 36.138,
+        "notes": "",
+        "currentCount": 14,
+        "institutions": [
+          "L",
+          3
+        ]
+      }
+    },
+    {
+      "id": 25,
+      "fields": {
+        "slug": "paraguay",
+        "label": "Paraguay",
+        "continent": 6,
+        "longitude": -58.087,
+        "latitude": -23.896,
+        "notes": "",
+        "currentCount": 0,
+        "institutions": [
+          "L",
+          4
+        ]
+      }
+    },
+    {
+      "id": 26,
+      "fields": {
+        "slug": "micronesia",
+        "label": "Micronesia ",
+        "continent": 5,
+        "longitude": 158.09241,
+        "latitude": 6.8142,
+        "notes": "",
+        "currentCount": 0,
+        "institutions": null
+      }
+    },
+    {
+      "id": 30,
+      "fields": {
+        "slug": "fiji",
+        "label": "Fiji",
+        "continent": 5,
+        "longitude": 179.11,
+        "latitude": -17.586,
+        "notes": "",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          14
+        ]
+      }
+    },
+    {
+      "id": 31,
+      "fields": {
+        "slug": "greenland",
+        "label": "Greenland",
+        "continent": 7,
+        "longitude": -42.252,
+        "latitude": 71.788,
+        "notes": "",
+        "currentCount": 2,
+        "institutions": [
+          "L",
+          16,
+          14
+        ]
+      }
+    },
+    {
+      "id": 32,
+      "fields": {
+        "slug": "malaysia",
+        "label": "Malaysia",
+        "continent": 3,
+        "longitude": 102.134,
+        "latitude": 3.78,
+        "notes": "",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          14
+        ]
+      }
+    },
+    {
+      "id": 35,
+      "fields": {
+        "slug": "peru",
+        "label": "Peru",
+        "continent": 6,
+        "longitude": -75.4892233716147,
+        "latitude": -10.455855506800578,
+        "notes": "",
+        "currentCount": 20,
+        "institutions": [
+          "L",
+          16
+        ]
+      }
+    },
+    {
+      "id": 36,
+      "fields": {
+        "slug": "egypt",
+        "label": "Egypt",
+        "continent": 1,
+        "longitude": 29.5456353686017,
+        "latitude": 26.695683407691643,
+        "notes": "",
+        "currentCount": 51,
+        "institutions": [
+          "L",
+          16,
+          19
+        ]
+      }
+    },
+    {
+      "id": 37,
+      "fields": {
+        "slug": "india",
+        "label": "India",
+        "continent": 3,
+        "longitude": 79.417825132978,
+        "latitude": 22.89249592536483,
+        "notes": "",
+        "currentCount": 6,
+        "institutions": [
+          "L",
+          16,
+          17
+        ]
+      }
+    },
+    {
+      "id": 38,
+      "fields": {
+        "slug": "vanuatu",
+        "label": "Vanuatu",
+        "continent": 5,
+        "longitude": 166.87281933187825,
+        "latitude": -15.207112473043772,
+        "notes": "",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          16
+        ]
+      }
+    },
+    {
+      "id": 39,
+      "fields": {
+        "slug": "botswana",
+        "label": "Botswana ",
+        "continent": 1,
+        "longitude": 24.032277654034083,
+        "latitude": -22.211637472685844,
+        "notes": "",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          16
+        ]
+      }
+    },
+    {
+      "id": 40,
+      "fields": {
+        "slug": "french polynesia",
+        "label": "French Polynesia",
+        "continent": 5,
+        "longitude": -149.4509413429868,
+        "latitude": -17.659289021082703,
+        "notes": "",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          16
+        ]
+      }
+    },
+    {
+      "id": 41,
+      "fields": {
+        "slug": "panama",
+        "label": "Panama",
+        "continent": 6,
+        "longitude": -80.22635641057978,
+        "latitude": 8.52424320667429,
+        "notes": "",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          16
+        ]
+      }
+    },
+    {
+      "id": 42,
+      "fields": {
+        "slug": "chile",
+        "label": "Chile",
+        "continent": 6,
+        "longitude": -70.11036623064528,
+        "latitude": -26.62754639328036,
+        "notes": "",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          16
+        ]
+      }
+    },
+    {
+      "id": 44,
+      "fields": {
+        "slug": "burundi",
+        "label": "Burundi",
+        "continent": 0,
+        "longitude": 29.930588757071938,
+        "latitude": -3.2945767460944144,
+        "notes": "",
+        "currentCount": 0,
+        "institutions": null
+      }
+    },
+    {
+      "id": 45,
+      "fields": {
+        "slug": "angola",
+        "label": "Angola",
+        "continent": 0,
+        "longitude": 17.66773820017993,
+        "latitude": -12.290051719885293,
+        "notes": "",
+        "currentCount": 0,
+        "institutions": null
+      }
+    },
+    {
+      "id": 46,
+      "fields": {
+        "slug": "sambia",
+        "label": "Sambia",
+        "continent": 1,
+        "longitude": 28.267492322645605,
+        "latitude": -15.160220905602348,
+        "notes": "",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          19
+        ]
+      }
+    },
+    {
+      "id": 47,
+      "fields": {
+        "slug": "ghana",
+        "label": "Ghana",
+        "continent": 1,
+        "longitude": -1.2617505084943887,
+        "latitude": 8.009116695186906,
+        "notes": "",
+        "currentCount": 20,
+        "institutions": [
+          "L",
+          1,
+          19
+        ]
+      }
+    },
+    {
+      "id": 48,
+      "fields": {
+        "slug": "nigeria",
+        "label": "Nigeria",
+        "continent": 0,
+        "longitude": 8.397013009920489,
+        "latitude": 9.614804786954124,
+        "notes": "",
+        "currentCount": 2,
+        "institutions": [
+          "L",
+          1,
+          19
+        ]
+      }
+    },
+    {
+      "id": 49,
+      "fields": {
+        "slug": "surinam",
+        "label": "Surinam",
+        "continent": 6,
+        "longitude": -55.85955706654308,
+        "latitude": 4.120968520717926,
+        "notes": "",
+        "currentCount": 0,
+        "institutions": null
+      }
+    },
+    {
+      "id": 50,
+      "fields": {
+        "slug": "brazil",
+        "label": "Brazil",
+        "continent": 6,
+        "longitude": -55.76253892942066,
+        "latitude": -8.075008419153662,
+        "notes": "",
+        "currentCount": 4,
+        "institutions": [
+          "L",
+          17
+        ]
+      }
+    },
+    {
+      "id": 51,
+      "fields": {
+        "slug": "sudan",
+        "label": "Sudan",
+        "continent": 1,
+        "longitude": 30.23192976999008,
+        "latitude": 16.434576121666346,
+        "notes": "",
+        "currentCount": 7,
+        "institutions": [
+          "L",
+          17,
+          19
+        ]
+      }
+    },
+    {
+      "id": 52,
+      "fields": {
+        "slug": "tunisia",
+        "label": "Tunisia",
+        "continent": 1,
+        "longitude": 9.576683306437394,
+        "latitude": 34.0755820756173,
+        "notes": "",
+        "currentCount": 17,
+        "institutions": [
+          "L",
+          19
+        ]
+      }
+    },
+    {
+      "id": 53,
+      "fields": {
+        "slug": "south_sudan",
+        "label": "South Sudan",
+        "continent": 1,
+        "longitude": 29.869508445571324,
+        "latitude": 7.575860883171803,
+        "notes": "",
+        "currentCount": 8,
+        "institutions": [
+          "L",
+          19
+        ]
+      }
+    },
+    {
+      "id": 54,
+      "fields": {
+        "slug": "gabun",
+        "label": "Gabun",
+        "continent": 1,
+        "longitude": 11.761064443583331,
+        "latitude": -0.6133891379475992,
+        "notes": "",
+        "currentCount": 2,
+        "institutions": [
+          "L",
+          19
+        ]
+      }
+    },
+    {
+      "id": 55,
+      "fields": {
+        "slug": "guinea",
+        "label": "Guinea",
+        "continent": 1,
+        "longitude": -10.968809144058538,
+        "latitude": 10.374390195511149,
+        "notes": "",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          19
+        ]
+      }
+    },
+    {
+      "id": 56,
+      "fields": {
+        "slug": "mali",
+        "label": "Mali",
+        "continent": 1,
+        "longitude": -1.8004173997625268,
+        "latitude": 17.785922739153094,
+        "notes": "",
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          19
+        ]
+      }
+    },
+    {
+      "id": 57,
+      "fields": {
+        "slug": "spain",
+        "label": "Spain",
+        "continent": 2,
+        "longitude": -3.4074038301871967,
+        "latitude": 39.696230023558975,
+        "notes": "",
+        "currentCount": 23,
+        "institutions": [
+          "L",
+          19
+        ]
+      }
+    },
+    {
+      "id": 58,
+      "fields": {
+        "slug": "guinea-bissau",
+        "label": "Guinea-Bissau\n",
+        "continent": 1,
+        "longitude": -15.039397536278086,
+        "latitude": 12.016599675265217,
+        "notes": "",
+        "currentCount": 2,
+        "institutions": [
+          "L",
+          19
+        ]
+      }
+    },
+    {
+      "id": 59,
+      "fields": {
+        "slug": "somalia",
+        "label": "Somalia",
+        "continent": 1,
+        "longitude": 45.11668181405366,
+        "latitude": 2.7756722168445496,
+        "notes": "",
+        "currentCount": 3,
+        "institutions": [
+          "L",
+          19
+        ]
+      }
+    }
+  ]
+}

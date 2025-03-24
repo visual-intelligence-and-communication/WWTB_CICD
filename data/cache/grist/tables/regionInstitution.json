@@ -1,0 +1,1858 @@
+{
+  "records": [
+    {
+      "id": 1,
+      "fields": {
+        "institution": 1,
+        "region": 3,
+        "group": [
+          "L",
+          1,
+          2,
+          3,
+          5,
+          6,
+          8,
+          9,
+          10,
+          12,
+          65,
+          123,
+          124,
+          125,
+          126,
+          127,
+          128,
+          129,
+          130
+        ],
+        "count": 18,
+        "originalCount": 6372,
+        "certaintyOfCount": 0.8161111111111112,
+        "repatriatedCount": 0,
+        "currentCount": 6372,
+        "institution_currentCount": 6553,
+        "institution_slug": "spk-mvf",
+        "institution_label": "SPK – Museum für Vor- und Frühgeschichte",
+        "institution_latitude": 52.520005287705075,
+        "institution_longitude": 13.398000023299588,
+        "region_currentCount": 12226,
+        "region_slug": "unknown",
+        "region_label": "Unspecified region",
+        "region_latitude": 0,
+        "region_longitude": 0
+      }
+    },
+    {
+      "id": 2,
+      "fields": {
+        "institution": 1,
+        "region": 1,
+        "group": [
+          "L",
+          7
+        ],
+        "count": 1,
+        "originalCount": 20,
+        "certaintyOfCount": 0.7,
+        "repatriatedCount": 0,
+        "currentCount": 20,
+        "institution_currentCount": 6553,
+        "institution_slug": "spk-mvf",
+        "institution_label": "SPK – Museum für Vor- und Frühgeschichte",
+        "institution_latitude": 52.520005287705075,
+        "institution_longitude": 13.398000023299588,
+        "region_currentCount": 20,
+        "region_slug": "micronesia",
+        "region_label": "Micronesia",
+        "region_latitude": 6.878945,
+        "region_longitude": 158.22919
+      }
+    },
+    {
+      "id": 3,
+      "fields": {
+        "institution": 1,
+        "region": 2,
+        "group": [
+          "L",
+          11
+        ],
+        "count": 1,
+        "originalCount": 20,
+        "certaintyOfCount": 0.7,
+        "repatriatedCount": 0,
+        "currentCount": 20,
+        "institution_currentCount": 6553,
+        "institution_slug": "spk-mvf",
+        "institution_label": "SPK – Museum für Vor- und Frühgeschichte",
+        "institution_latitude": 52.520005287705075,
+        "institution_longitude": 13.398000023299588,
+        "region_currentCount": 20,
+        "region_slug": "usa_mariana_islands",
+        "region_label": "USA Mariana Islands",
+        "region_latitude": 14.944217936027455,
+        "region_longitude": 145.44891665689454
+      }
+    },
+    {
+      "id": 4,
+      "fields": {
+        "institution": 2,
+        "region": 3,
+        "group": [
+          "L",
+          14,
+          16,
+          17,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26
+        ],
+        "count": 11,
+        "originalCount": 1930,
+        "certaintyOfCount": 0.7909090909090909,
+        "repatriatedCount": 0,
+        "currentCount": 1930,
+        "institution_currentCount": 2089,
+        "institution_slug": "spk-em",
+        "institution_label": "SPK – Ethnologisches Museum",
+        "institution_latitude": 52.51738272182665,
+        "institution_longitude": 13.400731264227097,
+        "region_currentCount": 12226,
+        "region_slug": "unknown",
+        "region_label": "Unspecified region",
+        "region_latitude": 0,
+        "region_longitude": 0
+      }
+    },
+    {
+      "id": 5,
+      "fields": {
+        "institution": 3,
+        "region": 3,
+        "group": [
+          "L",
+          27,
+          68,
+          69,
+          97,
+          98
+        ],
+        "count": 5,
+        "originalCount": 3518,
+        "certaintyOfCount": 0.9199999999999999,
+        "repatriatedCount": 4,
+        "currentCount": 3514,
+        "institution_currentCount": 3514,
+        "institution_slug": "bgaeu",
+        "institution_label": "Berliner Gesellschaft für Anthropologie, Ethnologie und Frühgeschichte (BGAEU)",
+        "institution_latitude": 52.52136221991101,
+        "institution_longitude": 13.39190674447113,
+        "region_currentCount": 12226,
+        "region_slug": "unknown",
+        "region_label": "Unspecified region",
+        "region_latitude": 0,
+        "region_longitude": 0
+      }
+    },
+    {
+      "id": 6,
+      "fields": {
+        "institution": 4,
+        "region": 3,
+        "group": [
+          "L",
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          52,
+          58,
+          59,
+          60,
+          61,
+          62,
+          93,
+          94,
+          95,
+          96
+        ],
+        "count": 33,
+        "originalCount": 266,
+        "certaintyOfCount": 0.9636363636363636,
+        "repatriatedCount": 218,
+        "currentCount": 48,
+        "institution_currentCount": 58,
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)",
+        "institution_latitude": 52.52605079679751,
+        "institution_longitude": 13.374526157949607,
+        "region_currentCount": 12226,
+        "region_slug": "unknown",
+        "region_label": "Unspecified region",
+        "region_latitude": 0,
+        "region_longitude": 0
+      }
+    },
+    {
+      "id": 7,
+      "fields": {
+        "institution": 4,
+        "region": 4,
+        "group": [
+          "L",
+          51
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 58,
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)",
+        "institution_latitude": 52.52605079679751,
+        "institution_longitude": 13.374526157949607,
+        "region_currentCount": 1,
+        "region_slug": "french_island_victoria",
+        "region_label": "French Island (Victoria)",
+        "region_latitude": -38.35450975694103,
+        "region_longitude": 145.35770969621856
+      }
+    },
+    {
+      "id": 8,
+      "fields": {
+        "institution": 4,
+        "region": 5,
+        "group": [
+          "L",
+          53
+        ],
+        "count": 1,
+        "originalCount": 3,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 3,
+        "institution_currentCount": 58,
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)",
+        "institution_latitude": 52.52605079679751,
+        "institution_longitude": 13.374526157949607,
+        "region_currentCount": 3,
+        "region_slug": "mangaia",
+        "region_label": "Mangaia",
+        "region_latitude": -21.928012052269708,
+        "region_longitude": -157.92291225904802
+      }
+    },
+    {
+      "id": 9,
+      "fields": {
+        "institution": 4,
+        "region": 6,
+        "group": [
+          "L",
+          54
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 58,
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)",
+        "institution_latitude": 52.52605079679751,
+        "institution_longitude": 13.374526157949607,
+        "region_currentCount": 1,
+        "region_slug": "raiatea",
+        "region_label": "Raiatea",
+        "region_latitude": -16.813486748855535,
+        "region_longitude": -151.4449469963409
+      }
+    },
+    {
+      "id": 10,
+      "fields": {
+        "institution": 4,
+        "region": 7,
+        "group": [
+          "L",
+          55
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 58,
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)",
+        "institution_latitude": 52.52605079679751,
+        "institution_longitude": 13.374526157949607,
+        "region_currentCount": 1,
+        "region_slug": "tahiti",
+        "region_label": "Tahiti",
+        "region_latitude": -17.634725606417447,
+        "region_longitude": -149.45484393938438
+      }
+    },
+    {
+      "id": 11,
+      "fields": {
+        "institution": 4,
+        "region": 8,
+        "group": [
+          "L",
+          56
+        ],
+        "count": 1,
+        "originalCount": 3,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 3,
+        "institution_currentCount": 58,
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)",
+        "institution_latitude": 52.52605079679751,
+        "institution_longitude": 13.374526157949607,
+        "region_currentCount": 3,
+        "region_slug": "manus_islands",
+        "region_label": "Manus Islands",
+        "region_latitude": -2.0600600449012716,
+        "region_longitude": 146.90823838558978
+      }
+    },
+    {
+      "id": 12,
+      "fields": {
+        "institution": 4,
+        "region": 9,
+        "group": [
+          "L",
+          57
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 58,
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)",
+        "institution_latitude": 52.52605079679751,
+        "institution_longitude": 13.374526157949607,
+        "region_currentCount": 1,
+        "region_slug": "caroline_islands",
+        "region_label": "Caroline Islands",
+        "region_latitude": 7.880324910428334,
+        "region_longitude": 144.13296604537337
+      }
+    },
+    {
+      "id": 18,
+      "fields": {
+        "institution": 6,
+        "region": 3,
+        "group": [
+          "L",
+          63
+        ],
+        "count": 1,
+        "originalCount": 33,
+        "certaintyOfCount": 0,
+        "repatriatedCount": 0,
+        "currentCount": 33,
+        "institution_currentCount": 33,
+        "institution_slug": "ssf-gotha",
+        "institution_label": "Stiftung Schloss Friedenstein Gotha",
+        "institution_latitude": 50.945816,
+        "institution_longitude": 10.70442,
+        "region_currentCount": 12226,
+        "region_slug": "unknown",
+        "region_label": "Unspecified region",
+        "region_latitude": 0,
+        "region_longitude": 0
+      }
+    },
+    {
+      "id": 21,
+      "fields": {
+        "institution": 7,
+        "region": 3,
+        "group": [
+          "L",
+          66,
+          67
+        ],
+        "count": 2,
+        "originalCount": 3,
+        "certaintyOfCount": 0.75,
+        "repatriatedCount": 0,
+        "currentCount": 3,
+        "institution_currentCount": 3,
+        "institution_slug": "dhm",
+        "institution_label": "Deutsches Historisches Museum",
+        "institution_latitude": 52.51823671556848,
+        "institution_longitude": 13.396971362658126,
+        "region_currentCount": 12226,
+        "region_slug": "unknown",
+        "region_label": "Unspecified region",
+        "region_latitude": 0,
+        "region_longitude": 0
+      }
+    },
+    {
+      "id": 22,
+      "fields": {
+        "institution": 2,
+        "region": 22,
+        "group": [
+          "L",
+          18
+        ],
+        "count": 1,
+        "originalCount": 96,
+        "certaintyOfCount": 0.8,
+        "repatriatedCount": 0,
+        "currentCount": 96,
+        "institution_currentCount": 2089,
+        "institution_slug": "spk-em",
+        "institution_label": "SPK – Ethnologisches Museum",
+        "institution_latitude": 52.51738272182665,
+        "institution_longitude": 13.400731264227097,
+        "region_currentCount": 96,
+        "region_slug": "mesoamerica",
+        "region_label": "Mesoamerica",
+        "region_latitude": 19.850338631935664,
+        "region_longitude": -97.75841250652446
+      }
+    },
+    {
+      "id": 25,
+      "fields": {
+        "institution": 8,
+        "region": 3,
+        "group": [
+          "L",
+          70
+        ],
+        "count": 1,
+        "originalCount": 4,
+        "certaintyOfCount": 0.3,
+        "repatriatedCount": 0,
+        "currentCount": 4,
+        "institution_currentCount": 4,
+        "institution_slug": "khb",
+        "institution_label": "Weißensee kunshochschule berlin (khb)\n",
+        "institution_latitude": 52.558138192818774,
+        "institution_longitude": 13.439974295096098,
+        "region_currentCount": 12226,
+        "region_slug": "unknown",
+        "region_label": "Unspecified region",
+        "region_latitude": 0,
+        "region_longitude": 0
+      }
+    },
+    {
+      "id": 28,
+      "fields": {
+        "institution": 9,
+        "region": 3,
+        "group": [
+          "L",
+          71
+        ],
+        "count": 1,
+        "originalCount": 2,
+        "certaintyOfCount": 0.5,
+        "repatriatedCount": 0,
+        "currentCount": 2,
+        "institution_currentCount": 2,
+        "institution_slug": "lhu-b",
+        "institution_label": "Lautarchiv der Humboldt-Universität",
+        "institution_latitude": 52.51751246920301,
+        "institution_longitude": 13.401558033524822,
+        "region_currentCount": 12226,
+        "region_slug": "unknown",
+        "region_label": "Unspecified region",
+        "region_latitude": 0,
+        "region_longitude": 0
+      }
+    },
+    {
+      "id": 31,
+      "fields": {
+        "institution": 11,
+        "region": 3,
+        "group": [
+          "L",
+          72
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 0.5,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 1,
+        "institution_slug": "stabi-b\n",
+        "institution_label": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz\n",
+        "institution_latitude": 52.51767659737995,
+        "institution_longitude": 13.392588532941982,
+        "region_currentCount": 12226,
+        "region_slug": "unknown",
+        "region_label": "Unspecified region",
+        "region_latitude": 0,
+        "region_longitude": 0
+      }
+    },
+    {
+      "id": 33,
+      "fields": {
+        "institution": 14,
+        "region": 3,
+        "group": [
+          "L",
+          73,
+          74,
+          75,
+          76,
+          80,
+          82,
+          87,
+          154
+        ],
+        "count": 8,
+        "originalCount": 23,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 23,
+        "institution_currentCount": 32,
+        "institution_slug": "uni-marburg",
+        "institution_label": "Medizinhistorisch-anatomische Sammlung, Fachbereich Medizin, Philipps-Universität Marburg\n",
+        "institution_latitude": 50.81342683936805,
+        "institution_longitude": 8.76853696663504,
+        "region_currentCount": 12226,
+        "region_slug": "unknown",
+        "region_label": "Unspecified region",
+        "region_latitude": 0,
+        "region_longitude": 0
+      }
+    },
+    {
+      "id": 36,
+      "fields": {
+        "institution": 14,
+        "region": 30,
+        "group": [
+          "L",
+          77
+        ],
+        "count": 1,
+        "originalCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 2,
+        "institution_currentCount": 32,
+        "institution_slug": "uni-marburg",
+        "institution_label": "Medizinhistorisch-anatomische Sammlung, Fachbereich Medizin, Philipps-Universität Marburg\n",
+        "institution_latitude": 50.81342683936805,
+        "institution_longitude": 8.76853696663504,
+        "region_currentCount": 3,
+        "region_slug": "java",
+        "region_label": "Java",
+        "region_latitude": -7.337809240854551,
+        "region_longitude": 109.9633934539286
+      }
+    },
+    {
+      "id": 39,
+      "fields": {
+        "institution": 14,
+        "region": 27,
+        "group": [
+          "L",
+          78,
+          83,
+          84
+        ],
+        "count": 3,
+        "originalCount": 3,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 3,
+        "institution_currentCount": 32,
+        "institution_slug": "uni-marburg",
+        "institution_label": "Medizinhistorisch-anatomische Sammlung, Fachbereich Medizin, Philipps-Universität Marburg\n",
+        "institution_latitude": 50.81342683936805,
+        "institution_longitude": 8.76853696663504,
+        "region_currentCount": 3,
+        "region_slug": "sulawesi",
+        "region_label": "Sulawesi",
+        "region_latitude": -1.9314152808228504,
+        "region_longitude": 120.3981492010035
+      }
+    },
+    {
+      "id": 42,
+      "fields": {
+        "institution": 14,
+        "region": 28,
+        "group": [
+          "L",
+          79
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 32,
+        "institution_slug": "uni-marburg",
+        "institution_label": "Medizinhistorisch-anatomische Sammlung, Fachbereich Medizin, Philipps-Universität Marburg\n",
+        "institution_latitude": 50.81342683936805,
+        "institution_longitude": 8.76853696663504,
+        "region_currentCount": 1,
+        "region_slug": "viti_levu",
+        "region_label": "Viti Levu",
+        "region_latitude": -17.84884514527031,
+        "region_longitude": 177.9970694795061
+      }
+    },
+    {
+      "id": 45,
+      "fields": {
+        "institution": 14,
+        "region": 74,
+        "group": [
+          "L",
+          81
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 32,
+        "institution_slug": "uni-marburg",
+        "institution_label": "Medizinhistorisch-anatomische Sammlung, Fachbereich Medizin, Philipps-Universität Marburg\n",
+        "institution_latitude": 50.81342683936805,
+        "institution_longitude": 8.76853696663504,
+        "region_currentCount": 2,
+        "region_slug": "southern_africa",
+        "region_label": "Southern Africa",
+        "region_latitude": -17.845400759488307,
+        "region_longitude": 23.184542436746092
+      }
+    },
+    {
+      "id": 48,
+      "fields": {
+        "institution": 14,
+        "region": 57,
+        "group": [
+          "L",
+          85
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 32,
+        "institution_slug": "uni-marburg",
+        "institution_label": "Medizinhistorisch-anatomische Sammlung, Fachbereich Medizin, Philipps-Universität Marburg\n",
+        "institution_latitude": 50.81342683936805,
+        "institution_longitude": 8.76853696663504,
+        "region_currentCount": 1,
+        "region_slug": "ambon",
+        "region_label": "Ambon, Maluku Province",
+        "region_latitude": -3.659491463463085,
+        "region_longitude": 128.18873087541292
+      }
+    },
+    {
+      "id": 51,
+      "fields": {
+        "institution": 14,
+        "region": 32,
+        "group": [
+          "L",
+          86
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 32,
+        "institution_slug": "uni-marburg",
+        "institution_label": "Medizinhistorisch-anatomische Sammlung, Fachbereich Medizin, Philipps-Universität Marburg\n",
+        "institution_latitude": 50.81342683936805,
+        "institution_longitude": 8.76853696663504,
+        "region_currentCount": 1,
+        "region_slug": "madura",
+        "region_label": "Madura",
+        "region_latitude": -7.069992170850837,
+        "region_longitude": 113.30340421145624
+      }
+    },
+    {
+      "id": 54,
+      "fields": {
+        "institution": 12,
+        "region": 3,
+        "group": [
+          "L",
+          88,
+          90
+        ],
+        "count": 2,
+        "originalCount": 14,
+        "certaintyOfCount": 0.55,
+        "repatriatedCount": 0,
+        "currentCount": 14,
+        "institution_currentCount": 14,
+        "institution_slug": "zlfu-b",
+        "institution_label": "Zoologische Lehrsammlung, Freie Universität Berlin",
+        "institution_latitude": 52.4594156640832,
+        "institution_longitude": 13.306406969423424,
+        "region_currentCount": 12226,
+        "region_slug": "unknown",
+        "region_label": "Unspecified region",
+        "region_latitude": 0,
+        "region_longitude": 0
+      }
+    },
+    {
+      "id": 57,
+      "fields": {
+        "institution": 13,
+        "region": 3,
+        "group": [
+          "L",
+          89
+        ],
+        "count": 1,
+        "originalCount": 8,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 8,
+        "institution_currentCount": 8,
+        "institution_slug": "zlhu-b",
+        "institution_label": "Zoologische Lehrsammlung, Humboldt Universität Berlin",
+        "institution_latitude": 52.52551143901556,
+        "institution_longitude": 13.380557993484747,
+        "region_currentCount": 12226,
+        "region_slug": "unknown",
+        "region_label": "Unspecified region",
+        "region_latitude": 0,
+        "region_longitude": 0
+      }
+    },
+    {
+      "id": 58,
+      "fields": {
+        "institution": 1,
+        "region": 23,
+        "group": [
+          "L",
+          4
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 0.9,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 6553,
+        "institution_slug": "spk-mvf",
+        "institution_label": "SPK – Museum für Vor- und Frühgeschichte",
+        "institution_latitude": 52.520005287705075,
+        "institution_longitude": 13.398000023299588,
+        "region_currentCount": 1,
+        "region_slug": "former_german_eastafrica",
+        "region_label": "Former Colony German Eastafrica",
+        "region_latitude": -2.3752786558776964,
+        "region_longitude": 30.60790261261619
+      }
+    },
+    {
+      "id": 61,
+      "fields": {
+        "institution": 1,
+        "region": 24,
+        "group": [
+          "L",
+          91
+        ],
+        "count": 1,
+        "originalCount": 100,
+        "certaintyOfCount": 0,
+        "repatriatedCount": 0,
+        "currentCount": 100,
+        "institution_currentCount": 6553,
+        "institution_slug": "spk-mvf",
+        "institution_label": "SPK – Museum für Vor- und Frühgeschichte",
+        "institution_latitude": 52.520005287705075,
+        "institution_longitude": 13.398000023299588,
+        "region_currentCount": 100,
+        "region_slug": "former_german_southwestafrica",
+        "region_label": "Former German Southwestafrica\n",
+        "region_latitude": -28.052533912849775,
+        "region_longitude": 19.804856501467064
+      }
+    },
+    {
+      "id": 64,
+      "fields": {
+        "institution": 1,
+        "region": 60,
+        "group": [
+          "L",
+          92
+        ],
+        "count": 1,
+        "originalCount": 40,
+        "certaintyOfCount": 0,
+        "repatriatedCount": 0,
+        "currentCount": 40,
+        "institution_currentCount": 6553,
+        "institution_slug": "spk-mvf",
+        "institution_label": "SPK – Museum für Vor- und Frühgeschichte",
+        "institution_latitude": 52.520005287705075,
+        "institution_longitude": 13.398000023299588,
+        "region_currentCount": 40,
+        "region_slug": "former_german_newguinea",
+        "region_label": "Former German Newguinea \n",
+        "region_latitude": -4.530828511804014,
+        "region_longitude": 144.38005377598463
+      }
+    },
+    {
+      "id": 65,
+      "fields": {
+        "institution": 2,
+        "region": 19,
+        "group": [
+          "L",
+          13
+        ],
+        "count": 1,
+        "originalCount": 33,
+        "certaintyOfCount": 0.8,
+        "repatriatedCount": 0,
+        "currentCount": 33,
+        "institution_currentCount": 2089,
+        "institution_slug": "spk-em",
+        "institution_label": "SPK – Ethnologisches Museum",
+        "institution_latitude": 52.51738272182665,
+        "institution_longitude": 13.400731264227097,
+        "region_currentCount": 33,
+        "region_slug": "nort_and_east_asia\n",
+        "region_label": "North and East Asia \n",
+        "region_latitude": 49.334668991454095,
+        "region_longitude": 111.57097234371439
+      }
+    },
+    {
+      "id": 66,
+      "fields": {
+        "institution": 2,
+        "region": 21,
+        "group": [
+          "L",
+          15
+        ],
+        "count": 1,
+        "originalCount": 30,
+        "certaintyOfCount": 0.8,
+        "repatriatedCount": 0,
+        "currentCount": 30,
+        "institution_currentCount": 2089,
+        "institution_slug": "spk-em",
+        "institution_label": "SPK – Ethnologisches Museum",
+        "institution_latitude": 52.51738272182665,
+        "institution_longitude": 13.400731264227097,
+        "region_currentCount": 30,
+        "region_slug": "south_and_southeast_asia",
+        "region_label": "South and Southeast Asia ",
+        "region_latitude": 9.0781897391037,
+        "region_longitude": 99.14011974443791
+      }
+    },
+    {
+      "id": 68,
+      "fields": {
+        "institution": 15,
+        "region": 3,
+        "group": [
+          "L",
+          99,
+          103
+        ],
+        "count": 2,
+        "originalCount": 26,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 26,
+        "institution_currentCount": 37,
+        "institution_slug": "uni-jena",
+        "institution_label": "Universitätsklinikum Jena, Institut für Anatomie / Anatomische Sammlung\n",
+        "institution_latitude": 50.9279213304004,
+        "institution_longitude": 11.585083489449067,
+        "region_currentCount": 12226,
+        "region_slug": "unknown",
+        "region_label": "Unspecified region",
+        "region_latitude": 0,
+        "region_longitude": 0
+      }
+    },
+    {
+      "id": 70,
+      "fields": {
+        "institution": 15,
+        "region": 14,
+        "group": [
+          "L",
+          100
+        ],
+        "count": 1,
+        "originalCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 2,
+        "institution_currentCount": 37,
+        "institution_slug": "uni-jena",
+        "institution_label": "Universitätsklinikum Jena, Institut für Anatomie / Anatomische Sammlung\n",
+        "institution_latitude": 50.9279213304004,
+        "institution_longitude": 11.585083489449067,
+        "region_currentCount": 3,
+        "region_slug": "borneo",
+        "region_label": "Borneo",
+        "region_latitude": 1.0877635358881501,
+        "region_longitude": 113.69838605671005
+      }
+    },
+    {
+      "id": 72,
+      "fields": {
+        "institution": 15,
+        "region": 15,
+        "group": [
+          "L",
+          101
+        ],
+        "count": 1,
+        "originalCount": 8,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 8,
+        "institution_currentCount": 37,
+        "institution_slug": "uni-jena",
+        "institution_label": "Universitätsklinikum Jena, Institut für Anatomie / Anatomische Sammlung\n",
+        "institution_latitude": 50.9279213304004,
+        "institution_longitude": 11.585083489449067,
+        "region_currentCount": 8,
+        "region_slug": "sepik_river",
+        "region_label": "Sepik River",
+        "region_latitude": -4.127752308018803,
+        "region_longitude": 142.92083931512778
+      }
+    },
+    {
+      "id": 75,
+      "fields": {
+        "institution": 15,
+        "region": 74,
+        "group": [
+          "L",
+          102
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 0.5,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 37,
+        "institution_slug": "uni-jena",
+        "institution_label": "Universitätsklinikum Jena, Institut für Anatomie / Anatomische Sammlung\n",
+        "institution_latitude": 50.9279213304004,
+        "institution_longitude": 11.585083489449067,
+        "region_currentCount": 2,
+        "region_slug": "southern_africa",
+        "region_label": "Southern Africa",
+        "region_latitude": -17.845400759488307,
+        "region_longitude": 23.184542436746092
+      }
+    },
+    {
+      "id": 78,
+      "fields": {
+        "institution": 16,
+        "region": 85,
+        "group": [
+          "L",
+          104
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 55,
+        "institution_slug": "mm-hamburg",
+        "institution_label": "Medizinhistorisches Museum Hamburg",
+        "institution_latitude": 53.593889080045386,
+        "institution_longitude": 9.977342034686753,
+        "region_currentCount": 1,
+        "region_slug": "qingdao",
+        "region_label": "Qingdao",
+        "region_latitude": 36.07203854442552,
+        "region_longitude": 120.38323395162689
+      }
+    },
+    {
+      "id": 81,
+      "fields": {
+        "institution": 16,
+        "region": 3,
+        "group": [
+          "L",
+          105,
+          106,
+          107,
+          110,
+          111,
+          114,
+          115,
+          116,
+          117,
+          118,
+          119,
+          121,
+          122,
+          131
+        ],
+        "count": 14,
+        "originalCount": 46,
+        "certaintyOfCount": 0.9642857142857143,
+        "repatriatedCount": 0,
+        "currentCount": 46,
+        "institution_currentCount": 55,
+        "institution_slug": "mm-hamburg",
+        "institution_label": "Medizinhistorisches Museum Hamburg",
+        "institution_latitude": 53.593889080045386,
+        "institution_longitude": 9.977342034686753,
+        "region_currentCount": 12226,
+        "region_slug": "unknown",
+        "region_label": "Unspecified region",
+        "region_latitude": 0,
+        "region_longitude": 0
+      }
+    },
+    {
+      "id": 83,
+      "fields": {
+        "institution": 16,
+        "region": 30,
+        "group": [
+          "L",
+          108
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 55,
+        "institution_slug": "mm-hamburg",
+        "institution_label": "Medizinhistorisches Museum Hamburg",
+        "institution_latitude": 53.593889080045386,
+        "institution_longitude": 9.977342034686753,
+        "region_currentCount": 3,
+        "region_slug": "java",
+        "region_label": "Java",
+        "region_latitude": -7.337809240854551,
+        "region_longitude": 109.9633934539286
+      }
+    },
+    {
+      "id": 86,
+      "fields": {
+        "institution": 16,
+        "region": 86,
+        "group": [
+          "L",
+          109
+        ],
+        "count": 1,
+        "originalCount": 2,
+        "certaintyOfCount": 0.8,
+        "repatriatedCount": 0,
+        "currentCount": 2,
+        "institution_currentCount": 55,
+        "institution_slug": "mm-hamburg",
+        "institution_label": "Medizinhistorisches Museum Hamburg",
+        "institution_latitude": 53.593889080045386,
+        "institution_longitude": 9.977342034686753,
+        "region_currentCount": 2,
+        "region_slug": "ahmedabad",
+        "region_label": "Ahmedabad",
+        "region_latitude": 23.02323574319994,
+        "region_longitude": 72.57699786138986
+      }
+    },
+    {
+      "id": 89,
+      "fields": {
+        "institution": 16,
+        "region": 14,
+        "group": [
+          "L",
+          112
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 55,
+        "institution_slug": "mm-hamburg",
+        "institution_label": "Medizinhistorisches Museum Hamburg",
+        "institution_latitude": 53.593889080045386,
+        "institution_longitude": 9.977342034686753,
+        "region_currentCount": 3,
+        "region_slug": "borneo",
+        "region_label": "Borneo",
+        "region_latitude": 1.0877635358881501,
+        "region_longitude": 113.69838605671005
+      }
+    },
+    {
+      "id": 92,
+      "fields": {
+        "institution": 16,
+        "region": 88,
+        "group": [
+          "L",
+          113
+        ],
+        "count": 1,
+        "originalCount": 3,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 3,
+        "institution_currentCount": 55,
+        "institution_slug": "mm-hamburg",
+        "institution_label": "Medizinhistorisches Museum Hamburg",
+        "institution_latitude": 53.593889080045386,
+        "institution_longitude": 9.977342034686753,
+        "region_currentCount": 3,
+        "region_slug": "amdamanen",
+        "region_label": "Amdamanen",
+        "region_latitude": 12.523856602114208,
+        "region_longitude": 92.7878739255
+      }
+    },
+    {
+      "id": 95,
+      "fields": {
+        "institution": 16,
+        "region": 89,
+        "group": [
+          "L",
+          120
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 55,
+        "institution_slug": "mm-hamburg",
+        "institution_label": "Medizinhistorisches Museum Hamburg",
+        "institution_latitude": 53.593889080045386,
+        "institution_longitude": 9.977342034686753,
+        "region_currentCount": 1,
+        "region_slug": "colon",
+        "region_label": "Colon",
+        "region_latitude": 9.361092082918413,
+        "region_longitude": -79.89658654266012
+      }
+    },
+    {
+      "id": 98,
+      "fields": {
+        "institution": 17,
+        "region": 3,
+        "group": [
+          "L",
+          132,
+          133,
+          134,
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141
+        ],
+        "count": 10,
+        "originalCount": 17,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 17,
+        "institution_currentCount": 17,
+        "institution_slug": "u-koln",
+        "institution_label": "Universität zu Köln\n",
+        "institution_latitude": 50.92837133053843,
+        "institution_longitude": 6.929779233078455,
+        "region_currentCount": 12226,
+        "region_slug": "unknown",
+        "region_label": "Unspecified region",
+        "region_latitude": 0,
+        "region_longitude": 0
+      }
+    },
+    {
+      "id": 103,
+      "fields": {
+        "institution": 18,
+        "region": 3,
+        "group": [
+          "L",
+          142,
+          143,
+          144,
+          145,
+          146,
+          147,
+          148,
+          149,
+          150,
+          151,
+          152,
+          153,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
+          163,
+          164,
+          165,
+          166
+        ],
+        "count": 24,
+        "originalCount": 100,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 100,
+        "institution_currentCount": 100,
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg",
+        "institution_latitude": 48.579175603314994,
+        "institution_longitude": 7.766872931761126,
+        "region_currentCount": 12226,
+        "region_slug": "unknown",
+        "region_label": "Unspecified region",
+        "region_latitude": 0,
+        "region_longitude": 0
+      }
+    },
+    {
+      "id": 106,
+      "fields": {
+        "institution": 19,
+        "region": 91,
+        "group": [
+          "L",
+          167
+        ],
+        "count": 1,
+        "originalCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 2,
+        "institution_currentCount": 153,
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg",
+        "institution_latitude": 47.99366230970573,
+        "institution_longitude": 7.846603395541588,
+        "region_currentCount": 2,
+        "region_slug": "dendera",
+        "region_label": "Dendera",
+        "region_latitude": 26.167948255225344,
+        "region_longitude": 32.65665223972524
+      }
+    },
+    {
+      "id": 107,
+      "fields": {
+        "institution": 19,
+        "region": 93,
+        "group": [
+          "L",
+          168
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 153,
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg",
+        "institution_latitude": 47.99366230970573,
+        "institution_longitude": 7.846603395541588,
+        "region_currentCount": 1,
+        "region_slug": "gebel muota",
+        "region_label": "Gebel Muota",
+        "region_latitude": 29.211429330087388,
+        "region_longitude": 25.525371445168727
+      }
+    },
+    {
+      "id": 109,
+      "fields": {
+        "institution": 19,
+        "region": 95,
+        "group": [
+          "L",
+          169
+        ],
+        "count": 1,
+        "originalCount": 6,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 6,
+        "institution_currentCount": 153,
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg",
+        "institution_latitude": 47.99366230970573,
+        "institution_longitude": 7.846603395541588,
+        "region_currentCount": 6,
+        "region_slug": "theben",
+        "region_label": "Theben",
+        "region_latitude": 25.733047804732145,
+        "region_longitude": 32.60223826084408
+      }
+    },
+    {
+      "id": 110,
+      "fields": {
+        "institution": 19,
+        "region": 3,
+        "group": [
+          "L",
+          170,
+          179,
+          180,
+          181,
+          183,
+          184,
+          186,
+          187,
+          188,
+          189,
+          190,
+          191,
+          192,
+          195,
+          198,
+          199,
+          200,
+          201
+        ],
+        "count": 18,
+        "originalCount": 96,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 11,
+        "currentCount": 85,
+        "institution_currentCount": 153,
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg",
+        "institution_latitude": 47.99366230970573,
+        "institution_longitude": 7.846603395541588,
+        "region_currentCount": 12226,
+        "region_slug": "unknown",
+        "region_label": "Unspecified region",
+        "region_latitude": 0,
+        "region_longitude": 0
+      }
+    },
+    {
+      "id": 111,
+      "fields": {
+        "institution": 19,
+        "region": 103,
+        "group": [
+          "L",
+          171
+        ],
+        "count": 1,
+        "originalCount": 3,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 3,
+        "institution_currentCount": 153,
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg",
+        "institution_latitude": 47.99366230970573,
+        "institution_longitude": 7.846603395541588,
+        "region_currentCount": 3,
+        "region_slug": "abydos",
+        "region_label": "Abydos",
+        "region_latitude": 26.183844272955373,
+        "region_longitude": 31.921710747983866
+      }
+    },
+    {
+      "id": 112,
+      "fields": {
+        "institution": 19,
+        "region": 104,
+        "group": [
+          "L",
+          172
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 153,
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg",
+        "institution_latitude": 47.99366230970573,
+        "institution_longitude": 7.846603395541588,
+        "region_currentCount": 1,
+        "region_slug": "gizeh",
+        "region_label": "Gizeh",
+        "region_latitude": 29.038957167038227,
+        "region_longitude": 29.480143689898057
+      }
+    },
+    {
+      "id": 113,
+      "fields": {
+        "institution": 19,
+        "region": 105,
+        "group": [
+          "L",
+          173
+        ],
+        "count": 1,
+        "originalCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 2,
+        "institution_currentCount": 153,
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg",
+        "institution_latitude": 47.99366230970573,
+        "institution_longitude": 7.846603395541588,
+        "region_currentCount": 2,
+        "region_slug": "cairo",
+        "region_label": "Cairo",
+        "region_latitude": 30.045779263594795,
+        "region_longitude": 31.237510614102145
+      }
+    },
+    {
+      "id": 114,
+      "fields": {
+        "institution": 19,
+        "region": 106,
+        "group": [
+          "L",
+          174
+        ],
+        "count": 1,
+        "originalCount": 5,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 5,
+        "institution_currentCount": 153,
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg",
+        "institution_latitude": 47.99366230970573,
+        "institution_longitude": 7.846603395541588,
+        "region_currentCount": 5,
+        "region_slug": "nubia",
+        "region_label": "Nubia",
+        "region_latitude": 24.045279420637232,
+        "region_longitude": 32.87520685342657
+      }
+    },
+    {
+      "id": 115,
+      "fields": {
+        "institution": 19,
+        "region": 109,
+        "group": [
+          "L",
+          175
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 153,
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg",
+        "institution_latitude": 47.99366230970573,
+        "institution_longitude": 7.846603395541588,
+        "region_currentCount": 1,
+        "region_slug": "wadi halfa",
+        "region_label": "Wadi Halfa",
+        "region_latitude": 21.800223541197976,
+        "region_longitude": 31.371896859730033
+      }
+    },
+    {
+      "id": 116,
+      "fields": {
+        "institution": 19,
+        "region": 110,
+        "group": [
+          "L",
+          176
+        ],
+        "count": 1,
+        "originalCount": 3,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 3,
+        "institution_currentCount": 153,
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg",
+        "institution_latitude": 47.99366230970573,
+        "institution_longitude": 7.846603395541588,
+        "region_currentCount": 3,
+        "region_slug": "fazogli",
+        "region_label": "Fazogli",
+        "region_latitude": 12.339380312651963,
+        "region_longitude": 34.97643463106578
+      }
+    },
+    {
+      "id": 117,
+      "fields": {
+        "institution": 19,
+        "region": 111,
+        "group": [
+          "L",
+          177,
+          205
+        ],
+        "count": 2,
+        "originalCount": 4,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 4,
+        "institution_currentCount": 153,
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg",
+        "institution_latitude": 47.99366230970573,
+        "institution_longitude": 7.846603395541588,
+        "region_currentCount": 4,
+        "region_slug": "east africa",
+        "region_label": "East Africa",
+        "region_latitude": -1.8648013928554406,
+        "region_longitude": 36.880491042961445
+      }
+    },
+    {
+      "id": 118,
+      "fields": {
+        "institution": 19,
+        "region": 112,
+        "group": [
+          "L",
+          178
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 153,
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg",
+        "institution_latitude": 47.99366230970573,
+        "institution_longitude": 7.846603395541588,
+        "region_currentCount": 1,
+        "region_slug": "darfur",
+        "region_label": "Darfur",
+        "region_latitude": 12.897501449384421,
+        "region_longitude": 24.351751504704882
+      }
+    },
+    {
+      "id": 119,
+      "fields": {
+        "institution": 19,
+        "region": 113,
+        "group": [
+          "L",
+          182
+        ],
+        "count": 1,
+        "originalCount": 17,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 17,
+        "institution_currentCount": 153,
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg",
+        "institution_latitude": 47.99366230970573,
+        "institution_longitude": 7.846603395541588,
+        "region_currentCount": 17,
+        "region_slug": "tunis",
+        "region_label": "Tunis",
+        "region_latitude": 36.80909442531333,
+        "region_longitude": 10.178325701147255
+      }
+    },
+    {
+      "id": 120,
+      "fields": {
+        "institution": 19,
+        "region": 114,
+        "group": [
+          "L",
+          185
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 153,
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg",
+        "institution_latitude": 47.99366230970573,
+        "institution_longitude": 7.846603395541588,
+        "region_currentCount": 1,
+        "region_slug": "shakawa",
+        "region_label": "Shakawa",
+        "region_latitude": -6.665856721198832,
+        "region_longitude": 20.90141621234489
+      }
+    },
+    {
+      "id": 130,
+      "fields": {
+        "institution": 19,
+        "region": 116,
+        "group": [
+          "L",
+          193
+        ],
+        "count": 1,
+        "originalCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 2,
+        "institution_currentCount": 153,
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg",
+        "institution_latitude": 47.99366230970573,
+        "institution_longitude": 7.846603395541588,
+        "region_currentCount": 2,
+        "region_slug": "bissagos",
+        "region_label": "Bissagos-Archipel",
+        "region_latitude": 11.357916298316121,
+        "region_longitude": -15.968396428751882
+      }
+    },
+    {
+      "id": 131,
+      "fields": {
+        "institution": 19,
+        "region": 117,
+        "group": [
+          "L",
+          194
+        ],
+        "count": 1,
+        "originalCount": 4,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 4,
+        "institution_currentCount": 153,
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg",
+        "institution_latitude": 47.99366230970573,
+        "institution_longitude": 7.846603395541588,
+        "region_currentCount": 4,
+        "region_slug": "southwest africa",
+        "region_label": "Southwest Africa",
+        "region_latitude": -2.224953744247847,
+        "region_longitude": 12.292331472375917
+      }
+    },
+    {
+      "id": 132,
+      "fields": {
+        "institution": 19,
+        "region": 118,
+        "group": [
+          "L",
+          196
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 153,
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg",
+        "institution_latitude": 47.99366230970573,
+        "institution_longitude": 7.846603395541588,
+        "region_currentCount": 1,
+        "region_slug": "cape peninsula",
+        "region_label": "Cape Peninsula",
+        "region_latitude": -34.22396480273133,
+        "region_longitude": 18.411802329781548
+      }
+    },
+    {
+      "id": 133,
+      "fields": {
+        "institution": 19,
+        "region": 119,
+        "group": [
+          "L",
+          197
+        ],
+        "count": 1,
+        "originalCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 2,
+        "institution_currentCount": 153,
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg",
+        "institution_latitude": 47.99366230970573,
+        "institution_longitude": 7.846603395541588,
+        "region_currentCount": 2,
+        "region_slug": "bari",
+        "region_label": "Bari",
+        "region_latitude": 10.186062746085883,
+        "region_longitude": 50.288062612408616
+      }
+    },
+    {
+      "id": 134,
+      "fields": {
+        "institution": 19,
+        "region": 120,
+        "group": [
+          "L",
+          202
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 153,
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg",
+        "institution_latitude": 47.99366230970573,
+        "institution_longitude": 7.846603395541588,
+        "region_currentCount": 1,
+        "region_slug": "sambesi",
+        "region_label": "Sambesi",
+        "region_latitude": -15.429405569406672,
+        "region_longitude": 29.563030159849497
+      }
+    },
+    {
+      "id": 135,
+      "fields": {
+        "institution": 19,
+        "region": 122,
+        "group": [
+          "L",
+          203
+        ],
+        "count": 1,
+        "originalCount": 10,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 10,
+        "institution_currentCount": 153,
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg",
+        "institution_latitude": 47.99366230970573,
+        "institution_longitude": 7.846603395541588,
+        "region_currentCount": 10,
+        "region_slug": "notheast_africa",
+        "region_label": "Northeast Africa",
+        "region_latitude": 18.867853436995386,
+        "region_longitude": 33.17415543589365
+      }
+    },
+    {
+      "id": 136,
+      "fields": {
+        "institution": 19,
+        "region": 121,
+        "group": [
+          "L",
+          204
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 153,
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg",
+        "institution_latitude": 47.99366230970573,
+        "institution_longitude": 7.846603395541588,
+        "region_currentCount": 1,
+        "region_slug": "canary-islands",
+        "region_label": "Canary Islands",
+        "region_latitude": 28.21921637714198,
+        "region_longitude": -16.636752965336946
+      }
+    }
+  ]
+}

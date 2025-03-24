@@ -1,0 +1,936 @@
+{
+  "records": [
+    {
+      "id": 1,
+      "fields": {
+        "originalLabel": "SPK – Museum für Vor- und Frühgeschichte",
+        "latitude": 52.520005287705075,
+        "longitude": 13.398000023299588,
+        "label": "SPK – Museum für Vor- und Frühgeschichte",
+        "originalCountDefinition": "The numerical data in the following table usually refer to the number of individual skulls. In very few cases, a number also conceals several parts of a human skeleton, but they usually belong together",
+        "slug": "spk-mvf",
+        "city": "Berlin",
+        "address": "Stiftung Preußischer Kulturbesitz\nVon-der-Heydt-Str. 16-18\n10785 Berlin",
+        "continents": [
+          "L",
+          7,
+          3,
+          6,
+          8,
+          5,
+          1
+        ],
+        "ancestries": [
+          "L",
+          21
+        ],
+        "regions": [
+          "L",
+          3,
+          2,
+          60,
+          24,
+          1,
+          23
+        ],
+        "countries": [
+          "L",
+          1,
+          4,
+          10,
+          23,
+          7,
+          47,
+          3,
+          48,
+          6,
+          9,
+          5,
+          2
+        ],
+        "currentCount": 6553,
+        "repatriatedCount": 0,
+        "originalCount": 6553,
+        "continents_slug": [
+          "L",
+          "north_america",
+          "asia",
+          "south_america",
+          "unknown",
+          "oceania",
+          "africa"
+        ],
+        "data_source": null
+      }
+    },
+    {
+      "id": 2,
+      "fields": {
+        "originalLabel": "SPK – Ethnologisches Museum",
+        "latitude": 52.51738272182665,
+        "longitude": 13.400731264227097,
+        "label": "SPK – Ethnologisches Museum",
+        "originalCountDefinition": "There are approximately 2,000 human remains in the collections of the Ethnological Museum. The quantitative information refers to inventory numbers. In some cases, the remains of one person are recorded under several numbers. On the other hand, it cannot always be ruled out that the mortal remains of several persons are grouped under one number or that the remains of several persons were processed in one object",
+        "slug": "spk-em",
+        "city": "Berlin",
+        "address": "Schloßpl., 10178 Berlin",
+        "continents": [
+          "L",
+          7,
+          3,
+          6,
+          8,
+          5,
+          1
+        ],
+        "ancestries": [
+          "L",
+          21
+        ],
+        "regions": [
+          "L",
+          19,
+          3,
+          21,
+          22
+        ],
+        "countries": [
+          "L",
+          1,
+          4,
+          10,
+          3,
+          9,
+          5
+        ],
+        "currentCount": 2089,
+        "repatriatedCount": 0,
+        "originalCount": 2089,
+        "continents_slug": [
+          "L",
+          "north_america",
+          "asia",
+          "south_america",
+          "unknown",
+          "oceania",
+          "africa"
+        ],
+        "data_source": null
+      }
+    },
+    {
+      "id": 3,
+      "fields": {
+        "originalLabel": "Berliner Gesellschaft für Anthropologie, Ethnologie und Frühgeschichte (BGAEU)",
+        "latitude": 52.52136221991101,
+        "longitude": 13.39190674447113,
+        "label": "Berliner Gesellschaft für Anthropologie, Ethnologie und Frühgeschichte (BGAEU)",
+        "originalCountDefinition": "no information given; the entire inventory of the \"RV collection\" amounts to the body parts, mainly the skulls of approx. 3500 individuals",
+        "slug": "bgaeu",
+        "city": "Berlin",
+        "address": "",
+        "continents": [
+          "L",
+          8,
+          3,
+          5
+        ],
+        "ancestries": [
+          "L",
+          21,
+          24
+        ],
+        "regions": [
+          "L",
+          3
+        ],
+        "countries": [
+          "L",
+          24,
+          20,
+          10
+        ],
+        "currentCount": 3514,
+        "repatriatedCount": 4,
+        "originalCount": 3518,
+        "continents_slug": [
+          "L",
+          "unknown",
+          "asia",
+          "oceania"
+        ],
+        "data_source": null
+      }
+    },
+    {
+      "id": 4,
+      "fields": {
+        "originalLabel": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)",
+        "latitude": 52.52605079679751,
+        "longitude": 13.374526157949607,
+        "label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)",
+        "originalCountDefinition": "In total, the Charité stated that it preserved the remains of 58 individuals (The additional Toi moko listed under Oceania have already repatriated to New Zealand in 2019)",
+        "slug": "charite-bmm",
+        "city": "Berlin",
+        "address": "",
+        "continents": [
+          "L",
+          3,
+          6,
+          8,
+          5,
+          1
+        ],
+        "ancestries": [
+          "L",
+          20,
+          32,
+          1,
+          4,
+          10,
+          7,
+          13,
+          16,
+          3,
+          6,
+          12,
+          9,
+          15,
+          18,
+          21,
+          5,
+          2,
+          8,
+          11,
+          17,
+          14
+        ],
+        "regions": [
+          "L",
+          3,
+          9,
+          6,
+          5,
+          8,
+          7,
+          4
+        ],
+        "countries": [
+          "L",
+          11,
+          17,
+          1,
+          14,
+          20,
+          4,
+          10,
+          13,
+          16,
+          19,
+          25,
+          15,
+          5,
+          12,
+          18,
+          2
+        ],
+        "currentCount": 58,
+        "repatriatedCount": 218,
+        "originalCount": 276,
+        "continents_slug": [
+          "L",
+          "asia",
+          "south_america",
+          "unknown",
+          "oceania",
+          "africa"
+        ],
+        "data_source": null
+      }
+    },
+    {
+      "id": 5,
+      "fields": {
+        "originalLabel": "",
+        "latitude": 48.524407831450205,
+        "longitude": 9.059478696285488,
+        "label": "Eberhard-Karls-Universität Tübingen",
+        "originalCountDefinition": "",
+        "slug": "uni-tuebingen",
+        "city": "Tübingen",
+        "address": "Geschwister-Scholl-Platz, 72074, Tübingen",
+        "continents": null,
+        "ancestries": null,
+        "regions": null,
+        "countries": null,
+        "currentCount": 0,
+        "repatriatedCount": 0,
+        "originalCount": 0,
+        "continents_slug": [
+          "L"
+        ],
+        "data_source": null
+      }
+    },
+    {
+      "id": 6,
+      "fields": {
+        "originalLabel": "Stiftung Schloss Friedenstein Gotha",
+        "latitude": 50.945816,
+        "longitude": 10.70442,
+        "label": "Stiftung Schloss Friedenstein Gotha",
+        "originalCountDefinition": "",
+        "slug": "ssf-gotha",
+        "city": "Gotha",
+        "address": "Schlossplatz 2; 99867 Gotha",
+        "continents": [
+          "L",
+          3
+        ],
+        "ancestries": [
+          "L",
+          21
+        ],
+        "regions": [
+          "L",
+          3
+        ],
+        "countries": [
+          "L",
+          21
+        ],
+        "currentCount": 33,
+        "repatriatedCount": 0,
+        "originalCount": 33,
+        "continents_slug": [
+          "L",
+          "asia"
+        ],
+        "data_source": null
+      }
+    },
+    {
+      "id": 7,
+      "fields": {
+        "originalLabel": "",
+        "latitude": 52.51823671556848,
+        "longitude": 13.396971362658126,
+        "label": "Deutsches Historisches Museum",
+        "originalCountDefinition": "",
+        "slug": "dhm",
+        "city": "Berlin",
+        "address": "Unter den Linden\n  2, 10117 Berlin ",
+        "continents": [
+          "L",
+          8,
+          3
+        ],
+        "ancestries": [
+          "L",
+          21
+        ],
+        "regions": [
+          "L",
+          3
+        ],
+        "countries": [
+          "L",
+          19,
+          10
+        ],
+        "currentCount": 3,
+        "repatriatedCount": 0,
+        "originalCount": 3,
+        "continents_slug": [
+          "L",
+          "unknown",
+          "asia"
+        ],
+        "data_source": null
+      }
+    },
+    {
+      "id": 8,
+      "fields": {
+        "originalLabel": "Weißensee kunshochschule berlin (khb)\n",
+        "latitude": 52.558138192818774,
+        "longitude": 13.439974295096098,
+        "label": "Weißensee kunshochschule berlin (khb)\n",
+        "originalCountDefinition": "4 human skeletons and 95 loose bones; colonial context unlikely, but cannot be ruled out",
+        "slug": "khb",
+        "city": "Berlin",
+        "address": "Bühringstraße 20, 13086 Berlin",
+        "continents": [
+          "L",
+          8
+        ],
+        "ancestries": [
+          "L",
+          21
+        ],
+        "regions": [
+          "L",
+          3
+        ],
+        "countries": [
+          "L",
+          10
+        ],
+        "currentCount": 4,
+        "repatriatedCount": 0,
+        "originalCount": 4,
+        "continents_slug": [
+          "L",
+          "unknown"
+        ],
+        "data_source": null
+      }
+    },
+    {
+      "id": 9,
+      "fields": {
+        "originalLabel": "",
+        "latitude": 52.51751246920301,
+        "longitude": 13.401558033524822,
+        "label": "Lautarchiv der Humboldt-Universität",
+        "originalCountDefinition": "Sounds Archive of the Humboldt University at the Hermann von Helmholtz Center);  two human larynxe with probable colonial context (Holger Stöcker)",
+        "slug": "lhu-b",
+        "city": "Berlin",
+        "address": "Schloßplatz, 10178 Berlin",
+        "continents": [
+          "L",
+          8
+        ],
+        "ancestries": [
+          "L",
+          21
+        ],
+        "regions": [
+          "L",
+          3
+        ],
+        "countries": [
+          "L",
+          10
+        ],
+        "currentCount": 2,
+        "repatriatedCount": 0,
+        "originalCount": 2,
+        "continents_slug": [
+          "L",
+          "unknown"
+        ],
+        "data_source": null
+      }
+    },
+    {
+      "id": 10,
+      "fields": {
+        "originalLabel": "Museum für Naturkunde Berlin (mfn)",
+        "latitude": 52.530670428209504,
+        "longitude": 13.379883613377254,
+        "label": "Museum für Naturkunde Berlin ",
+        "originalCountDefinition": "colonial context is being examined; also bones and bone fragments from Ecuador",
+        "slug": "mfn",
+        "city": "Berlin",
+        "address": "Invalidenstr. 43, 10115 Berlin",
+        "continents": null,
+        "ancestries": null,
+        "regions": null,
+        "countries": null,
+        "currentCount": 0,
+        "repatriatedCount": 0,
+        "originalCount": 0,
+        "continents_slug": [
+          "L"
+        ],
+        "data_source": null
+      }
+    },
+    {
+      "id": 11,
+      "fields": {
+        "originalLabel": "",
+        "latitude": 52.51767659737995,
+        "longitude": 13.392588532941982,
+        "label": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz\n",
+        "originalCountDefinition": "",
+        "slug": "stabi-b\n",
+        "city": "Berlin",
+        "address": "Unter den Linden\n  8, 10117 Berlin",
+        "continents": [
+          "L",
+          8
+        ],
+        "ancestries": [
+          "L",
+          21
+        ],
+        "regions": [
+          "L",
+          3
+        ],
+        "countries": [
+          "L",
+          10
+        ],
+        "currentCount": 1,
+        "repatriatedCount": 0,
+        "originalCount": 1,
+        "continents_slug": [
+          "L",
+          "unknown"
+        ],
+        "data_source": null
+      }
+    },
+    {
+      "id": 12,
+      "fields": {
+        "originalLabel": "Zoologische Lehrsammlung, Freie Universität Berlin\n",
+        "latitude": 52.4594156640832,
+        "longitude": 13.306406969423424,
+        "label": "Zoologische Lehrsammlung, Freie Universität Berlin",
+        "originalCountDefinition": "14 skulls, three skeletons and several bones and specimens; colonial context unlikely, but cannot be ruled out - three human remains have an increased probability of colonial context;",
+        "slug": "zlfu-b",
+        "city": "Berlin",
+        "address": "Königin-Luise-Straße 1-3, 14195 Berlin",
+        "continents": [
+          "L",
+          8
+        ],
+        "ancestries": [
+          "L",
+          21
+        ],
+        "regions": [
+          "L",
+          3
+        ],
+        "countries": [
+          "L",
+          10
+        ],
+        "currentCount": 14,
+        "repatriatedCount": 0,
+        "originalCount": 14,
+        "continents_slug": [
+          "L",
+          "unknown"
+        ],
+        "data_source": null
+      }
+    },
+    {
+      "id": 13,
+      "fields": {
+        "originalLabel": "Zoologische Lehrsammlung, Humboldt Universität Berlin",
+        "latitude": 52.52551143901556,
+        "longitude": 13.380557993484747,
+        "label": "Zoologische Lehrsammlung, Humboldt Universität Berlin",
+        "originalCountDefinition": "these are anatomical specimens whose colonial context is unlikely, but cannot be ruled out",
+        "slug": "zlhu-b",
+        "city": "Berlin",
+        "address": "Philippstraße 13, 10115 Berlin",
+        "continents": [
+          "L",
+          8
+        ],
+        "ancestries": [
+          "L",
+          21
+        ],
+        "regions": [
+          "L",
+          3
+        ],
+        "countries": [
+          "L",
+          10
+        ],
+        "currentCount": 8,
+        "repatriatedCount": 0,
+        "originalCount": 8,
+        "continents_slug": [
+          "L",
+          "unknown"
+        ],
+        "data_source": null
+      }
+    },
+    {
+      "id": 14,
+      "fields": {
+        "originalLabel": "Medizinhistorisch-anatomische Sammlung, Fachbereich Medizin, Philipps-Universität Marburg\n",
+        "latitude": 50.81342683936805,
+        "longitude": 8.76853696663504,
+        "label": "Medizinhistorisch-anatomische Sammlung, Fachbereich Medizin, Philipps-Universität Marburg\n",
+        "originalCountDefinition": "",
+        "slug": "uni-marburg",
+        "city": "Marburg",
+        "address": "Roter Graben 10, 35037 Marburg",
+        "continents": [
+          "L",
+          7,
+          3,
+          8,
+          5,
+          1
+        ],
+        "ancestries": [
+          "L",
+          10,
+          39,
+          35,
+          9,
+          38,
+          34,
+          21,
+          62,
+          36
+        ],
+        "regions": [
+          "L",
+          74,
+          3,
+          32,
+          28,
+          57,
+          27,
+          30
+        ],
+        "countries": [
+          "L",
+          30,
+          10,
+          13,
+          32,
+          19,
+          31,
+          21
+        ],
+        "currentCount": 32,
+        "repatriatedCount": 0,
+        "originalCount": 32,
+        "continents_slug": [
+          "L",
+          "north_america",
+          "asia",
+          "unknown",
+          "oceania",
+          "africa"
+        ],
+        "data_source": null
+      }
+    },
+    {
+      "id": 15,
+      "fields": {
+        "originalLabel": "Universitätsklinikum Jena, Institut für Anatomie / Anatomische Sammlung\n",
+        "latitude": 50.9279213304004,
+        "longitude": 11.585083489449067,
+        "label": "Universitätsklinikum Jena, Institut für Anatomie / Anatomische Sammlung\n",
+        "originalCountDefinition": "",
+        "slug": "uni-jena",
+        "city": "Jena",
+        "address": "Teichgraben 7\n07743 Jena\n",
+        "continents": [
+          "L",
+          3,
+          5,
+          1
+        ],
+        "ancestries": [
+          "L",
+          21,
+          28,
+          23
+        ],
+        "regions": [
+          "L",
+          74,
+          3,
+          14,
+          15
+        ],
+        "countries": [
+          "L",
+          23,
+          13,
+          21,
+          10
+        ],
+        "currentCount": 37,
+        "repatriatedCount": 0,
+        "originalCount": 37,
+        "continents_slug": [
+          "L",
+          "asia",
+          "oceania",
+          "africa"
+        ],
+        "data_source": null
+      }
+    },
+    {
+      "id": 16,
+      "fields": {
+        "originalLabel": "Medizinhistorisches Museum Hamburg",
+        "latitude": 53.593889080045386,
+        "longitude": 9.977342034686753,
+        "label": "Medizinhistorisches Museum Hamburg",
+        "originalCountDefinition": "",
+        "slug": "mm-hamburg",
+        "city": "Hamburg",
+        "address": "Martinistraße 52\n20246 Hamburg",
+        "continents": [
+          "L",
+          7,
+          3,
+          6,
+          5,
+          1
+        ],
+        "ancestries": [
+          "L",
+          21,
+          4,
+          41,
+          42
+        ],
+        "regions": [
+          "L",
+          3,
+          86,
+          89,
+          85,
+          14,
+          88,
+          30
+        ],
+        "countries": [
+          "L",
+          40,
+          1,
+          36,
+          20,
+          4,
+          39,
+          23,
+          42,
+          3,
+          35,
+          19,
+          41,
+          31,
+          38,
+          37,
+          21
+        ],
+        "currentCount": 55,
+        "repatriatedCount": 0,
+        "originalCount": 55,
+        "continents_slug": [
+          "L",
+          "north_america",
+          "asia",
+          "south_america",
+          "oceania",
+          "africa"
+        ],
+        "data_source": null
+      }
+    },
+    {
+      "id": 17,
+      "fields": {
+        "originalLabel": "Universität zu Köln\n",
+        "latitude": 50.92837133053843,
+        "longitude": 6.929779233078455,
+        "label": "Universität zu Köln\n",
+        "originalCountDefinition": "",
+        "slug": "u-koln",
+        "city": "Köln",
+        "address": "Albertus-Magnus-Platz, 50923 Köln\n",
+        "continents": [
+          "L",
+          7,
+          3,
+          6,
+          5,
+          1
+        ],
+        "ancestries": [
+          "L",
+          21
+        ],
+        "regions": [
+          "L",
+          3
+        ],
+        "countries": [
+          "L",
+          20,
+          10,
+          23,
+          51,
+          19,
+          50,
+          37,
+          21
+        ],
+        "currentCount": 17,
+        "repatriatedCount": 0,
+        "originalCount": 17,
+        "continents_slug": [
+          "L",
+          "north_america",
+          "asia",
+          "south_america",
+          "oceania",
+          "africa"
+        ],
+        "data_source": null
+      }
+    },
+    {
+      "id": 18,
+      "fields": {
+        "originalLabel": "Université de Strasbourg",
+        "latitude": 48.579175603314994,
+        "longitude": 7.766872931761126,
+        "label": "Université de Strasbourg",
+        "originalCountDefinition": "",
+        "slug": "u-stras",
+        "city": "Strasbourg",
+        "address": "4 Rue Blaise Pascal, 67081 Strasbourg\n",
+        "continents": [
+          "L",
+          1
+        ],
+        "ancestries": [
+          "L",
+          44,
+          50,
+          47,
+          53,
+          56,
+          59,
+          4,
+          10,
+          43,
+          46,
+          49,
+          55,
+          52,
+          58,
+          61,
+          9,
+          27,
+          48,
+          45,
+          51,
+          57,
+          54
+        ],
+        "regions": [
+          "L",
+          3
+        ],
+        "countries": [
+          "L",
+          10
+        ],
+        "currentCount": 100,
+        "repatriatedCount": 0,
+        "originalCount": 100,
+        "continents_slug": [
+          "L",
+          "africa"
+        ],
+        "data_source": null
+      }
+    },
+    {
+      "id": 19,
+      "fields": {
+        "originalLabel": "Universität Freiburg",
+        "latitude": 47.99366230970573,
+        "longitude": 7.846603395541588,
+        "label": "Universität Freiburg",
+        "originalCountDefinition": "",
+        "slug": "u-frei",
+        "city": "Freiburg im Breisgau\n",
+        "address": "Fahnenbergplatz\n790855 Freiburg\n",
+        "continents": [
+          "L",
+          2,
+          1
+        ],
+        "ancestries": [
+          "L",
+          21,
+          1,
+          63,
+          64
+        ],
+        "regions": [
+          "L",
+          103,
+          109,
+          106,
+          112,
+          118,
+          121,
+          93,
+          105,
+          111,
+          114,
+          117,
+          120,
+          95,
+          104,
+          110,
+          116,
+          113,
+          119,
+          3,
+          122,
+          91
+        ],
+        "countries": [
+          "L",
+          56,
+          59,
+          4,
+          10,
+          13,
+          16,
+          46,
+          55,
+          52,
+          58,
+          36,
+          48,
+          51,
+          54,
+          5,
+          57,
+          11,
+          14,
+          47,
+          53
+        ],
+        "currentCount": 153,
+        "repatriatedCount": 11,
+        "originalCount": 164,
+        "continents_slug": [
+          "L",
+          "europe",
+          "africa"
+        ],
+        "data_source": null
+      }
+    }
+  ]
+}

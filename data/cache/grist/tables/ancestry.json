@@ -1,0 +1,869 @@
+{
+  "records": [
+    {
+      "id": 1,
+      "fields": {
+        "slug": "hehe",
+        "label": "Wahehe",
+        "continent": 1,
+        "longitude": 35.60269597,
+        "latitude": -7.80346427,
+        "currentCount": 13,
+        "institutions": [
+          "L",
+          4,
+          19
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "fields": {
+        "slug": "wapangwa",
+        "label": "Wapangwa",
+        "continent": 1,
+        "longitude": 35.74394801,
+        "latitude": -9.43949327,
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          4
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "fields": {
+        "slug": "wambugu",
+        "label": "Wambugu",
+        "continent": 1,
+        "longitude": 38.50343359,
+        "latitude": -4.74837223,
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          4
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "fields": {
+        "slug": "maasai",
+        "label": "Maasai",
+        "continent": 1,
+        "longitude": 36.764372,
+        "latitude": -2.58588087,
+        "currentCount": 4,
+        "institutions": [
+          "L",
+          4,
+          16,
+          18
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "fields": {
+        "slug": "iraqw_wambulu",
+        "label": "Iraqw (Wambulu)",
+        "continent": 1,
+        "longitude": 36.68613965,
+        "latitude": -3.38648264,
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          4
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "fields": {
+        "slug": "mang-anja_mangania_marari_nyanja",
+        "label": "Mang'anja / Mangania / Marari / Nyanja",
+        "continent": 1,
+        "longitude": 34.80138589,
+        "latitude": -16.04130948,
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          4
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "fields": {
+        "slug": "monyalo",
+        "label": "Monyalo",
+        "continent": 1,
+        "longitude": 29.44653657,
+        "latitude": -23.82457252,
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          4
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "fields": {
+        "slug": "mtutsi",
+        "label": "Abatutsi (Tutsi)",
+        "continent": 1,
+        "longitude": 30.06606365,
+        "latitude": -1.94482532,
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          4
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "fields": {
+        "slug": "xhosa",
+        "label": "Xhosa",
+        "continent": 1,
+        "longitude": 18.4174,
+        "latitude": -33.9291,
+        "currentCount": 4,
+        "institutions": [
+          "L",
+          4,
+          18,
+          14
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "fields": {
+        "slug": "zulu",
+        "label": "Zulu",
+        "continent": 1,
+        "longitude": 31.45968861,
+        "latitude": -28.31628442,
+        "currentCount": 6,
+        "institutions": [
+          "L",
+          4,
+          18,
+          14
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "fields": {
+        "slug": "mfengu",
+        "label": "Mfengu",
+        "continent": 1,
+        "longitude": 27.39559154,
+        "latitude": -32.87017404,
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          4
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "fields": {
+        "slug": "san",
+        "label": "San",
+        "continent": 1,
+        "longitude": 19.10073969,
+        "latitude": -25.89360716,
+        "currentCount": 3,
+        "institutions": [
+          "L",
+          4
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "fields": {
+        "slug": "ngqika",
+        "label": "Ngqika (Xhosa)",
+        "continent": 1,
+        "longitude": 27.39559154,
+        "latitude": -32.87017404,
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          4
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "fields": {
+        "slug": "damara",
+        "label": "Damara",
+        "continent": 1,
+        "longitude": 17.72575162,
+        "latitude": -25.12808726,
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          4
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "fields": {
+        "slug": "ovambo",
+        "label": "Ovambo",
+        "continent": 1,
+        "longitude": 16.30376425,
+        "latitude": -17.92736265,
+        "currentCount": 2,
+        "institutions": [
+          "L",
+          4
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "fields": {
+        "slug": "ntcham_bassari",
+        "label": "Ntcham (Bassari)",
+        "continent": 1,
+        "longitude": 0.77723963,
+        "latitude": 9.26121985,
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          4
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "fields": {
+        "slug": "ba-ndeng",
+        "label": "Mankon (Bandeng)",
+        "continent": 1,
+        "longitude": 10.10218883,
+        "latitude": 6.00375557,
+        "currentCount": 2,
+        "institutions": [
+          "L",
+          4
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "fields": {
+        "slug": "kru",
+        "label": "Kru",
+        "continent": 1,
+        "longitude": -7.4714422,
+        "latitude": 5.31944446,
+        "currentCount": 2,
+        "institutions": [
+          "L",
+          4
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "fields": {
+        "slug": "maori",
+        "label": "Māori",
+        "continent": 5,
+        "longitude": 172.24768689863598,
+        "latitude": -42.63364565969775,
+        "currentCount": 0,
+        "institutions": null
+      }
+    },
+    {
+      "id": 20,
+      "fields": {
+        "slug": "mongols",
+        "label": "Mongols",
+        "continent": 3,
+        "longitude": 92.80956884880557,
+        "latitude": 47.017211166540655,
+        "currentCount": 2,
+        "institutions": [
+          "L",
+          4
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "fields": {
+        "slug": "unknown",
+        "label": "Unspecified ancestry",
+        "continent": 8,
+        "longitude": 0,
+        "latitude": 0,
+        "currentCount": 12480,
+        "institutions": [
+          "L",
+          11,
+          1,
+          14,
+          4,
+          17,
+          7,
+          13,
+          3,
+          16,
+          6,
+          19,
+          9,
+          15,
+          12,
+          2,
+          8
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "fields": {
+        "slug": "dayak",
+        "label": "Dayak",
+        "continent": 3,
+        "longitude": 92.80956884880557,
+        "latitude": 47.017211166540655,
+        "currentCount": 2,
+        "institutions": [
+          "L",
+          15
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "fields": {
+        "slug": "ainu",
+        "label": "Ainu",
+        "continent": 3,
+        "longitude": 142.49508457,
+        "latitude": 43.30018056,
+        "currentCount": 14,
+        "institutions": [
+          "L",
+          3
+        ]
+      }
+    },
+    {
+      "id": 26,
+      "fields": {
+        "slug": "manganja_monyalo",
+        "label": "Mang'anja/Nyanja, Monyalo",
+        "continent": 1,
+        "longitude": 16.162174978577365,
+        "latitude": 18.124569746225802,
+        "currentCount": 0,
+        "institutions": null
+      }
+    },
+    {
+      "id": 27,
+      "fields": {
+        "slug": "ovaherero",
+        "label": "Ovaherero",
+        "continent": 1,
+        "longitude": 16.162174978577365,
+        "latitude": 18.124569746225802,
+        "currentCount": 2,
+        "institutions": [
+          "L",
+          18
+        ]
+      }
+    },
+    {
+      "id": 28,
+      "fields": {
+        "slug": "nama",
+        "label": "Nama",
+        "continent": 1,
+        "longitude": 18.13258851,
+        "latitude": -26.56307108,
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          15
+        ]
+      }
+    },
+    {
+      "id": 29,
+      "fields": {
+        "slug": "ache",
+        "label": "Ache",
+        "continent": 6,
+        "longitude": -61.51873222725019,
+        "latitude": -8.19683014174719,
+        "currentCount": 0,
+        "institutions": null
+      }
+    },
+    {
+      "id": 32,
+      "fields": {
+        "slug": "moriori_maori",
+        "label": "Moriori, Māori",
+        "continent": 5,
+        "longitude": 172.24768689863598,
+        "latitude": -42.63364565969775,
+        "currentCount": 0,
+        "institutions": [
+          "L",
+          4
+        ]
+      }
+    },
+    {
+      "id": 33,
+      "fields": {
+        "slug": "temenggung",
+        "label": "Temenggung",
+        "continent": 3,
+        "longitude": 92.80956884880557,
+        "latitude": 47.017211166540655,
+        "currentCount": 0,
+        "institutions": null
+      }
+    },
+    {
+      "id": 34,
+      "fields": {
+        "slug": "boni",
+        "label": "Bone/Boni",
+        "continent": 3,
+        "longitude": 114.6208821,
+        "latitude": 4.50588326,
+        "currentCount": 2,
+        "institutions": [
+          "L",
+          14
+        ]
+      }
+    },
+    {
+      "id": 35,
+      "fields": {
+        "slug": "makassar",
+        "label": "Makassar",
+        "continent": 3,
+        "longitude": 120.46327002,
+        "latitude": -5.21134454,
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          14
+        ]
+      }
+    },
+    {
+      "id": 36,
+      "fields": {
+        "slug": "hindustani",
+        "label": "Hindustani",
+        "continent": 3,
+        "longitude": 75.89147774,
+        "latitude": 27.38847787,
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          14
+        ]
+      }
+    },
+    {
+      "id": 38,
+      "fields": {
+        "slug": "fiji",
+        "label": "iTaukei (Fiji)",
+        "continent": 5,
+        "longitude": 177.97550923,
+        "latitude": -17.8017413,
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          14
+        ]
+      }
+    },
+    {
+      "id": 39,
+      "fields": {
+        "slug": "inuit_greenland",
+        "label": "Inuit",
+        "continent": 2,
+        "longitude": -42.1736914,
+        "latitude": 69.6354163,
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          14
+        ]
+      }
+    },
+    {
+      "id": 41,
+      "fields": {
+        "slug": "inka",
+        "label": "Inka",
+        "continent": 6,
+        "longitude": -61.51873222725019,
+        "latitude": -8.19683014174719,
+        "currentCount": 18,
+        "institutions": [
+          "L",
+          16
+        ]
+      }
+    },
+    {
+      "id": 42,
+      "fields": {
+        "slug": "chincas",
+        "label": "Chincas",
+        "continent": 6,
+        "longitude": -61.51873222725019,
+        "latitude": -8.19683014174719,
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          16
+        ]
+      }
+    },
+    {
+      "id": 43,
+      "fields": {
+        "slug": "dschagga",
+        "label": "Wachaga",
+        "continent": 1,
+        "longitude": 37.40739896,
+        "latitude": -3.314529429,
+        "currentCount": 30,
+        "institutions": [
+          "L",
+          18
+        ]
+      }
+    },
+    {
+      "id": 44,
+      "fields": {
+        "slug": "nyamwesi",
+        "label": "Wanyamwesi",
+        "continent": 1,
+        "longitude": 32.82663,
+        "latitude": -5.01622,
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          18
+        ]
+      }
+    },
+    {
+      "id": 45,
+      "fields": {
+        "slug": "bangwa",
+        "label": "Bangwa (Nwe)",
+        "continent": 1,
+        "longitude": 9.85276792,
+        "latitude": 5.478500903,
+        "currentCount": 12,
+        "institutions": [
+          "L",
+          18
+        ]
+      }
+    },
+    {
+      "id": 46,
+      "fields": {
+        "slug": "bamenda",
+        "label": "Nkwen (Bamenda)",
+        "continent": 1,
+        "longitude": 10.15725773,
+        "latitude": 5.962976544,
+        "currentCount": 9,
+        "institutions": [
+          "L",
+          18
+        ]
+      }
+    },
+    {
+      "id": 47,
+      "fields": {
+        "slug": "cross_river",
+        "label": "Ejagham (Ekoi)",
+        "continent": 1,
+        "longitude": 8.981806009,
+        "latitude": 5.883961566,
+        "currentCount": 10,
+        "institutions": [
+          "L",
+          18
+        ]
+      }
+    },
+    {
+      "id": 48,
+      "fields": {
+        "slug": "batscha",
+        "label": "Batcha (Bamiléké)",
+        "continent": 1,
+        "longitude": 10.3508,
+        "latitude": 5.1059,
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          18
+        ]
+      }
+    },
+    {
+      "id": 49,
+      "fields": {
+        "slug": "bali",
+        "label": "Bali",
+        "continent": 1,
+        "longitude": 10.0061,
+        "latitude": 5.8747,
+        "currentCount": 2,
+        "institutions": [
+          "L",
+          18
+        ]
+      }
+    },
+    {
+      "id": 50,
+      "fields": {
+        "slug": "babadju",
+        "label": "Babadjou (Bamiléké)",
+        "continent": 1,
+        "longitude": 10.162,
+        "latitude": 5.6783,
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          18
+        ]
+      }
+    },
+    {
+      "id": 51,
+      "fields": {
+        "slug": "mamfe",
+        "label": "Mamfé (Banyang)",
+        "continent": 1,
+        "longitude": 9.3733,
+        "latitude": 5.6482,
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          18
+        ]
+      }
+    },
+    {
+      "id": 52,
+      "fields": {
+        "slug": "bakumba",
+        "label": "Bakumba (Mbonge)",
+        "continent": 1,
+        "longitude": 9.141,
+        "latitude": 6.015,
+        "currentCount": 6,
+        "institutions": [
+          "L",
+          18
+        ]
+      }
+    },
+    {
+      "id": 53,
+      "fields": {
+        "slug": "bafut",
+        "label": "Bafut",
+        "continent": 1,
+        "longitude": 10.0659,
+        "latitude": 6.1655,
+        "currentCount": 11,
+        "institutions": [
+          "L",
+          18
+        ]
+      }
+    },
+    {
+      "id": 54,
+      "fields": {
+        "slug": "bali-kumbat",
+        "label": "Balikumbat",
+        "continent": 1,
+        "longitude": 10.113,
+        "latitude": 5.624,
+        "currentCount": 2,
+        "institutions": [
+          "L",
+          18
+        ]
+      }
+    },
+    {
+      "id": 55,
+      "fields": {
+        "slug": "bamum",
+        "label": "Bamum",
+        "continent": 1,
+        "longitude": 10.869,
+        "latitude": 5.7187,
+        "currentCount": 2,
+        "institutions": [
+          "L",
+          18
+        ]
+      }
+    },
+    {
+      "id": 56,
+      "fields": {
+        "slug": "suaheli",
+        "label": "Waswahili",
+        "continent": 1,
+        "longitude": 39.66866757,
+        "latitude": -4.0444275,
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          18
+        ]
+      }
+    },
+    {
+      "id": 57,
+      "fields": {
+        "slug": "mindeh",
+        "label": "Mende",
+        "continent": 1,
+        "longitude": -12.574,
+        "latitude": 8.383,
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          18
+        ]
+      }
+    },
+    {
+      "id": 58,
+      "fields": {
+        "slug": "loango",
+        "label": "Loango",
+        "continent": 1,
+        "longitude": 11.8115,
+        "latitude": -4.6562,
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          18
+        ]
+      }
+    },
+    {
+      "id": 59,
+      "fields": {
+        "slug": "bakundu",
+        "label": "Bakundu",
+        "continent": 1,
+        "longitude": 9.4826,
+        "latitude": 4.2999,
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          18
+        ]
+      }
+    },
+    {
+      "id": 61,
+      "fields": {
+        "slug": "mandingo",
+        "label": "Mandingo / Malinke",
+        "continent": 1,
+        "longitude": -12.0444,
+        "latitude": 8.8881,
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          18
+        ]
+      }
+    },
+    {
+      "id": 62,
+      "fields": {
+        "slug": "bugi",
+        "label": "Bugi",
+        "continent": 3,
+        "longitude": 119.49113213,
+        "latitude": -3.98193383,
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          14
+        ]
+      }
+    },
+    {
+      "id": 63,
+      "fields": {
+        "slug": "makaa",
+        "label": "Makaa",
+        "continent": 1,
+        "longitude": 12.236044048206372,
+        "latitude": 5.49239141164285,
+        "currentCount": 6,
+        "institutions": [
+          "L",
+          19
+        ]
+      }
+    },
+    {
+      "id": 64,
+      "fields": {
+        "slug": "fellah",
+        "label": "Fellah",
+        "continent": 1,
+        "longitude": 29.61250995386261,
+        "latitude": 26.711249019754316,
+        "currentCount": 1,
+        "institutions": [
+          "L",
+          19
+        ]
+      }
+    }
+  ]
+}

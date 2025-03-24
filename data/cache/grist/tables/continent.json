@@ -1,0 +1,301 @@
+{
+  "records": [
+    {
+      "id": 1,
+      "fields": {
+        "slug": "africa",
+        "label": "Africa",
+        "longitude": 16.162174978577365,
+        "latitude": 18.124569746225802,
+        "currentCount": 2442,
+        "institutions": [
+          "L",
+          1,
+          14,
+          4,
+          17,
+          16,
+          19,
+          15,
+          18,
+          2
+        ],
+        "institutionsLabel": [
+          "L",
+          "SPK – Museum für Vor- und Frühgeschichte",
+          "SPK – Ethnologisches Museum",
+          "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)",
+          "Medizinhistorisch-anatomische Sammlung, Fachbereich Medizin, Philipps-Universität Marburg\n",
+          "Universitätsklinikum Jena, Institut für Anatomie / Anatomische Sammlung\n",
+          "Medizinhistorisches Museum Hamburg",
+          "Universität zu Köln\n",
+          "Université de Strasbourg",
+          "Universität Freiburg"
+        ],
+        "institutionsSlug": [
+          "L",
+          "spk-mvf",
+          "spk-em",
+          "charite-bmm",
+          "uni-marburg",
+          "uni-jena",
+          "mm-hamburg",
+          "u-koln",
+          "u-stras",
+          "u-frei"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "fields": {
+        "slug": "europe",
+        "label": "Europe",
+        "longitude": 0,
+        "latitude": 0,
+        "currentCount": 23,
+        "institutions": [
+          "L",
+          19
+        ],
+        "institutionsLabel": [
+          "L",
+          "Universität Freiburg"
+        ],
+        "institutionsSlug": [
+          "L",
+          "u-frei"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "fields": {
+        "slug": "asia",
+        "label": "Asia",
+        "longitude": 92.80956884880557,
+        "latitude": 47.017211166540655,
+        "currentCount": 617,
+        "institutions": [
+          "L",
+          1,
+          14,
+          4,
+          17,
+          7,
+          3,
+          16,
+          6,
+          15,
+          2
+        ],
+        "institutionsLabel": [
+          "L",
+          "SPK – Museum für Vor- und Frühgeschichte",
+          "SPK – Ethnologisches Museum",
+          "Berliner Gesellschaft für Anthropologie, Ethnologie und Frühgeschichte (BGAEU)",
+          "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)",
+          "Stiftung Schloss Friedenstein Gotha",
+          "Deutsches Historisches Museum",
+          "Medizinhistorisch-anatomische Sammlung, Fachbereich Medizin, Philipps-Universität Marburg\n",
+          "Universitätsklinikum Jena, Institut für Anatomie / Anatomische Sammlung\n",
+          "Medizinhistorisches Museum Hamburg",
+          "Universität zu Köln\n"
+        ],
+        "institutionsSlug": [
+          "L",
+          "spk-mvf",
+          "spk-em",
+          "bgaeu",
+          "charite-bmm",
+          "ssf-gotha",
+          "dhm",
+          "uni-marburg",
+          "uni-jena",
+          "mm-hamburg",
+          "u-koln"
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "fields": {
+        "slug": "antarctica",
+        "label": "Antarctica",
+        "longitude": 0,
+        "latitude": 0,
+        "currentCount": 0,
+        "institutions": null,
+        "institutionsLabel": [
+          "L"
+        ],
+        "institutionsSlug": [
+          "L"
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "fields": {
+        "slug": "oceania",
+        "label": "Oceania",
+        "longitude": 128.2188155426399,
+        "latitude": -4.827784594522241,
+        "currentCount": 3391,
+        "institutions": [
+          "L",
+          1,
+          14,
+          4,
+          17,
+          3,
+          16,
+          15,
+          2
+        ],
+        "institutionsLabel": [
+          "L",
+          "SPK – Museum für Vor- und Frühgeschichte",
+          "SPK – Ethnologisches Museum",
+          "Berliner Gesellschaft für Anthropologie, Ethnologie und Frühgeschichte (BGAEU)",
+          "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)",
+          "Medizinhistorisch-anatomische Sammlung, Fachbereich Medizin, Philipps-Universität Marburg\n",
+          "Universitätsklinikum Jena, Institut für Anatomie / Anatomische Sammlung\n",
+          "Medizinhistorisches Museum Hamburg",
+          "Universität zu Köln\n"
+        ],
+        "institutionsSlug": [
+          "L",
+          "spk-mvf",
+          "spk-em",
+          "bgaeu",
+          "charite-bmm",
+          "uni-marburg",
+          "uni-jena",
+          "mm-hamburg",
+          "u-koln"
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "fields": {
+        "slug": "south_america",
+        "label": "South America",
+        "longitude": -61.51873222725019,
+        "latitude": -8.19683014174719,
+        "currentCount": 1532,
+        "institutions": [
+          "L",
+          1,
+          4,
+          17,
+          16,
+          2
+        ],
+        "institutionsLabel": [
+          "L",
+          "SPK – Museum für Vor- und Frühgeschichte",
+          "SPK – Ethnologisches Museum",
+          "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)",
+          "Medizinhistorisches Museum Hamburg",
+          "Universität zu Köln\n"
+        ],
+        "institutionsSlug": [
+          "L",
+          "spk-mvf",
+          "spk-em",
+          "charite-bmm",
+          "mm-hamburg",
+          "u-koln"
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "fields": {
+        "slug": "north_america",
+        "label": "North America",
+        "longitude": -104.42544904987916,
+        "latitude": 50.26487079067549,
+        "currentCount": 155,
+        "institutions": [
+          "L",
+          1,
+          14,
+          17,
+          16,
+          2
+        ],
+        "institutionsLabel": [
+          "L",
+          "SPK – Museum für Vor- und Frühgeschichte",
+          "SPK – Ethnologisches Museum",
+          "Medizinhistorisch-anatomische Sammlung, Fachbereich Medizin, Philipps-Universität Marburg\n",
+          "Medizinhistorisches Museum Hamburg",
+          "Universität zu Köln\n"
+        ],
+        "institutionsSlug": [
+          "L",
+          "spk-mvf",
+          "spk-em",
+          "uni-marburg",
+          "mm-hamburg",
+          "u-koln"
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "fields": {
+        "slug": "unknown",
+        "label": "Unknown",
+        "longitude": 0,
+        "latitude": 0,
+        "currentCount": 4518,
+        "institutions": [
+          "L",
+          11,
+          1,
+          14,
+          4,
+          7,
+          13,
+          3,
+          9,
+          12,
+          2,
+          8
+        ],
+        "institutionsLabel": [
+          "L",
+          "SPK – Museum für Vor- und Frühgeschichte",
+          "SPK – Ethnologisches Museum",
+          "Berliner Gesellschaft für Anthropologie, Ethnologie und Frühgeschichte (BGAEU)",
+          "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)",
+          "Deutsches Historisches Museum",
+          "Weißensee kunshochschule berlin (khb)\n",
+          "Lautarchiv der Humboldt-Universität",
+          "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz\n",
+          "Zoologische Lehrsammlung, Freie Universität Berlin",
+          "Zoologische Lehrsammlung, Humboldt Universität Berlin",
+          "Medizinhistorisch-anatomische Sammlung, Fachbereich Medizin, Philipps-Universität Marburg\n"
+        ],
+        "institutionsSlug": [
+          "L",
+          "spk-mvf",
+          "spk-em",
+          "bgaeu",
+          "charite-bmm",
+          "dhm",
+          "khb",
+          "lhu-b",
+          "stabi-b\n",
+          "zlfu-b",
+          "zlhu-b",
+          "uni-marburg"
+        ]
+      }
+    }
+  ]
+}

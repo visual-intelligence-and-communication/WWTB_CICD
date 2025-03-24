@@ -1,0 +1,3312 @@
+{
+  "records": [
+    {
+      "id": 126,
+      "fields": {
+        "institution": 1,
+        "continent": 1,
+        "region": 3,
+        "country": 1,
+        "ancestry": 21,
+        "group": [
+          "L",
+          1,
+          65
+        ],
+        "currentCount": 214,
+        "certaintyOfCount": 0.45,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 127,
+      "fields": {
+        "institution": 1,
+        "continent": 1,
+        "region": 3,
+        "country": 2,
+        "ancestry": 21,
+        "group": [
+          "L",
+          2
+        ],
+        "currentCount": 907,
+        "certaintyOfCount": 0.89,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 128,
+      "fields": {
+        "institution": 1,
+        "continent": 1,
+        "region": 3,
+        "country": 3,
+        "ancestry": 21,
+        "group": [
+          "L",
+          3
+        ],
+        "currentCount": 22,
+        "certaintyOfCount": 0.9,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 130,
+      "fields": {
+        "institution": 1,
+        "continent": 1,
+        "region": 3,
+        "country": 4,
+        "ancestry": 21,
+        "group": [
+          "L",
+          5
+        ],
+        "currentCount": 300,
+        "certaintyOfCount": 0.7,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 131,
+      "fields": {
+        "institution": 1,
+        "continent": 1,
+        "region": 3,
+        "country": 5,
+        "ancestry": 21,
+        "group": [
+          "L",
+          6
+        ],
+        "currentCount": 50,
+        "certaintyOfCount": 0.7,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 132,
+      "fields": {
+        "institution": 1,
+        "continent": 5,
+        "region": 1,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          7
+        ],
+        "currentCount": 20,
+        "certaintyOfCount": 0.7,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 133,
+      "fields": {
+        "institution": 1,
+        "continent": 5,
+        "region": 3,
+        "country": 6,
+        "ancestry": 21,
+        "group": [
+          "L",
+          8
+        ],
+        "currentCount": 10,
+        "certaintyOfCount": 0.7,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 134,
+      "fields": {
+        "institution": 1,
+        "continent": 5,
+        "region": 3,
+        "country": 7,
+        "ancestry": 21,
+        "group": [
+          "L",
+          9
+        ],
+        "currentCount": 10,
+        "certaintyOfCount": 0.7,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 135,
+      "fields": {
+        "institution": 1,
+        "continent": 5,
+        "region": 2,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          11
+        ],
+        "currentCount": 20,
+        "certaintyOfCount": 0.7,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 136,
+      "fields": {
+        "institution": 1,
+        "continent": 5,
+        "region": 3,
+        "country": 9,
+        "ancestry": 21,
+        "group": [
+          "L",
+          12
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 0.5,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 137,
+      "fields": {
+        "institution": 2,
+        "continent": 8,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          14,
+          16,
+          17,
+          21
+        ],
+        "currentCount": 100,
+        "certaintyOfCount": 0.8,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 138,
+      "fields": {
+        "institution": 2,
+        "continent": 1,
+        "region": 3,
+        "country": 1,
+        "ancestry": 21,
+        "group": [
+          "L",
+          22
+        ],
+        "currentCount": 21,
+        "certaintyOfCount": 0.9,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 139,
+      "fields": {
+        "institution": 2,
+        "continent": 1,
+        "region": 3,
+        "country": 3,
+        "ancestry": 21,
+        "group": [
+          "L",
+          23
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 0.9,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 140,
+      "fields": {
+        "institution": 2,
+        "continent": 1,
+        "region": 3,
+        "country": 4,
+        "ancestry": 21,
+        "group": [
+          "L",
+          24
+        ],
+        "currentCount": 67,
+        "certaintyOfCount": 0.7,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 141,
+      "fields": {
+        "institution": 2,
+        "continent": 1,
+        "region": 3,
+        "country": 5,
+        "ancestry": 21,
+        "group": [
+          "L",
+          25
+        ],
+        "currentCount": 16,
+        "certaintyOfCount": 0.7,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 142,
+      "fields": {
+        "institution": 2,
+        "continent": 5,
+        "region": 3,
+        "country": 9,
+        "ancestry": 21,
+        "group": [
+          "L",
+          26
+        ],
+        "currentCount": 17,
+        "certaintyOfCount": 0.7,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 143,
+      "fields": {
+        "institution": 3,
+        "continent": 8,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          27
+        ],
+        "currentCount": 3500,
+        "certaintyOfCount": 0.6,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 144,
+      "fields": {
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 1,
+        "ancestry": 1,
+        "group": [
+          "L",
+          28
+        ],
+        "currentCount": 12,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 145,
+      "fields": {
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 1,
+        "ancestry": 2,
+        "group": [
+          "L",
+          29
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 146,
+      "fields": {
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 1,
+        "ancestry": 3,
+        "group": [
+          "L",
+          30
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 147,
+      "fields": {
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 1,
+        "ancestry": 4,
+        "group": [
+          "L",
+          31
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 148,
+      "fields": {
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 1,
+        "ancestry": 21,
+        "group": [
+          "L",
+          32
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 149,
+      "fields": {
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 1,
+        "ancestry": 5,
+        "group": [
+          "L",
+          33
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 150,
+      "fields": {
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 11,
+        "ancestry": 21,
+        "group": [
+          "L",
+          34
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 151,
+      "fields": {
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 12,
+        "ancestry": 6,
+        "group": [
+          "L",
+          35
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 152,
+      "fields": {
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 12,
+        "ancestry": 7,
+        "group": [
+          "L",
+          36
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 153,
+      "fields": {
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 2,
+        "ancestry": 8,
+        "group": [
+          "L",
+          37
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 154,
+      "fields": {
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 2,
+        "ancestry": 21,
+        "group": [
+          "L",
+          38
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 155,
+      "fields": {
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 13,
+        "ancestry": 21,
+        "group": [
+          "L",
+          39
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 156,
+      "fields": {
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 13,
+        "ancestry": 9,
+        "group": [
+          "L",
+          40
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 157,
+      "fields": {
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 13,
+        "ancestry": 10,
+        "group": [
+          "L",
+          41
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 158,
+      "fields": {
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 13,
+        "ancestry": 11,
+        "group": [
+          "L",
+          42
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 159,
+      "fields": {
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 13,
+        "ancestry": 12,
+        "group": [
+          "L",
+          43
+        ],
+        "currentCount": 3,
+        "certaintyOfCount": 0.8,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 160,
+      "fields": {
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 13,
+        "ancestry": 13,
+        "group": [
+          "L",
+          44
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 161,
+      "fields": {
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 14,
+        "ancestry": 14,
+        "group": [
+          "L",
+          45
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 162,
+      "fields": {
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 14,
+        "ancestry": 15,
+        "group": [
+          "L",
+          46
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 163,
+      "fields": {
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 5,
+        "ancestry": 16,
+        "group": [
+          "L",
+          47
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 164,
+      "fields": {
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 4,
+        "ancestry": 17,
+        "group": [
+          "L",
+          48
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 165,
+      "fields": {
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 15,
+        "ancestry": 18,
+        "group": [
+          "L",
+          49
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 166,
+      "fields": {
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 16,
+        "ancestry": 21,
+        "group": [
+          "L",
+          50
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 0,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 167,
+      "fields": {
+        "institution": 6,
+        "continent": 3,
+        "region": 3,
+        "country": 21,
+        "ancestry": 21,
+        "group": [
+          "L",
+          63
+        ],
+        "currentCount": 33,
+        "certaintyOfCount": 0,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 168,
+      "fields": {
+        "institution": 4,
+        "continent": 5,
+        "region": 3,
+        "country": 20,
+        "ancestry": 21,
+        "group": [
+          "L",
+          62,
+          95
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 49
+      }
+    },
+    {
+      "id": 169,
+      "fields": {
+        "institution": 4,
+        "continent": 3,
+        "region": 3,
+        "country": 10,
+        "ancestry": 20,
+        "group": [
+          "L",
+          61
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 170,
+      "fields": {
+        "institution": 4,
+        "continent": 3,
+        "region": 3,
+        "country": 19,
+        "ancestry": 21,
+        "group": [
+          "L",
+          60
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 171,
+      "fields": {
+        "institution": 4,
+        "continent": 8,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          59
+        ],
+        "currentCount": 4,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 172,
+      "fields": {
+        "institution": 4,
+        "continent": 5,
+        "region": 3,
+        "country": 18,
+        "ancestry": 21,
+        "group": [
+          "L",
+          58
+        ],
+        "currentCount": 0,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 1
+      }
+    },
+    {
+      "id": 173,
+      "fields": {
+        "institution": 4,
+        "continent": 5,
+        "region": 9,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          57
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 174,
+      "fields": {
+        "institution": 4,
+        "continent": 5,
+        "region": 4,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          51
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 175,
+      "fields": {
+        "institution": 4,
+        "continent": 5,
+        "region": 3,
+        "country": 17,
+        "ancestry": 21,
+        "group": [
+          "L",
+          52
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 176,
+      "fields": {
+        "institution": 4,
+        "continent": 5,
+        "region": 5,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          53
+        ],
+        "currentCount": 3,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 177,
+      "fields": {
+        "institution": 4,
+        "continent": 5,
+        "region": 6,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          54
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 178,
+      "fields": {
+        "institution": 4,
+        "continent": 5,
+        "region": 7,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          55
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 179,
+      "fields": {
+        "institution": 4,
+        "continent": 5,
+        "region": 8,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          56
+        ],
+        "currentCount": 3,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 183,
+      "fields": {
+        "institution": 7,
+        "continent": 3,
+        "region": 3,
+        "country": 19,
+        "ancestry": 21,
+        "group": [
+          "L",
+          66
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 187,
+      "fields": {
+        "institution": 7,
+        "continent": 8,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          67
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 0.5,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 188,
+      "fields": {
+        "institution": 2,
+        "continent": 5,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          20
+        ],
+        "currentCount": 1009,
+        "certaintyOfCount": 0.8,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 189,
+      "fields": {
+        "institution": 2,
+        "continent": 6,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          19
+        ],
+        "currentCount": 699,
+        "certaintyOfCount": 0.8,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 191,
+      "fields": {
+        "institution": 2,
+        "continent": 6,
+        "region": 22,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          18
+        ],
+        "currentCount": 96,
+        "certaintyOfCount": 0.8,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 202,
+      "fields": {
+        "institution": 3,
+        "continent": 3,
+        "region": 3,
+        "country": 24,
+        "ancestry": 24,
+        "group": [
+          "L",
+          68
+        ],
+        "currentCount": 14,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 1
+      }
+    },
+    {
+      "id": 205,
+      "fields": {
+        "institution": 3,
+        "continent": 5,
+        "region": 3,
+        "country": 20,
+        "ancestry": 21,
+        "group": [
+          "L",
+          69,
+          97
+        ],
+        "currentCount": 0,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 2
+      }
+    },
+    {
+      "id": 210,
+      "fields": {
+        "institution": 8,
+        "continent": 8,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          70
+        ],
+        "currentCount": 4,
+        "certaintyOfCount": 0.3,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 214,
+      "fields": {
+        "institution": 9,
+        "continent": 8,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          71
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 0.5,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 218,
+      "fields": {
+        "institution": 11,
+        "continent": 8,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          72
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 0.5,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 221,
+      "fields": {
+        "institution": 14,
+        "continent": 8,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          73
+        ],
+        "currentCount": 12,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 225,
+      "fields": {
+        "institution": 14,
+        "continent": 3,
+        "region": 3,
+        "country": 19,
+        "ancestry": 21,
+        "group": [
+          "L",
+          74
+        ],
+        "currentCount": 3,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 229,
+      "fields": {
+        "institution": 14,
+        "continent": 1,
+        "region": 3,
+        "country": 13,
+        "ancestry": 9,
+        "group": [
+          "L",
+          75
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 237,
+      "fields": {
+        "institution": 14,
+        "continent": 3,
+        "region": 30,
+        "country": 21,
+        "ancestry": 21,
+        "group": [
+          "L",
+          77
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 255,
+      "fields": {
+        "institution": 14,
+        "continent": 1,
+        "region": 74,
+        "country": 10,
+        "ancestry": 10,
+        "group": [
+          "L",
+          81
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 259,
+      "fields": {
+        "institution": 14,
+        "continent": 3,
+        "region": 3,
+        "country": 32,
+        "ancestry": 21,
+        "group": [
+          "L",
+          82
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 263,
+      "fields": {
+        "institution": 14,
+        "continent": 3,
+        "region": 27,
+        "country": 21,
+        "ancestry": 34,
+        "group": [
+          "L",
+          78,
+          83
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 267,
+      "fields": {
+        "institution": 14,
+        "continent": 3,
+        "region": 27,
+        "country": 21,
+        "ancestry": 35,
+        "group": [
+          "L",
+          84
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 271,
+      "fields": {
+        "institution": 14,
+        "continent": 3,
+        "region": 57,
+        "country": 21,
+        "ancestry": 21,
+        "group": [
+          "L",
+          85
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 275,
+      "fields": {
+        "institution": 14,
+        "continent": 3,
+        "region": 32,
+        "country": 21,
+        "ancestry": 21,
+        "group": [
+          "L",
+          86
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 279,
+      "fields": {
+        "institution": 14,
+        "continent": 3,
+        "region": 3,
+        "country": 10,
+        "ancestry": 36,
+        "group": [
+          "L",
+          87
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 283,
+      "fields": {
+        "institution": 12,
+        "continent": 8,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          88,
+          90
+        ],
+        "currentCount": 14,
+        "certaintyOfCount": 0.55,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 287,
+      "fields": {
+        "institution": 13,
+        "continent": 8,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          89
+        ],
+        "currentCount": 8,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 289,
+      "fields": {
+        "institution": 1,
+        "continent": 1,
+        "region": 23,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          4
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 0.9,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 295,
+      "fields": {
+        "institution": 1,
+        "continent": 1,
+        "region": 24,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          91
+        ],
+        "currentCount": 100,
+        "certaintyOfCount": 0,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 298,
+      "fields": {
+        "institution": 1,
+        "continent": 5,
+        "region": 3,
+        "country": 23,
+        "ancestry": 21,
+        "group": [
+          "L",
+          10
+        ],
+        "currentCount": 2000,
+        "certaintyOfCount": 0.7,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 302,
+      "fields": {
+        "institution": 1,
+        "continent": 5,
+        "region": 60,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          92
+        ],
+        "currentCount": 40,
+        "certaintyOfCount": 0,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 303,
+      "fields": {
+        "institution": 2,
+        "continent": 8,
+        "region": 19,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          13
+        ],
+        "currentCount": 33,
+        "certaintyOfCount": 0.8,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 304,
+      "fields": {
+        "institution": 2,
+        "continent": 8,
+        "region": 21,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          15
+        ],
+        "currentCount": 30,
+        "certaintyOfCount": 0.8,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 307,
+      "fields": {
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 14,
+        "ancestry": 21,
+        "group": [
+          "L",
+          93
+        ],
+        "currentCount": 0,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 58
+      }
+    },
+    {
+      "id": 311,
+      "fields": {
+        "institution": 4,
+        "continent": 6,
+        "region": 3,
+        "country": 25,
+        "ancestry": 21,
+        "group": [
+          "L",
+          94
+        ],
+        "currentCount": 0,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 1
+      }
+    },
+    {
+      "id": 314,
+      "fields": {
+        "institution": 3,
+        "continent": 3,
+        "region": 3,
+        "country": 24,
+        "ancestry": 21,
+        "group": [
+          "L",
+          98
+        ],
+        "currentCount": 0,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 1
+      }
+    },
+    {
+      "id": 317,
+      "fields": {
+        "institution": 15,
+        "continent": 3,
+        "region": 3,
+        "country": 21,
+        "ancestry": 21,
+        "group": [
+          "L",
+          99
+        ],
+        "currentCount": 24,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 320,
+      "fields": {
+        "institution": 15,
+        "continent": 3,
+        "region": 14,
+        "country": 10,
+        "ancestry": 23,
+        "group": [
+          "L",
+          100
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 323,
+      "fields": {
+        "institution": 15,
+        "continent": 5,
+        "region": 15,
+        "country": 23,
+        "ancestry": 21,
+        "group": [
+          "L",
+          101
+        ],
+        "currentCount": 8,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 327,
+      "fields": {
+        "institution": 15,
+        "continent": 1,
+        "region": 74,
+        "country": 10,
+        "ancestry": 28,
+        "group": [
+          "L",
+          102
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 0.5,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 330,
+      "fields": {
+        "institution": 15,
+        "continent": 1,
+        "region": 3,
+        "country": 13,
+        "ancestry": 21,
+        "group": [
+          "L",
+          103
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 331,
+      "fields": {
+        "institution": 14,
+        "continent": 1,
+        "region": 3,
+        "country": 13,
+        "ancestry": 10,
+        "group": [
+          "L",
+          76
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 332,
+      "fields": {
+        "institution": 14,
+        "continent": 5,
+        "region": 28,
+        "country": 30,
+        "ancestry": 38,
+        "group": [
+          "L",
+          79
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 333,
+      "fields": {
+        "institution": 14,
+        "continent": 7,
+        "region": 3,
+        "country": 31,
+        "ancestry": 39,
+        "group": [
+          "L",
+          80
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 337,
+      "fields": {
+        "institution": 16,
+        "continent": 3,
+        "region": 85,
+        "country": 19,
+        "ancestry": 21,
+        "group": [
+          "L",
+          104
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 341,
+      "fields": {
+        "institution": 16,
+        "continent": 6,
+        "region": 3,
+        "country": 35,
+        "ancestry": 21,
+        "group": [
+          "L",
+          105
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 345,
+      "fields": {
+        "institution": 16,
+        "continent": 5,
+        "region": 3,
+        "country": 20,
+        "ancestry": 21,
+        "group": [
+          "L",
+          106
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 349,
+      "fields": {
+        "institution": 16,
+        "continent": 1,
+        "region": 3,
+        "country": 36,
+        "ancestry": 21,
+        "group": [
+          "L",
+          107
+        ],
+        "currentCount": 3,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 352,
+      "fields": {
+        "institution": 16,
+        "continent": 3,
+        "region": 30,
+        "country": 21,
+        "ancestry": 21,
+        "group": [
+          "L",
+          108
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 356,
+      "fields": {
+        "institution": 16,
+        "continent": 3,
+        "region": 86,
+        "country": 37,
+        "ancestry": 21,
+        "group": [
+          "L",
+          109
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 0.8,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 360,
+      "fields": {
+        "institution": 16,
+        "continent": 5,
+        "region": 3,
+        "country": 23,
+        "ancestry": 21,
+        "group": [
+          "L",
+          110
+        ],
+        "currentCount": 11,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 364,
+      "fields": {
+        "institution": 16,
+        "continent": 5,
+        "region": 3,
+        "country": 38,
+        "ancestry": 21,
+        "group": [
+          "L",
+          111
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 368,
+      "fields": {
+        "institution": 16,
+        "continent": 3,
+        "region": 14,
+        "country": 23,
+        "ancestry": 21,
+        "group": [
+          "L",
+          112
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 372,
+      "fields": {
+        "institution": 16,
+        "continent": 3,
+        "region": 88,
+        "country": 37,
+        "ancestry": 21,
+        "group": [
+          "L",
+          113
+        ],
+        "currentCount": 3,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 377,
+      "fields": {
+        "institution": 16,
+        "continent": 1,
+        "region": 3,
+        "country": 1,
+        "ancestry": 21,
+        "group": [
+          "L",
+          114
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 0.75,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 381,
+      "fields": {
+        "institution": 16,
+        "continent": 1,
+        "region": 3,
+        "country": 39,
+        "ancestry": 21,
+        "group": [
+          "L",
+          115
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 389,
+      "fields": {
+        "institution": 16,
+        "continent": 5,
+        "region": 3,
+        "country": 40,
+        "ancestry": 21,
+        "group": [
+          "L",
+          117
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 393,
+      "fields": {
+        "institution": 16,
+        "continent": 6,
+        "region": 3,
+        "country": 35,
+        "ancestry": 41,
+        "group": [
+          "L",
+          118
+        ],
+        "currentCount": 18,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 397,
+      "fields": {
+        "institution": 16,
+        "continent": 6,
+        "region": 3,
+        "country": 35,
+        "ancestry": 42,
+        "group": [
+          "L",
+          119
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 401,
+      "fields": {
+        "institution": 16,
+        "continent": 6,
+        "region": 89,
+        "country": 41,
+        "ancestry": 21,
+        "group": [
+          "L",
+          120
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 405,
+      "fields": {
+        "institution": 16,
+        "continent": 6,
+        "region": 3,
+        "country": 42,
+        "ancestry": 21,
+        "group": [
+          "L",
+          121
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 409,
+      "fields": {
+        "institution": 16,
+        "continent": 7,
+        "region": 3,
+        "country": 31,
+        "ancestry": 21,
+        "group": [
+          "L",
+          122
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 410,
+      "fields": {
+        "institution": 16,
+        "continent": 1,
+        "region": 3,
+        "country": 3,
+        "ancestry": 4,
+        "group": [
+          "L",
+          116
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 0.75,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 414,
+      "fields": {
+        "institution": 1,
+        "continent": 5,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          123
+        ],
+        "currentCount": 222,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 417,
+      "fields": {
+        "institution": 1,
+        "continent": 7,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          124
+        ],
+        "currentCount": 121,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 420,
+      "fields": {
+        "institution": 1,
+        "continent": 3,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          125
+        ],
+        "currentCount": 446,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 424,
+      "fields": {
+        "institution": 1,
+        "continent": 6,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          126
+        ],
+        "currentCount": 710,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 427,
+      "fields": {
+        "institution": 1,
+        "continent": 8,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          127
+        ],
+        "currentCount": 969,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 431,
+      "fields": {
+        "institution": 1,
+        "continent": 1,
+        "region": 3,
+        "country": 47,
+        "ancestry": 21,
+        "group": [
+          "L",
+          128
+        ],
+        "currentCount": 19,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 435,
+      "fields": {
+        "institution": 1,
+        "continent": 1,
+        "region": 3,
+        "country": 48,
+        "ancestry": 21,
+        "group": [
+          "L",
+          129
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 438,
+      "fields": {
+        "institution": 1,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          130
+        ],
+        "currentCount": 369,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 439,
+      "fields": {
+        "institution": 16,
+        "continent": 1,
+        "region": 3,
+        "country": 4,
+        "ancestry": 21,
+        "group": [
+          "L",
+          131
+        ],
+        "currentCount": 3,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 440,
+      "fields": {
+        "institution": 4,
+        "continent": 5,
+        "region": 3,
+        "country": 18,
+        "ancestry": 32,
+        "group": [
+          "L",
+          96
+        ],
+        "currentCount": 0,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 109
+      }
+    },
+    {
+      "id": 444,
+      "fields": {
+        "institution": 17,
+        "continent": 5,
+        "region": 3,
+        "country": 20,
+        "ancestry": 21,
+        "group": [
+          "L",
+          132
+        ],
+        "currentCount": 3,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 448,
+      "fields": {
+        "institution": 17,
+        "continent": 5,
+        "region": 3,
+        "country": 23,
+        "ancestry": 21,
+        "group": [
+          "L",
+          133
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 452,
+      "fields": {
+        "institution": 17,
+        "continent": 6,
+        "region": 3,
+        "country": 50,
+        "ancestry": 21,
+        "group": [
+          "L",
+          134
+        ],
+        "currentCount": 4,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 456,
+      "fields": {
+        "institution": 17,
+        "continent": 1,
+        "region": 3,
+        "country": 51,
+        "ancestry": 21,
+        "group": [
+          "L",
+          135
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 459,
+      "fields": {
+        "institution": 17,
+        "continent": 3,
+        "region": 3,
+        "country": 19,
+        "ancestry": 21,
+        "group": [
+          "L",
+          136
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 463,
+      "fields": {
+        "institution": 17,
+        "continent": 3,
+        "region": 3,
+        "country": 37,
+        "ancestry": 21,
+        "group": [
+          "L",
+          137
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 467,
+      "fields": {
+        "institution": 17,
+        "continent": 3,
+        "region": 3,
+        "country": 21,
+        "ancestry": 21,
+        "group": [
+          "L",
+          138
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 472,
+      "fields": {
+        "institution": 17,
+        "continent": 6,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          139
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 476,
+      "fields": {
+        "institution": 17,
+        "continent": 7,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          140
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 480,
+      "fields": {
+        "institution": 17,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          141
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 486,
+      "fields": {
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 4,
+        "group": [
+          "L",
+          142,
+          165
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 490,
+      "fields": {
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 10,
+        "group": [
+          "L",
+          143,
+          166
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 494,
+      "fields": {
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 43,
+        "group": [
+          "L",
+          144
+        ],
+        "currentCount": 30,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 497,
+      "fields": {
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 44,
+        "group": [
+          "L",
+          145
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 501,
+      "fields": {
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 45,
+        "group": [
+          "L",
+          146
+        ],
+        "currentCount": 12,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 504,
+      "fields": {
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 46,
+        "group": [
+          "L",
+          147
+        ],
+        "currentCount": 9,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 507,
+      "fields": {
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 47,
+        "group": [
+          "L",
+          148
+        ],
+        "currentCount": 10,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 510,
+      "fields": {
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 48,
+        "group": [
+          "L",
+          149
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 524,
+      "fields": {
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 49,
+        "group": [
+          "L",
+          150
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 525,
+      "fields": {
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 50,
+        "group": [
+          "L",
+          151
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 526,
+      "fields": {
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 51,
+        "group": [
+          "L",
+          152
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 530,
+      "fields": {
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 52,
+        "group": [
+          "L",
+          153
+        ],
+        "currentCount": 6,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 534,
+      "fields": {
+        "institution": 14,
+        "continent": 3,
+        "region": 3,
+        "country": 10,
+        "ancestry": 62,
+        "group": [
+          "L",
+          154
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 538,
+      "fields": {
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 53,
+        "group": [
+          "L",
+          155
+        ],
+        "currentCount": 11,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 543,
+      "fields": {
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 54,
+        "group": [
+          "L",
+          156
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 546,
+      "fields": {
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 55,
+        "group": [
+          "L",
+          157
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 549,
+      "fields": {
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 56,
+        "group": [
+          "L",
+          158
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 552,
+      "fields": {
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 57,
+        "group": [
+          "L",
+          159
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 563,
+      "fields": {
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 58,
+        "group": [
+          "L",
+          160
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 564,
+      "fields": {
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 59,
+        "group": [
+          "L",
+          161
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 565,
+      "fields": {
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 27,
+        "group": [
+          "L",
+          162
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 566,
+      "fields": {
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 61,
+        "group": [
+          "L",
+          163
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 567,
+      "fields": {
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 9,
+        "group": [
+          "L",
+          164
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 573,
+      "fields": {
+        "institution": 19,
+        "continent": 1,
+        "region": 91,
+        "country": 36,
+        "ancestry": 21,
+        "group": [
+          "L",
+          167
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 574,
+      "fields": {
+        "institution": 19,
+        "continent": 1,
+        "region": 93,
+        "country": 36,
+        "ancestry": 21,
+        "group": [
+          "L",
+          168
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 576,
+      "fields": {
+        "institution": 19,
+        "continent": 1,
+        "region": 95,
+        "country": 36,
+        "ancestry": 21,
+        "group": [
+          "L",
+          169
+        ],
+        "currentCount": 6,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 577,
+      "fields": {
+        "institution": 19,
+        "continent": 1,
+        "region": 3,
+        "country": 36,
+        "ancestry": 21,
+        "group": [
+          "L",
+          170
+        ],
+        "currentCount": 27,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 578,
+      "fields": {
+        "institution": 19,
+        "continent": 1,
+        "region": 103,
+        "country": 36,
+        "ancestry": 21,
+        "group": [
+          "L",
+          171
+        ],
+        "currentCount": 3,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 579,
+      "fields": {
+        "institution": 19,
+        "continent": 1,
+        "region": 104,
+        "country": 36,
+        "ancestry": 21,
+        "group": [
+          "L",
+          172
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 582,
+      "fields": {
+        "institution": 19,
+        "continent": 1,
+        "region": 105,
+        "country": 36,
+        "ancestry": 21,
+        "group": [
+          "L",
+          173
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 583,
+      "fields": {
+        "institution": 19,
+        "continent": 1,
+        "region": 106,
+        "country": 36,
+        "ancestry": 21,
+        "group": [
+          "L",
+          174
+        ],
+        "currentCount": 5,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 588,
+      "fields": {
+        "institution": 19,
+        "continent": 1,
+        "region": 109,
+        "country": 51,
+        "ancestry": 21,
+        "group": [
+          "L",
+          175
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 589,
+      "fields": {
+        "institution": 19,
+        "continent": 1,
+        "region": 110,
+        "country": 51,
+        "ancestry": 21,
+        "group": [
+          "L",
+          176
+        ],
+        "currentCount": 3,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 590,
+      "fields": {
+        "institution": 19,
+        "continent": 1,
+        "region": 111,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          177
+        ],
+        "currentCount": 3,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 591,
+      "fields": {
+        "institution": 19,
+        "continent": 1,
+        "region": 112,
+        "country": 51,
+        "ancestry": 21,
+        "group": [
+          "L",
+          178
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 593,
+      "fields": {
+        "institution": 19,
+        "continent": 1,
+        "region": 3,
+        "country": 47,
+        "ancestry": 21,
+        "group": [
+          "L",
+          179
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 600,
+      "fields": {
+        "institution": 19,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          180
+        ],
+        "currentCount": 7,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 601,
+      "fields": {
+        "institution": 19,
+        "continent": 1,
+        "region": 3,
+        "country": 51,
+        "ancestry": 21,
+        "group": [
+          "L",
+          181
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 602,
+      "fields": {
+        "institution": 19,
+        "continent": 1,
+        "region": 113,
+        "country": 52,
+        "ancestry": 21,
+        "group": [
+          "L",
+          182
+        ],
+        "currentCount": 17,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 603,
+      "fields": {
+        "institution": 19,
+        "continent": 1,
+        "region": 3,
+        "country": 53,
+        "ancestry": 21,
+        "group": [
+          "L",
+          183
+        ],
+        "currentCount": 8,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 604,
+      "fields": {
+        "institution": 19,
+        "continent": 1,
+        "region": 3,
+        "country": 36,
+        "ancestry": 64,
+        "group": [
+          "L",
+          184
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 605,
+      "fields": {
+        "institution": 19,
+        "continent": 1,
+        "region": 114,
+        "country": 16,
+        "ancestry": 21,
+        "group": [
+          "L",
+          185
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 646,
+      "fields": {
+        "institution": 19,
+        "continent": 1,
+        "region": 3,
+        "country": 54,
+        "ancestry": 21,
+        "group": [
+          "L",
+          186
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 647,
+      "fields": {
+        "institution": 19,
+        "continent": 1,
+        "region": 3,
+        "country": 55,
+        "ancestry": 21,
+        "group": [
+          "L",
+          187
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 648,
+      "fields": {
+        "institution": 19,
+        "continent": 1,
+        "region": 3,
+        "country": 4,
+        "ancestry": 63,
+        "group": [
+          "L",
+          188
+        ],
+        "currentCount": 6,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 649,
+      "fields": {
+        "institution": 19,
+        "continent": 1,
+        "region": 3,
+        "country": 16,
+        "ancestry": 21,
+        "group": [
+          "L",
+          189
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 650,
+      "fields": {
+        "institution": 19,
+        "continent": 1,
+        "region": 3,
+        "country": 5,
+        "ancestry": 21,
+        "group": [
+          "L",
+          190
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 651,
+      "fields": {
+        "institution": 19,
+        "continent": 1,
+        "region": 3,
+        "country": 56,
+        "ancestry": 21,
+        "group": [
+          "L",
+          191
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 652,
+      "fields": {
+        "institution": 19,
+        "continent": 1,
+        "region": 116,
+        "country": 58,
+        "ancestry": 21,
+        "group": [
+          "L",
+          193
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 653,
+      "fields": {
+        "institution": 19,
+        "continent": 1,
+        "region": 117,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          194
+        ],
+        "currentCount": 4,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 654,
+      "fields": {
+        "institution": 19,
+        "continent": 1,
+        "region": 3,
+        "country": 14,
+        "ancestry": 21,
+        "group": [
+          "L",
+          195
+        ],
+        "currentCount": 0,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 11
+      }
+    },
+    {
+      "id": 655,
+      "fields": {
+        "institution": 19,
+        "continent": 1,
+        "region": 118,
+        "country": 13,
+        "ancestry": 21,
+        "group": [
+          "L",
+          196
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 656,
+      "fields": {
+        "institution": 19,
+        "continent": 1,
+        "region": 119,
+        "country": 59,
+        "ancestry": 21,
+        "group": [
+          "L",
+          197
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 657,
+      "fields": {
+        "institution": 19,
+        "continent": 1,
+        "region": 3,
+        "country": 48,
+        "ancestry": 21,
+        "group": [
+          "L",
+          198
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 658,
+      "fields": {
+        "institution": 19,
+        "continent": 1,
+        "region": 3,
+        "country": 4,
+        "ancestry": 21,
+        "group": [
+          "L",
+          199
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 659,
+      "fields": {
+        "institution": 19,
+        "continent": 1,
+        "region": 3,
+        "country": 11,
+        "ancestry": 21,
+        "group": [
+          "L",
+          200
+        ],
+        "currentCount": 3,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 660,
+      "fields": {
+        "institution": 19,
+        "continent": 1,
+        "region": 3,
+        "country": 59,
+        "ancestry": 21,
+        "group": [
+          "L",
+          201
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 661,
+      "fields": {
+        "institution": 19,
+        "continent": 1,
+        "region": 120,
+        "country": 46,
+        "ancestry": 21,
+        "group": [
+          "L",
+          202
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 662,
+      "fields": {
+        "institution": 19,
+        "continent": 1,
+        "region": 122,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          203
+        ],
+        "currentCount": 10,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 663,
+      "fields": {
+        "institution": 19,
+        "continent": 1,
+        "region": 111,
+        "country": 10,
+        "ancestry": 1,
+        "group": [
+          "L",
+          205
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 664,
+      "fields": {
+        "institution": 19,
+        "continent": 2,
+        "region": 121,
+        "country": 57,
+        "ancestry": 21,
+        "group": [
+          "L",
+          204
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    },
+    {
+      "id": 665,
+      "fields": {
+        "institution": 19,
+        "continent": 2,
+        "region": 3,
+        "country": 57,
+        "ancestry": 21,
+        "group": [
+          "L",
+          192
+        ],
+        "currentCount": 22,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0
+      }
+    }
+  ]
+}

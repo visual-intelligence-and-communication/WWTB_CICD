@@ -1,0 +1,4808 @@
+{
+  "records": [
+    {
+      "id": 139,
+      "fields": {
+        "originCategory": 1,
+        "institution": 1,
+        "continent": 1,
+        "region": 3,
+        "country": 1,
+        "ancestry": 21,
+        "group": [
+          "L",
+          1,
+          65
+        ],
+        "currentCount": 214,
+        "certaintyOfCount": 0.45,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "country",
+        "slug": "tanzania",
+        "label": "Tanzania",
+        "institution_slug": "spk-mvf",
+        "institution_label": "SPK – Museum für Vor- und Frühgeschichte"
+      }
+    },
+    {
+      "id": 140,
+      "fields": {
+        "originCategory": 2,
+        "institution": 1,
+        "continent": 1,
+        "region": 3,
+        "country": 2,
+        "ancestry": 21,
+        "group": [
+          "L",
+          2
+        ],
+        "currentCount": 907,
+        "certaintyOfCount": 0.89,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "country",
+        "slug": "rwanda",
+        "label": "Rwanda",
+        "institution_slug": "spk-mvf",
+        "institution_label": "SPK – Museum für Vor- und Frühgeschichte"
+      }
+    },
+    {
+      "id": 141,
+      "fields": {
+        "originCategory": 3,
+        "institution": 1,
+        "continent": 1,
+        "region": 3,
+        "country": 3,
+        "ancestry": 21,
+        "group": [
+          "L",
+          3
+        ],
+        "currentCount": 22,
+        "certaintyOfCount": 0.9,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "country",
+        "slug": "kenya",
+        "label": "Kenya",
+        "institution_slug": "spk-mvf",
+        "institution_label": "SPK – Museum für Vor- und Frühgeschichte"
+      }
+    },
+    {
+      "id": 143,
+      "fields": {
+        "originCategory": 5,
+        "institution": 1,
+        "continent": 1,
+        "region": 3,
+        "country": 4,
+        "ancestry": 21,
+        "group": [
+          "L",
+          5
+        ],
+        "currentCount": 300,
+        "certaintyOfCount": 0.7,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "country",
+        "slug": "cameroon",
+        "label": "Cameroon",
+        "institution_slug": "spk-mvf",
+        "institution_label": "SPK – Museum für Vor- und Frühgeschichte"
+      }
+    },
+    {
+      "id": 144,
+      "fields": {
+        "originCategory": 6,
+        "institution": 1,
+        "continent": 1,
+        "region": 3,
+        "country": 5,
+        "ancestry": 21,
+        "group": [
+          "L",
+          6
+        ],
+        "currentCount": 50,
+        "certaintyOfCount": 0.7,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "country",
+        "slug": "togo",
+        "label": "Togo",
+        "institution_slug": "spk-mvf",
+        "institution_label": "SPK – Museum für Vor- und Frühgeschichte"
+      }
+    },
+    {
+      "id": 145,
+      "fields": {
+        "originCategory": 7,
+        "institution": 1,
+        "continent": 5,
+        "region": 1,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          7
+        ],
+        "currentCount": 20,
+        "certaintyOfCount": 0.7,
+        "repatriatedCount": 0,
+        "parent": "oceania",
+        "category": "region",
+        "slug": "micronesia",
+        "label": "Micronesia",
+        "institution_slug": "spk-mvf",
+        "institution_label": "SPK – Museum für Vor- und Frühgeschichte"
+      }
+    },
+    {
+      "id": 146,
+      "fields": {
+        "originCategory": 8,
+        "institution": 1,
+        "continent": 5,
+        "region": 3,
+        "country": 6,
+        "ancestry": 21,
+        "group": [
+          "L",
+          8
+        ],
+        "currentCount": 10,
+        "certaintyOfCount": 0.7,
+        "repatriatedCount": 0,
+        "parent": "oceania",
+        "category": "country",
+        "slug": "nauru",
+        "label": "Nauru",
+        "institution_slug": "spk-mvf",
+        "institution_label": "SPK – Museum für Vor- und Frühgeschichte"
+      }
+    },
+    {
+      "id": 147,
+      "fields": {
+        "originCategory": 9,
+        "institution": 1,
+        "continent": 5,
+        "region": 3,
+        "country": 7,
+        "ancestry": 21,
+        "group": [
+          "L",
+          9
+        ],
+        "currentCount": 10,
+        "certaintyOfCount": 0.7,
+        "repatriatedCount": 0,
+        "parent": "oceania",
+        "category": "country",
+        "slug": "palau",
+        "label": "Palau",
+        "institution_slug": "spk-mvf",
+        "institution_label": "SPK – Museum für Vor- und Frühgeschichte"
+      }
+    },
+    {
+      "id": 150,
+      "fields": {
+        "originCategory": 11,
+        "institution": 1,
+        "continent": 5,
+        "region": 2,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          11
+        ],
+        "currentCount": 20,
+        "certaintyOfCount": 0.7,
+        "repatriatedCount": 0,
+        "parent": "oceania",
+        "category": "region",
+        "slug": "usa_mariana_islands",
+        "label": "USA Mariana Islands",
+        "institution_slug": "spk-mvf",
+        "institution_label": "SPK – Museum für Vor- und Frühgeschichte"
+      }
+    },
+    {
+      "id": 151,
+      "fields": {
+        "originCategory": 12,
+        "institution": 1,
+        "continent": 5,
+        "region": 3,
+        "country": 9,
+        "ancestry": 21,
+        "group": [
+          "L",
+          12
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 0.5,
+        "repatriatedCount": 0,
+        "parent": "oceania",
+        "category": "country",
+        "slug": "samoa",
+        "label": "Samoa",
+        "institution_slug": "spk-mvf",
+        "institution_label": "SPK – Museum für Vor- und Frühgeschichte"
+      }
+    },
+    {
+      "id": 153,
+      "fields": {
+        "originCategory": 14,
+        "institution": 2,
+        "continent": 8,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          14
+        ],
+        "currentCount": 5,
+        "certaintyOfCount": 0.8,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "continent",
+        "slug": "unknown",
+        "label": "Unknown",
+        "institution_slug": "spk-em",
+        "institution_label": "SPK – Ethnologisches Museum"
+      }
+    },
+    {
+      "id": 155,
+      "fields": {
+        "originCategory": 16,
+        "institution": 2,
+        "continent": 8,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          16
+        ],
+        "currentCount": 61,
+        "certaintyOfCount": 0.8,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "continent",
+        "slug": "unknown",
+        "label": "Unknown",
+        "institution_slug": "spk-em",
+        "institution_label": "SPK – Ethnologisches Museum"
+      }
+    },
+    {
+      "id": 156,
+      "fields": {
+        "originCategory": 17,
+        "institution": 2,
+        "continent": 8,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          17
+        ],
+        "currentCount": 31,
+        "certaintyOfCount": 0.8,
+        "repatriatedCount": 0,
+        "parent": "north_america",
+        "category": "continent",
+        "slug": "unknown",
+        "label": "Unknown",
+        "institution_slug": "spk-em",
+        "institution_label": "SPK – Ethnologisches Museum"
+      }
+    },
+    {
+      "id": 160,
+      "fields": {
+        "originCategory": 21,
+        "institution": 2,
+        "continent": 8,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          21
+        ],
+        "currentCount": 3,
+        "certaintyOfCount": 0.8,
+        "repatriatedCount": 0,
+        "parent": "spk-em",
+        "category": "unknown",
+        "slug": "unknown",
+        "label": "Unknown",
+        "institution_slug": "spk-em",
+        "institution_label": "SPK – Ethnologisches Museum"
+      }
+    },
+    {
+      "id": 161,
+      "fields": {
+        "originCategory": 1,
+        "institution": 2,
+        "continent": 1,
+        "region": 3,
+        "country": 1,
+        "ancestry": 21,
+        "group": [
+          "L",
+          22
+        ],
+        "currentCount": 21,
+        "certaintyOfCount": 0.9,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "country",
+        "slug": "tanzania",
+        "label": "Tanzania",
+        "institution_slug": "spk-em",
+        "institution_label": "SPK – Ethnologisches Museum"
+      }
+    },
+    {
+      "id": 162,
+      "fields": {
+        "originCategory": 3,
+        "institution": 2,
+        "continent": 1,
+        "region": 3,
+        "country": 3,
+        "ancestry": 21,
+        "group": [
+          "L",
+          23
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 0.9,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "country",
+        "slug": "kenya",
+        "label": "Kenya",
+        "institution_slug": "spk-em",
+        "institution_label": "SPK – Ethnologisches Museum"
+      }
+    },
+    {
+      "id": 163,
+      "fields": {
+        "originCategory": 5,
+        "institution": 2,
+        "continent": 1,
+        "region": 3,
+        "country": 4,
+        "ancestry": 21,
+        "group": [
+          "L",
+          24
+        ],
+        "currentCount": 67,
+        "certaintyOfCount": 0.7,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "country",
+        "slug": "cameroon",
+        "label": "Cameroon",
+        "institution_slug": "spk-em",
+        "institution_label": "SPK – Ethnologisches Museum"
+      }
+    },
+    {
+      "id": 164,
+      "fields": {
+        "originCategory": 6,
+        "institution": 2,
+        "continent": 1,
+        "region": 3,
+        "country": 5,
+        "ancestry": 21,
+        "group": [
+          "L",
+          25
+        ],
+        "currentCount": 16,
+        "certaintyOfCount": 0.7,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "country",
+        "slug": "togo",
+        "label": "Togo",
+        "institution_slug": "spk-em",
+        "institution_label": "SPK – Ethnologisches Museum"
+      }
+    },
+    {
+      "id": 165,
+      "fields": {
+        "originCategory": 12,
+        "institution": 2,
+        "continent": 5,
+        "region": 3,
+        "country": 9,
+        "ancestry": 21,
+        "group": [
+          "L",
+          26
+        ],
+        "currentCount": 17,
+        "certaintyOfCount": 0.7,
+        "repatriatedCount": 0,
+        "parent": "oceania",
+        "category": "country",
+        "slug": "samoa",
+        "label": "Samoa",
+        "institution_slug": "spk-em",
+        "institution_label": "SPK – Ethnologisches Museum"
+      }
+    },
+    {
+      "id": 166,
+      "fields": {
+        "originCategory": 22,
+        "institution": 3,
+        "continent": 8,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          27
+        ],
+        "currentCount": 3500,
+        "certaintyOfCount": 0.6,
+        "repatriatedCount": 0,
+        "parent": "bgaeu",
+        "category": "unknown",
+        "slug": "unknown",
+        "label": "Unknown",
+        "institution_slug": "bgaeu",
+        "institution_label": "Berliner Gesellschaft für Anthropologie, Ethnologie und Frühgeschichte (BGAEU)"
+      }
+    },
+    {
+      "id": 167,
+      "fields": {
+        "originCategory": 23,
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 1,
+        "ancestry": 1,
+        "group": [
+          "L",
+          28
+        ],
+        "currentCount": 12,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "hehe",
+        "label": "Wahehe",
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)"
+      }
+    },
+    {
+      "id": 168,
+      "fields": {
+        "originCategory": 24,
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 1,
+        "ancestry": 2,
+        "group": [
+          "L",
+          29
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "wapangwa",
+        "label": "Wapangwa",
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)"
+      }
+    },
+    {
+      "id": 169,
+      "fields": {
+        "originCategory": 25,
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 1,
+        "ancestry": 3,
+        "group": [
+          "L",
+          30
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "wambugu",
+        "label": "Wambugu",
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)"
+      }
+    },
+    {
+      "id": 170,
+      "fields": {
+        "originCategory": 26,
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 1,
+        "ancestry": 4,
+        "group": [
+          "L",
+          31
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "maasai",
+        "label": "Maasai",
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)"
+      }
+    },
+    {
+      "id": 171,
+      "fields": {
+        "originCategory": 27,
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 1,
+        "ancestry": 21,
+        "group": [
+          "L",
+          32
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "country",
+        "slug": "tanzania",
+        "label": "Tanzania",
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)"
+      }
+    },
+    {
+      "id": 172,
+      "fields": {
+        "originCategory": 28,
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 1,
+        "ancestry": 5,
+        "group": [
+          "L",
+          33
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "iraqw_wambulu",
+        "label": "Iraqw (Wambulu)",
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)"
+      }
+    },
+    {
+      "id": 173,
+      "fields": {
+        "originCategory": 29,
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 11,
+        "ancestry": 21,
+        "group": [
+          "L",
+          34
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "country",
+        "slug": "ethopia",
+        "label": "Ethopia",
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)"
+      }
+    },
+    {
+      "id": 174,
+      "fields": {
+        "originCategory": 30,
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 12,
+        "ancestry": 6,
+        "group": [
+          "L",
+          35
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "mang-anja_mangania_marari_nyanja",
+        "label": "Mang'anja / Mangania / Marari / Nyanja",
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)"
+      }
+    },
+    {
+      "id": 175,
+      "fields": {
+        "originCategory": 31,
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 12,
+        "ancestry": 7,
+        "group": [
+          "L",
+          36
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "monyalo",
+        "label": "Monyalo",
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)"
+      }
+    },
+    {
+      "id": 176,
+      "fields": {
+        "originCategory": 32,
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 2,
+        "ancestry": 8,
+        "group": [
+          "L",
+          37
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "mtutsi",
+        "label": "Abatutsi (Tutsi)",
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)"
+      }
+    },
+    {
+      "id": 177,
+      "fields": {
+        "originCategory": 33,
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 2,
+        "ancestry": 21,
+        "group": [
+          "L",
+          38
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "country",
+        "slug": "rwanda",
+        "label": "Rwanda",
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)"
+      }
+    },
+    {
+      "id": 178,
+      "fields": {
+        "originCategory": 34,
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 13,
+        "ancestry": 21,
+        "group": [
+          "L",
+          39
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "country",
+        "slug": "south_africa",
+        "label": "South Africa",
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)"
+      }
+    },
+    {
+      "id": 179,
+      "fields": {
+        "originCategory": 35,
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 13,
+        "ancestry": 9,
+        "group": [
+          "L",
+          40
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "xhosa",
+        "label": "Xhosa",
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)"
+      }
+    },
+    {
+      "id": 180,
+      "fields": {
+        "originCategory": 36,
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 13,
+        "ancestry": 10,
+        "group": [
+          "L",
+          41
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "zulu",
+        "label": "Zulu",
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)"
+      }
+    },
+    {
+      "id": 181,
+      "fields": {
+        "originCategory": 37,
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 13,
+        "ancestry": 11,
+        "group": [
+          "L",
+          42
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "mfengu",
+        "label": "Mfengu",
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)"
+      }
+    },
+    {
+      "id": 182,
+      "fields": {
+        "originCategory": 38,
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 13,
+        "ancestry": 12,
+        "group": [
+          "L",
+          43
+        ],
+        "currentCount": 3,
+        "certaintyOfCount": 0.8,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "san",
+        "label": "San",
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)"
+      }
+    },
+    {
+      "id": 183,
+      "fields": {
+        "originCategory": 39,
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 13,
+        "ancestry": 13,
+        "group": [
+          "L",
+          44
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "ngqika",
+        "label": "Ngqika (Xhosa)",
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)"
+      }
+    },
+    {
+      "id": 184,
+      "fields": {
+        "originCategory": 40,
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 14,
+        "ancestry": 14,
+        "group": [
+          "L",
+          45
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "damara",
+        "label": "Damara",
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)"
+      }
+    },
+    {
+      "id": 185,
+      "fields": {
+        "originCategory": 41,
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 14,
+        "ancestry": 15,
+        "group": [
+          "L",
+          46
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "ovambo",
+        "label": "Ovambo",
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)"
+      }
+    },
+    {
+      "id": 186,
+      "fields": {
+        "originCategory": 42,
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 5,
+        "ancestry": 16,
+        "group": [
+          "L",
+          47
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "ntcham_bassari",
+        "label": "Ntcham (Bassari)",
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)"
+      }
+    },
+    {
+      "id": 187,
+      "fields": {
+        "originCategory": 43,
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 4,
+        "ancestry": 17,
+        "group": [
+          "L",
+          48
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "ba-ndeng",
+        "label": "Mankon (Bandeng)",
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)"
+      }
+    },
+    {
+      "id": 188,
+      "fields": {
+        "originCategory": 44,
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 15,
+        "ancestry": 18,
+        "group": [
+          "L",
+          49
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "kru",
+        "label": "Kru",
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)"
+      }
+    },
+    {
+      "id": 189,
+      "fields": {
+        "originCategory": 45,
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 16,
+        "ancestry": 21,
+        "group": [
+          "L",
+          50
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 0,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "country",
+        "slug": "congo",
+        "label": "Congo",
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)"
+      }
+    },
+    {
+      "id": 190,
+      "fields": {
+        "originCategory": 57,
+        "institution": 6,
+        "continent": 3,
+        "region": 3,
+        "country": 21,
+        "ancestry": 21,
+        "group": [
+          "L",
+          63
+        ],
+        "currentCount": 33,
+        "certaintyOfCount": 0,
+        "repatriatedCount": 0,
+        "parent": "asia",
+        "category": "country",
+        "slug": "indonesia",
+        "label": "Indonesia",
+        "institution_slug": "ssf-gotha",
+        "institution_label": "Stiftung Schloss Friedenstein Gotha"
+      }
+    },
+    {
+      "id": 191,
+      "fields": {
+        "originCategory": 56,
+        "institution": 4,
+        "continent": 5,
+        "region": 3,
+        "country": 20,
+        "ancestry": 21,
+        "group": [
+          "L",
+          62,
+          95
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 49,
+        "parent": "oceania",
+        "category": "country",
+        "slug": "australia",
+        "label": "Australia",
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)"
+      }
+    },
+    {
+      "id": 192,
+      "fields": {
+        "originCategory": 55,
+        "institution": 4,
+        "continent": 3,
+        "region": 3,
+        "country": 10,
+        "ancestry": 20,
+        "group": [
+          "L",
+          61
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "asia",
+        "category": "ancestry",
+        "slug": "mongols",
+        "label": "Mongols",
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)"
+      }
+    },
+    {
+      "id": 193,
+      "fields": {
+        "originCategory": 54,
+        "institution": 4,
+        "continent": 3,
+        "region": 3,
+        "country": 19,
+        "ancestry": 21,
+        "group": [
+          "L",
+          60
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "asia",
+        "category": "country",
+        "slug": "china",
+        "label": "China",
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)"
+      }
+    },
+    {
+      "id": 194,
+      "fields": {
+        "originCategory": 22,
+        "institution": 4,
+        "continent": 8,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          59
+        ],
+        "currentCount": 4,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "charite-bmm",
+        "category": "unknown",
+        "slug": "unknown",
+        "label": "Unknown",
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)"
+      }
+    },
+    {
+      "id": 195,
+      "fields": {
+        "originCategory": 53,
+        "institution": 4,
+        "continent": 5,
+        "region": 3,
+        "country": 18,
+        "ancestry": 21,
+        "group": [
+          "L",
+          58
+        ],
+        "currentCount": 0,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 1,
+        "parent": "oceania",
+        "category": "country",
+        "slug": "aotearoa-new_zealand",
+        "label": "Aotearoa/New Zealand",
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)"
+      }
+    },
+    {
+      "id": 196,
+      "fields": {
+        "originCategory": 52,
+        "institution": 4,
+        "continent": 5,
+        "region": 9,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          57
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "oceania",
+        "category": "region",
+        "slug": "caroline_islands",
+        "label": "Caroline Islands",
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)"
+      }
+    },
+    {
+      "id": 197,
+      "fields": {
+        "originCategory": 46,
+        "institution": 4,
+        "continent": 5,
+        "region": 4,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          51
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "oceania",
+        "category": "region",
+        "slug": "french_island_victoria",
+        "label": "French Island (Victoria)",
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)"
+      }
+    },
+    {
+      "id": 198,
+      "fields": {
+        "originCategory": 47,
+        "institution": 4,
+        "continent": 5,
+        "region": 3,
+        "country": 17,
+        "ancestry": 21,
+        "group": [
+          "L",
+          52
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "oceania",
+        "category": "country",
+        "slug": "solomons_islands",
+        "label": "Solomons Islands",
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)"
+      }
+    },
+    {
+      "id": 199,
+      "fields": {
+        "originCategory": 48,
+        "institution": 4,
+        "continent": 5,
+        "region": 5,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          53
+        ],
+        "currentCount": 3,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "oceania",
+        "category": "region",
+        "slug": "mangaia",
+        "label": "Mangaia",
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)"
+      }
+    },
+    {
+      "id": 200,
+      "fields": {
+        "originCategory": 49,
+        "institution": 4,
+        "continent": 5,
+        "region": 6,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          54
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "oceania",
+        "category": "region",
+        "slug": "raiatea",
+        "label": "Raiatea",
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)"
+      }
+    },
+    {
+      "id": 201,
+      "fields": {
+        "originCategory": 50,
+        "institution": 4,
+        "continent": 5,
+        "region": 7,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          55
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "oceania",
+        "category": "region",
+        "slug": "tahiti",
+        "label": "Tahiti",
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)"
+      }
+    },
+    {
+      "id": 202,
+      "fields": {
+        "originCategory": 51,
+        "institution": 4,
+        "continent": 5,
+        "region": 8,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          56
+        ],
+        "currentCount": 3,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "oceania",
+        "category": "region",
+        "slug": "manus_islands",
+        "label": "Manus Islands",
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)"
+      }
+    },
+    {
+      "id": 206,
+      "fields": {
+        "originCategory": 54,
+        "institution": 7,
+        "continent": 3,
+        "region": 3,
+        "country": 19,
+        "ancestry": 21,
+        "group": [
+          "L",
+          66
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "asia",
+        "category": "country",
+        "slug": "china",
+        "label": "China",
+        "institution_slug": "dhm",
+        "institution_label": "Deutsches Historisches Museum"
+      }
+    },
+    {
+      "id": 210,
+      "fields": {
+        "originCategory": 22,
+        "institution": 7,
+        "continent": 8,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          67
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 0.5,
+        "repatriatedCount": 0,
+        "parent": "dhm",
+        "category": "unknown",
+        "slug": "unknown",
+        "label": "Unknown",
+        "institution_slug": "dhm",
+        "institution_label": "Deutsches Historisches Museum"
+      }
+    },
+    {
+      "id": 211,
+      "fields": {
+        "originCategory": 20,
+        "institution": 2,
+        "continent": 5,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          20
+        ],
+        "currentCount": 1009,
+        "certaintyOfCount": 0.8,
+        "repatriatedCount": 0,
+        "parent": "oceania",
+        "category": "continent",
+        "slug": "oceania",
+        "label": "Oceania",
+        "institution_slug": "spk-em",
+        "institution_label": "SPK – Ethnologisches Museum"
+      }
+    },
+    {
+      "id": 212,
+      "fields": {
+        "originCategory": 19,
+        "institution": 2,
+        "continent": 6,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          19
+        ],
+        "currentCount": 699,
+        "certaintyOfCount": 0.8,
+        "repatriatedCount": 0,
+        "parent": "south_america",
+        "category": "continent",
+        "slug": "south_america",
+        "label": "South America",
+        "institution_slug": "spk-em",
+        "institution_label": "SPK – Ethnologisches Museum"
+      }
+    },
+    {
+      "id": 215,
+      "fields": {
+        "originCategory": 61,
+        "institution": 2,
+        "continent": 6,
+        "region": 22,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          18
+        ],
+        "currentCount": 96,
+        "certaintyOfCount": 0.8,
+        "repatriatedCount": 0,
+        "parent": "south_america",
+        "category": "region",
+        "slug": "mesoamerica",
+        "label": "Mesoamerica",
+        "institution_slug": "spk-em",
+        "institution_label": "SPK – Ethnologisches Museum"
+      }
+    },
+    {
+      "id": 226,
+      "fields": {
+        "originCategory": 63,
+        "institution": 3,
+        "continent": 3,
+        "region": 3,
+        "country": 24,
+        "ancestry": 24,
+        "group": [
+          "L",
+          68
+        ],
+        "currentCount": 14,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 1,
+        "parent": "asia",
+        "category": "ancestry",
+        "slug": "ainu",
+        "label": "Ainu",
+        "institution_slug": "bgaeu",
+        "institution_label": "Berliner Gesellschaft für Anthropologie, Ethnologie und Frühgeschichte (BGAEU)"
+      }
+    },
+    {
+      "id": 234,
+      "fields": {
+        "originCategory": 22,
+        "institution": 8,
+        "continent": 8,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          70
+        ],
+        "currentCount": 4,
+        "certaintyOfCount": 0.3,
+        "repatriatedCount": 0,
+        "parent": "khb",
+        "category": "unknown",
+        "slug": "unknown",
+        "label": "Unknown",
+        "institution_slug": "khb",
+        "institution_label": "Weißensee kunshochschule berlin (khb)\n"
+      }
+    },
+    {
+      "id": 238,
+      "fields": {
+        "originCategory": 22,
+        "institution": 9,
+        "continent": 8,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          71
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 0.5,
+        "repatriatedCount": 0,
+        "parent": "lhu-b",
+        "category": "unknown",
+        "slug": "unknown",
+        "label": "Unknown",
+        "institution_slug": "lhu-b",
+        "institution_label": "Lautarchiv der Humboldt-Universität"
+      }
+    },
+    {
+      "id": 250,
+      "fields": {
+        "originCategory": 22,
+        "institution": 11,
+        "continent": 8,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          72
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 0.5,
+        "repatriatedCount": 0,
+        "parent": "stabi-b\n",
+        "category": "unknown",
+        "slug": "unknown",
+        "label": "Unknown",
+        "institution_slug": "stabi-b\n",
+        "institution_label": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz\n"
+      }
+    },
+    {
+      "id": 253,
+      "fields": {
+        "originCategory": 22,
+        "institution": 14,
+        "continent": 8,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          73
+        ],
+        "currentCount": 12,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "uni-marburg",
+        "category": "unknown",
+        "slug": "unknown",
+        "label": "Unknown",
+        "institution_slug": "uni-marburg",
+        "institution_label": "Medizinhistorisch-anatomische Sammlung, Fachbereich Medizin, Philipps-Universität Marburg\n"
+      }
+    },
+    {
+      "id": 257,
+      "fields": {
+        "originCategory": 65,
+        "institution": 14,
+        "continent": 3,
+        "region": 3,
+        "country": 19,
+        "ancestry": 21,
+        "group": [
+          "L",
+          74
+        ],
+        "currentCount": 3,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "asia",
+        "category": "country",
+        "slug": "china",
+        "label": "China",
+        "institution_slug": "uni-marburg",
+        "institution_label": "Medizinhistorisch-anatomische Sammlung, Fachbereich Medizin, Philipps-Universität Marburg\n"
+      }
+    },
+    {
+      "id": 261,
+      "fields": {
+        "originCategory": 35,
+        "institution": 14,
+        "continent": 1,
+        "region": 3,
+        "country": 13,
+        "ancestry": 9,
+        "group": [
+          "L",
+          75
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "xhosa",
+        "label": "Xhosa",
+        "institution_slug": "uni-marburg",
+        "institution_label": "Medizinhistorisch-anatomische Sammlung, Fachbereich Medizin, Philipps-Universität Marburg\n"
+      }
+    },
+    {
+      "id": 269,
+      "fields": {
+        "originCategory": 67,
+        "institution": 14,
+        "continent": 3,
+        "region": 30,
+        "country": 21,
+        "ancestry": 21,
+        "group": [
+          "L",
+          77
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "asia",
+        "category": "region",
+        "slug": "java",
+        "label": "Java",
+        "institution_slug": "uni-marburg",
+        "institution_label": "Medizinhistorisch-anatomische Sammlung, Fachbereich Medizin, Philipps-Universität Marburg\n"
+      }
+    },
+    {
+      "id": 287,
+      "fields": {
+        "originCategory": 71,
+        "institution": 14,
+        "continent": 1,
+        "region": 74,
+        "country": 10,
+        "ancestry": 10,
+        "group": [
+          "L",
+          81
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "zulu",
+        "label": "Zulu",
+        "institution_slug": "uni-marburg",
+        "institution_label": "Medizinhistorisch-anatomische Sammlung, Fachbereich Medizin, Philipps-Universität Marburg\n"
+      }
+    },
+    {
+      "id": 291,
+      "fields": {
+        "originCategory": 72,
+        "institution": 14,
+        "continent": 3,
+        "region": 3,
+        "country": 32,
+        "ancestry": 21,
+        "group": [
+          "L",
+          82
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "asia",
+        "category": "country",
+        "slug": "malaysia",
+        "label": "Malaysia",
+        "institution_slug": "uni-marburg",
+        "institution_label": "Medizinhistorisch-anatomische Sammlung, Fachbereich Medizin, Philipps-Universität Marburg\n"
+      }
+    },
+    {
+      "id": 295,
+      "fields": {
+        "originCategory": 73,
+        "institution": 14,
+        "continent": 3,
+        "region": 27,
+        "country": 21,
+        "ancestry": 34,
+        "group": [
+          "L",
+          83
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "asia",
+        "category": "ancestry",
+        "slug": "boni",
+        "label": "Bone/Boni",
+        "institution_slug": "uni-marburg",
+        "institution_label": "Medizinhistorisch-anatomische Sammlung, Fachbereich Medizin, Philipps-Universität Marburg\n"
+      }
+    },
+    {
+      "id": 299,
+      "fields": {
+        "originCategory": 74,
+        "institution": 14,
+        "continent": 3,
+        "region": 27,
+        "country": 21,
+        "ancestry": 35,
+        "group": [
+          "L",
+          84
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "asia",
+        "category": "ancestry",
+        "slug": "makassar",
+        "label": "Makassar",
+        "institution_slug": "uni-marburg",
+        "institution_label": "Medizinhistorisch-anatomische Sammlung, Fachbereich Medizin, Philipps-Universität Marburg\n"
+      }
+    },
+    {
+      "id": 303,
+      "fields": {
+        "originCategory": 75,
+        "institution": 14,
+        "continent": 3,
+        "region": 57,
+        "country": 21,
+        "ancestry": 21,
+        "group": [
+          "L",
+          85
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "asia",
+        "category": "region",
+        "slug": "ambon",
+        "label": "Ambon, Maluku Province",
+        "institution_slug": "uni-marburg",
+        "institution_label": "Medizinhistorisch-anatomische Sammlung, Fachbereich Medizin, Philipps-Universität Marburg\n"
+      }
+    },
+    {
+      "id": 307,
+      "fields": {
+        "originCategory": 76,
+        "institution": 14,
+        "continent": 3,
+        "region": 32,
+        "country": 21,
+        "ancestry": 21,
+        "group": [
+          "L",
+          86
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "asia",
+        "category": "region",
+        "slug": "madura",
+        "label": "Madura",
+        "institution_slug": "uni-marburg",
+        "institution_label": "Medizinhistorisch-anatomische Sammlung, Fachbereich Medizin, Philipps-Universität Marburg\n"
+      }
+    },
+    {
+      "id": 311,
+      "fields": {
+        "originCategory": 77,
+        "institution": 14,
+        "continent": 3,
+        "region": 3,
+        "country": 10,
+        "ancestry": 36,
+        "group": [
+          "L",
+          87
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "asia",
+        "category": "ancestry",
+        "slug": "hindustani",
+        "label": "Hindustani",
+        "institution_slug": "uni-marburg",
+        "institution_label": "Medizinhistorisch-anatomische Sammlung, Fachbereich Medizin, Philipps-Universität Marburg\n"
+      }
+    },
+    {
+      "id": 315,
+      "fields": {
+        "originCategory": 22,
+        "institution": 12,
+        "continent": 8,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          88,
+          90
+        ],
+        "currentCount": 14,
+        "certaintyOfCount": 0.55,
+        "repatriatedCount": 0,
+        "parent": "zlfu-b",
+        "category": "unknown",
+        "slug": "unknown",
+        "label": "Unknown",
+        "institution_slug": "zlfu-b",
+        "institution_label": "Zoologische Lehrsammlung, Freie Universität Berlin"
+      }
+    },
+    {
+      "id": 319,
+      "fields": {
+        "originCategory": 22,
+        "institution": 13,
+        "continent": 8,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          89
+        ],
+        "currentCount": 8,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "zlhu-b",
+        "category": "unknown",
+        "slug": "unknown",
+        "label": "Unknown",
+        "institution_slug": "zlhu-b",
+        "institution_label": "Zoologische Lehrsammlung, Humboldt Universität Berlin"
+      }
+    },
+    {
+      "id": 321,
+      "fields": {
+        "originCategory": 78,
+        "institution": 1,
+        "continent": 1,
+        "region": 23,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          4
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 0.9,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "region",
+        "slug": "former_german_eastafrica",
+        "label": "Former Colony German Eastafrica",
+        "institution_slug": "spk-mvf",
+        "institution_label": "SPK – Museum für Vor- und Frühgeschichte"
+      }
+    },
+    {
+      "id": 327,
+      "fields": {
+        "originCategory": 79,
+        "institution": 1,
+        "continent": 1,
+        "region": 24,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          91
+        ],
+        "currentCount": 100,
+        "certaintyOfCount": 0,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "region",
+        "slug": "former_german_southwestafrica",
+        "label": "Former German Southwestafrica\n",
+        "institution_slug": "spk-mvf",
+        "institution_label": "SPK – Museum für Vor- und Frühgeschichte"
+      }
+    },
+    {
+      "id": 330,
+      "fields": {
+        "originCategory": 10,
+        "institution": 1,
+        "continent": 5,
+        "region": 3,
+        "country": 23,
+        "ancestry": 21,
+        "group": [
+          "L",
+          10
+        ],
+        "currentCount": 2000,
+        "certaintyOfCount": 0.7,
+        "repatriatedCount": 0,
+        "parent": "oceania",
+        "category": "country",
+        "slug": "papua_new_guinea",
+        "label": "Papua New Guinea",
+        "institution_slug": "spk-mvf",
+        "institution_label": "SPK – Museum für Vor- und Frühgeschichte"
+      }
+    },
+    {
+      "id": 334,
+      "fields": {
+        "originCategory": 80,
+        "institution": 1,
+        "continent": 5,
+        "region": 60,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          92
+        ],
+        "currentCount": 40,
+        "certaintyOfCount": 0,
+        "repatriatedCount": 0,
+        "parent": "oceania",
+        "category": "region",
+        "slug": "former_german_newguinea",
+        "label": "Former German Newguinea \n",
+        "institution_slug": "spk-mvf",
+        "institution_label": "SPK – Museum für Vor- und Frühgeschichte"
+      }
+    },
+    {
+      "id": 335,
+      "fields": {
+        "originCategory": 13,
+        "institution": 2,
+        "continent": 8,
+        "region": 19,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          13
+        ],
+        "currentCount": 33,
+        "certaintyOfCount": 0.8,
+        "repatriatedCount": 0,
+        "parent": "asia",
+        "category": "region",
+        "slug": "nort_and_east_asia\n",
+        "label": "North and East Asia \n",
+        "institution_slug": "spk-em",
+        "institution_label": "SPK – Ethnologisches Museum"
+      }
+    },
+    {
+      "id": 336,
+      "fields": {
+        "originCategory": 15,
+        "institution": 2,
+        "continent": 8,
+        "region": 21,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          15
+        ],
+        "currentCount": 30,
+        "certaintyOfCount": 0.8,
+        "repatriatedCount": 0,
+        "parent": "asia",
+        "category": "region",
+        "slug": "south_and_southeast_asia",
+        "label": "South and Southeast Asia ",
+        "institution_slug": "spk-em",
+        "institution_label": "SPK – Ethnologisches Museum"
+      }
+    },
+    {
+      "id": 339,
+      "fields": {
+        "originCategory": 81,
+        "institution": 4,
+        "continent": 1,
+        "region": 3,
+        "country": 14,
+        "ancestry": 21,
+        "group": [
+          "L",
+          93
+        ],
+        "currentCount": 0,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 58,
+        "parent": "africa",
+        "category": "country",
+        "slug": "namibia",
+        "label": "Namibia",
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)"
+      }
+    },
+    {
+      "id": 342,
+      "fields": {
+        "originCategory": 56,
+        "institution": 3,
+        "continent": 5,
+        "region": 3,
+        "country": 20,
+        "ancestry": 21,
+        "group": [
+          "L",
+          69,
+          97
+        ],
+        "currentCount": 0,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 2,
+        "parent": "oceania",
+        "category": "country",
+        "slug": "australia",
+        "label": "Australia",
+        "institution_slug": "bgaeu",
+        "institution_label": "Berliner Gesellschaft für Anthropologie, Ethnologie und Frühgeschichte (BGAEU)"
+      }
+    },
+    {
+      "id": 344,
+      "fields": {
+        "originCategory": 82,
+        "institution": 4,
+        "continent": 6,
+        "region": 3,
+        "country": 25,
+        "ancestry": 21,
+        "group": [
+          "L",
+          94
+        ],
+        "currentCount": 0,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 1,
+        "parent": "south_america",
+        "category": "country",
+        "slug": "paraguay",
+        "label": "Paraguay",
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)"
+      }
+    },
+    {
+      "id": 347,
+      "fields": {
+        "originCategory": 83,
+        "institution": 3,
+        "continent": 3,
+        "region": 3,
+        "country": 24,
+        "ancestry": 21,
+        "group": [
+          "L",
+          98
+        ],
+        "currentCount": 0,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 1,
+        "parent": "asia",
+        "category": "country",
+        "slug": "japan",
+        "label": "Japan",
+        "institution_slug": "bgaeu",
+        "institution_label": "Berliner Gesellschaft für Anthropologie, Ethnologie und Frühgeschichte (BGAEU)"
+      }
+    },
+    {
+      "id": 350,
+      "fields": {
+        "originCategory": 57,
+        "institution": 15,
+        "continent": 3,
+        "region": 3,
+        "country": 21,
+        "ancestry": 21,
+        "group": [
+          "L",
+          99
+        ],
+        "currentCount": 24,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "asia",
+        "category": "country",
+        "slug": "indonesia",
+        "label": "Indonesia",
+        "institution_slug": "uni-jena",
+        "institution_label": "Universitätsklinikum Jena, Institut für Anatomie / Anatomische Sammlung\n"
+      }
+    },
+    {
+      "id": 353,
+      "fields": {
+        "originCategory": 58,
+        "institution": 15,
+        "continent": 3,
+        "region": 14,
+        "country": 10,
+        "ancestry": 23,
+        "group": [
+          "L",
+          100
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "asia",
+        "category": "ancestry",
+        "slug": "dayak",
+        "label": "Dayak",
+        "institution_slug": "uni-jena",
+        "institution_label": "Universitätsklinikum Jena, Institut für Anatomie / Anatomische Sammlung\n"
+      }
+    },
+    {
+      "id": 356,
+      "fields": {
+        "originCategory": 84,
+        "institution": 15,
+        "continent": 5,
+        "region": 15,
+        "country": 23,
+        "ancestry": 21,
+        "group": [
+          "L",
+          101
+        ],
+        "currentCount": 8,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "oceania",
+        "category": "region",
+        "slug": "sepik_river",
+        "label": "Sepik River",
+        "institution_slug": "uni-jena",
+        "institution_label": "Universitätsklinikum Jena, Institut für Anatomie / Anatomische Sammlung\n"
+      }
+    },
+    {
+      "id": 360,
+      "fields": {
+        "originCategory": 85,
+        "institution": 15,
+        "continent": 1,
+        "region": 74,
+        "country": 10,
+        "ancestry": 28,
+        "group": [
+          "L",
+          102
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 0.5,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "nama",
+        "label": "Nama",
+        "institution_slug": "uni-jena",
+        "institution_label": "Universitätsklinikum Jena, Institut für Anatomie / Anatomische Sammlung\n"
+      }
+    },
+    {
+      "id": 363,
+      "fields": {
+        "originCategory": 34,
+        "institution": 15,
+        "continent": 1,
+        "region": 3,
+        "country": 13,
+        "ancestry": 21,
+        "group": [
+          "L",
+          103
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "country",
+        "slug": "south_africa",
+        "label": "South Africa",
+        "institution_slug": "uni-jena",
+        "institution_label": "Universitätsklinikum Jena, Institut für Anatomie / Anatomische Sammlung\n"
+      }
+    },
+    {
+      "id": 364,
+      "fields": {
+        "originCategory": 66,
+        "institution": 14,
+        "continent": 1,
+        "region": 3,
+        "country": 13,
+        "ancestry": 10,
+        "group": [
+          "L",
+          76
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "zulu",
+        "label": "Zulu",
+        "institution_slug": "uni-marburg",
+        "institution_label": "Medizinhistorisch-anatomische Sammlung, Fachbereich Medizin, Philipps-Universität Marburg\n"
+      }
+    },
+    {
+      "id": 365,
+      "fields": {
+        "originCategory": 68,
+        "institution": 14,
+        "continent": 3,
+        "region": 27,
+        "country": 21,
+        "ancestry": 34,
+        "group": [
+          "L",
+          78
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "asia",
+        "category": "ancestry",
+        "slug": "boni",
+        "label": "Bone/Boni",
+        "institution_slug": "uni-marburg",
+        "institution_label": "Medizinhistorisch-anatomische Sammlung, Fachbereich Medizin, Philipps-Universität Marburg\n"
+      }
+    },
+    {
+      "id": 366,
+      "fields": {
+        "originCategory": 69,
+        "institution": 14,
+        "continent": 5,
+        "region": 28,
+        "country": 30,
+        "ancestry": 38,
+        "group": [
+          "L",
+          79
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "oceania",
+        "category": "ancestry",
+        "slug": "fiji",
+        "label": "iTaukei (Fiji)",
+        "institution_slug": "uni-marburg",
+        "institution_label": "Medizinhistorisch-anatomische Sammlung, Fachbereich Medizin, Philipps-Universität Marburg\n"
+      }
+    },
+    {
+      "id": 367,
+      "fields": {
+        "originCategory": 70,
+        "institution": 14,
+        "continent": 7,
+        "region": 3,
+        "country": 31,
+        "ancestry": 39,
+        "group": [
+          "L",
+          80
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "north_america",
+        "category": "ancestry",
+        "slug": "inuit_greenland",
+        "label": "Inuit",
+        "institution_slug": "uni-marburg",
+        "institution_label": "Medizinhistorisch-anatomische Sammlung, Fachbereich Medizin, Philipps-Universität Marburg\n"
+      }
+    },
+    {
+      "id": 371,
+      "fields": {
+        "originCategory": 86,
+        "institution": 16,
+        "continent": 3,
+        "region": 85,
+        "country": 19,
+        "ancestry": 21,
+        "group": [
+          "L",
+          104
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "asia",
+        "category": "region",
+        "slug": "qingdao",
+        "label": "Qingdao",
+        "institution_slug": "mm-hamburg",
+        "institution_label": "Medizinhistorisches Museum Hamburg"
+      }
+    },
+    {
+      "id": 375,
+      "fields": {
+        "originCategory": 87,
+        "institution": 16,
+        "continent": 6,
+        "region": 3,
+        "country": 35,
+        "ancestry": 21,
+        "group": [
+          "L",
+          105
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "south_america",
+        "category": "country",
+        "slug": "peru",
+        "label": "Peru",
+        "institution_slug": "mm-hamburg",
+        "institution_label": "Medizinhistorisches Museum Hamburg"
+      }
+    },
+    {
+      "id": 379,
+      "fields": {
+        "originCategory": 88,
+        "institution": 16,
+        "continent": 5,
+        "region": 3,
+        "country": 20,
+        "ancestry": 21,
+        "group": [
+          "L",
+          106
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "oceania",
+        "category": "country",
+        "slug": "australia",
+        "label": "Australia",
+        "institution_slug": "mm-hamburg",
+        "institution_label": "Medizinhistorisches Museum Hamburg"
+      }
+    },
+    {
+      "id": 383,
+      "fields": {
+        "originCategory": 89,
+        "institution": 16,
+        "continent": 1,
+        "region": 3,
+        "country": 36,
+        "ancestry": 21,
+        "group": [
+          "L",
+          107
+        ],
+        "currentCount": 3,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "country",
+        "slug": "egypt",
+        "label": "Egypt",
+        "institution_slug": "mm-hamburg",
+        "institution_label": "Medizinhistorisches Museum Hamburg"
+      }
+    },
+    {
+      "id": 386,
+      "fields": {
+        "originCategory": 90,
+        "institution": 16,
+        "continent": 3,
+        "region": 30,
+        "country": 21,
+        "ancestry": 21,
+        "group": [
+          "L",
+          108
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "asia",
+        "category": "region",
+        "slug": "java",
+        "label": "Java",
+        "institution_slug": "mm-hamburg",
+        "institution_label": "Medizinhistorisches Museum Hamburg"
+      }
+    },
+    {
+      "id": 390,
+      "fields": {
+        "originCategory": 91,
+        "institution": 16,
+        "continent": 3,
+        "region": 86,
+        "country": 37,
+        "ancestry": 21,
+        "group": [
+          "L",
+          109
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 0.8,
+        "repatriatedCount": 0,
+        "parent": "asia",
+        "category": "region",
+        "slug": "ahmedabad",
+        "label": "Ahmedabad",
+        "institution_slug": "mm-hamburg",
+        "institution_label": "Medizinhistorisches Museum Hamburg"
+      }
+    },
+    {
+      "id": 394,
+      "fields": {
+        "originCategory": 92,
+        "institution": 16,
+        "continent": 5,
+        "region": 3,
+        "country": 23,
+        "ancestry": 21,
+        "group": [
+          "L",
+          110
+        ],
+        "currentCount": 11,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "oceania",
+        "category": "country",
+        "slug": "papua_new_guinea",
+        "label": "Papua New Guinea",
+        "institution_slug": "mm-hamburg",
+        "institution_label": "Medizinhistorisches Museum Hamburg"
+      }
+    },
+    {
+      "id": 398,
+      "fields": {
+        "originCategory": 93,
+        "institution": 16,
+        "continent": 5,
+        "region": 3,
+        "country": 38,
+        "ancestry": 21,
+        "group": [
+          "L",
+          111
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "oceania",
+        "category": "country",
+        "slug": "vanuatu",
+        "label": "Vanuatu",
+        "institution_slug": "mm-hamburg",
+        "institution_label": "Medizinhistorisches Museum Hamburg"
+      }
+    },
+    {
+      "id": 402,
+      "fields": {
+        "originCategory": 94,
+        "institution": 16,
+        "continent": 3,
+        "region": 14,
+        "country": 23,
+        "ancestry": 21,
+        "group": [
+          "L",
+          112
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "asia",
+        "category": "region",
+        "slug": "borneo",
+        "label": "Borneo",
+        "institution_slug": "mm-hamburg",
+        "institution_label": "Medizinhistorisches Museum Hamburg"
+      }
+    },
+    {
+      "id": 406,
+      "fields": {
+        "originCategory": 95,
+        "institution": 16,
+        "continent": 3,
+        "region": 88,
+        "country": 37,
+        "ancestry": 21,
+        "group": [
+          "L",
+          113
+        ],
+        "currentCount": 3,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "asia",
+        "category": "region",
+        "slug": "amdamanen",
+        "label": "Amdamanen",
+        "institution_slug": "mm-hamburg",
+        "institution_label": "Medizinhistorisches Museum Hamburg"
+      }
+    },
+    {
+      "id": 411,
+      "fields": {
+        "originCategory": 96,
+        "institution": 16,
+        "continent": 1,
+        "region": 3,
+        "country": 1,
+        "ancestry": 21,
+        "group": [
+          "L",
+          114
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 0.75,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "country",
+        "slug": "tanzania",
+        "label": "Tanzania",
+        "institution_slug": "mm-hamburg",
+        "institution_label": "Medizinhistorisches Museum Hamburg"
+      }
+    },
+    {
+      "id": 415,
+      "fields": {
+        "originCategory": 97,
+        "institution": 16,
+        "continent": 1,
+        "region": 3,
+        "country": 39,
+        "ancestry": 21,
+        "group": [
+          "L",
+          115
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "country",
+        "slug": "botswana",
+        "label": "Botswana ",
+        "institution_slug": "mm-hamburg",
+        "institution_label": "Medizinhistorisches Museum Hamburg"
+      }
+    },
+    {
+      "id": 423,
+      "fields": {
+        "originCategory": 98,
+        "institution": 16,
+        "continent": 5,
+        "region": 3,
+        "country": 40,
+        "ancestry": 21,
+        "group": [
+          "L",
+          117
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "oceania",
+        "category": "country",
+        "slug": "french polynesia",
+        "label": "French Polynesia",
+        "institution_slug": "mm-hamburg",
+        "institution_label": "Medizinhistorisches Museum Hamburg"
+      }
+    },
+    {
+      "id": 427,
+      "fields": {
+        "originCategory": 99,
+        "institution": 16,
+        "continent": 6,
+        "region": 3,
+        "country": 35,
+        "ancestry": 41,
+        "group": [
+          "L",
+          118
+        ],
+        "currentCount": 18,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "south_america",
+        "category": "ancestry",
+        "slug": "inka",
+        "label": "Inka",
+        "institution_slug": "mm-hamburg",
+        "institution_label": "Medizinhistorisches Museum Hamburg"
+      }
+    },
+    {
+      "id": 431,
+      "fields": {
+        "originCategory": 100,
+        "institution": 16,
+        "continent": 6,
+        "region": 3,
+        "country": 35,
+        "ancestry": 42,
+        "group": [
+          "L",
+          119
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "south_america",
+        "category": "ancestry",
+        "slug": "chincas",
+        "label": "Chincas",
+        "institution_slug": "mm-hamburg",
+        "institution_label": "Medizinhistorisches Museum Hamburg"
+      }
+    },
+    {
+      "id": 435,
+      "fields": {
+        "originCategory": 101,
+        "institution": 16,
+        "continent": 6,
+        "region": 89,
+        "country": 41,
+        "ancestry": 21,
+        "group": [
+          "L",
+          120
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "south_america",
+        "category": "region",
+        "slug": "colon",
+        "label": "Colon",
+        "institution_slug": "mm-hamburg",
+        "institution_label": "Medizinhistorisches Museum Hamburg"
+      }
+    },
+    {
+      "id": 439,
+      "fields": {
+        "originCategory": 102,
+        "institution": 16,
+        "continent": 6,
+        "region": 3,
+        "country": 42,
+        "ancestry": 21,
+        "group": [
+          "L",
+          121
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "south_america",
+        "category": "country",
+        "slug": "chile",
+        "label": "Chile",
+        "institution_slug": "mm-hamburg",
+        "institution_label": "Medizinhistorisches Museum Hamburg"
+      }
+    },
+    {
+      "id": 443,
+      "fields": {
+        "originCategory": 103,
+        "institution": 16,
+        "continent": 7,
+        "region": 3,
+        "country": 31,
+        "ancestry": 21,
+        "group": [
+          "L",
+          122
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "north_america",
+        "category": "country",
+        "slug": "greenland",
+        "label": "Greenland",
+        "institution_slug": "mm-hamburg",
+        "institution_label": "Medizinhistorisches Museum Hamburg"
+      }
+    },
+    {
+      "id": 444,
+      "fields": {
+        "originCategory": 104,
+        "institution": 16,
+        "continent": 1,
+        "region": 3,
+        "country": 3,
+        "ancestry": 4,
+        "group": [
+          "L",
+          116
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 0.75,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "maasai",
+        "label": "Maasai",
+        "institution_slug": "mm-hamburg",
+        "institution_label": "Medizinhistorisches Museum Hamburg"
+      }
+    },
+    {
+      "id": 448,
+      "fields": {
+        "originCategory": 105,
+        "institution": 1,
+        "continent": 5,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          123
+        ],
+        "currentCount": 222,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "oceania",
+        "category": "continent",
+        "slug": "oceania",
+        "label": "Oceania",
+        "institution_slug": "spk-mvf",
+        "institution_label": "SPK – Museum für Vor- und Frühgeschichte"
+      }
+    },
+    {
+      "id": 451,
+      "fields": {
+        "originCategory": 106,
+        "institution": 1,
+        "continent": 7,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          124
+        ],
+        "currentCount": 121,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "north_america",
+        "category": "continent",
+        "slug": "north_america",
+        "label": "North America",
+        "institution_slug": "spk-mvf",
+        "institution_label": "SPK – Museum für Vor- und Frühgeschichte"
+      }
+    },
+    {
+      "id": 454,
+      "fields": {
+        "originCategory": 107,
+        "institution": 1,
+        "continent": 3,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          125
+        ],
+        "currentCount": 446,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "asia",
+        "category": "continent",
+        "slug": "asia",
+        "label": "Asia",
+        "institution_slug": "spk-mvf",
+        "institution_label": "SPK – Museum für Vor- und Frühgeschichte"
+      }
+    },
+    {
+      "id": 458,
+      "fields": {
+        "originCategory": 108,
+        "institution": 1,
+        "continent": 6,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          126
+        ],
+        "currentCount": 710,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "south_america",
+        "category": "continent",
+        "slug": "south_america",
+        "label": "South America",
+        "institution_slug": "spk-mvf",
+        "institution_label": "SPK – Museum für Vor- und Frühgeschichte"
+      }
+    },
+    {
+      "id": 461,
+      "fields": {
+        "originCategory": 109,
+        "institution": 1,
+        "continent": 8,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          127
+        ],
+        "currentCount": 969,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "spk-mvf",
+        "category": "unknown",
+        "slug": "unknown",
+        "label": "Unknown",
+        "institution_slug": "spk-mvf",
+        "institution_label": "SPK – Museum für Vor- und Frühgeschichte"
+      }
+    },
+    {
+      "id": 465,
+      "fields": {
+        "originCategory": 110,
+        "institution": 1,
+        "continent": 1,
+        "region": 3,
+        "country": 47,
+        "ancestry": 21,
+        "group": [
+          "L",
+          128
+        ],
+        "currentCount": 19,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "country",
+        "slug": "ghana",
+        "label": "Ghana",
+        "institution_slug": "spk-mvf",
+        "institution_label": "SPK – Museum für Vor- und Frühgeschichte"
+      }
+    },
+    {
+      "id": 469,
+      "fields": {
+        "originCategory": 111,
+        "institution": 1,
+        "continent": 1,
+        "region": 3,
+        "country": 48,
+        "ancestry": 21,
+        "group": [
+          "L",
+          129
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "country",
+        "slug": "nigeria",
+        "label": "Nigeria",
+        "institution_slug": "spk-mvf",
+        "institution_label": "SPK – Museum für Vor- und Frühgeschichte"
+      }
+    },
+    {
+      "id": 472,
+      "fields": {
+        "originCategory": 112,
+        "institution": 1,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          130
+        ],
+        "currentCount": 369,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "continent",
+        "slug": "africa",
+        "label": "Africa",
+        "institution_slug": "spk-mvf",
+        "institution_label": "SPK – Museum für Vor- und Frühgeschichte"
+      }
+    },
+    {
+      "id": 476,
+      "fields": {
+        "originCategory": 113,
+        "institution": 16,
+        "continent": 1,
+        "region": 3,
+        "country": 4,
+        "ancestry": 21,
+        "group": [
+          "L",
+          131
+        ],
+        "currentCount": 3,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "country",
+        "slug": "cameroon",
+        "label": "Cameroon",
+        "institution_slug": "mm-hamburg",
+        "institution_label": "Medizinhistorisches Museum Hamburg"
+      }
+    },
+    {
+      "id": 477,
+      "fields": {
+        "originCategory": 114,
+        "institution": 4,
+        "continent": 5,
+        "region": 3,
+        "country": 18,
+        "ancestry": 32,
+        "group": [
+          "L",
+          96
+        ],
+        "currentCount": 0,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 109,
+        "parent": "oceania",
+        "category": "ancestry",
+        "slug": "moriori_maori",
+        "label": "Moriori, Māori",
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)"
+      }
+    },
+    {
+      "id": 481,
+      "fields": {
+        "originCategory": 115,
+        "institution": 17,
+        "continent": 5,
+        "region": 3,
+        "country": 20,
+        "ancestry": 21,
+        "group": [
+          "L",
+          132
+        ],
+        "currentCount": 3,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "oceania",
+        "category": "country",
+        "slug": "australia",
+        "label": "Australia",
+        "institution_slug": "u-koln",
+        "institution_label": "Universität zu Köln\n"
+      }
+    },
+    {
+      "id": 485,
+      "fields": {
+        "originCategory": 116,
+        "institution": 17,
+        "continent": 5,
+        "region": 3,
+        "country": 23,
+        "ancestry": 21,
+        "group": [
+          "L",
+          133
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "oceania",
+        "category": "country",
+        "slug": "papua_new_guinea",
+        "label": "Papua New Guinea",
+        "institution_slug": "u-koln",
+        "institution_label": "Universität zu Köln\n"
+      }
+    },
+    {
+      "id": 489,
+      "fields": {
+        "originCategory": 117,
+        "institution": 17,
+        "continent": 6,
+        "region": 3,
+        "country": 50,
+        "ancestry": 21,
+        "group": [
+          "L",
+          134
+        ],
+        "currentCount": 4,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "south_america",
+        "category": "country",
+        "slug": "brazil",
+        "label": "Brazil",
+        "institution_slug": "u-koln",
+        "institution_label": "Universität zu Köln\n"
+      }
+    },
+    {
+      "id": 493,
+      "fields": {
+        "originCategory": 118,
+        "institution": 17,
+        "continent": 1,
+        "region": 3,
+        "country": 51,
+        "ancestry": 21,
+        "group": [
+          "L",
+          135
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "country",
+        "slug": "sudan",
+        "label": "Sudan",
+        "institution_slug": "u-koln",
+        "institution_label": "Universität zu Köln\n"
+      }
+    },
+    {
+      "id": 496,
+      "fields": {
+        "originCategory": 119,
+        "institution": 17,
+        "continent": 3,
+        "region": 3,
+        "country": 19,
+        "ancestry": 21,
+        "group": [
+          "L",
+          136
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "asia",
+        "category": "country",
+        "slug": "china",
+        "label": "China",
+        "institution_slug": "u-koln",
+        "institution_label": "Universität zu Köln\n"
+      }
+    },
+    {
+      "id": 500,
+      "fields": {
+        "originCategory": 120,
+        "institution": 17,
+        "continent": 3,
+        "region": 3,
+        "country": 37,
+        "ancestry": 21,
+        "group": [
+          "L",
+          137
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "asia",
+        "category": "country",
+        "slug": "india",
+        "label": "India",
+        "institution_slug": "u-koln",
+        "institution_label": "Universität zu Köln\n"
+      }
+    },
+    {
+      "id": 504,
+      "fields": {
+        "originCategory": 121,
+        "institution": 17,
+        "continent": 3,
+        "region": 3,
+        "country": 21,
+        "ancestry": 21,
+        "group": [
+          "L",
+          138
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "asia",
+        "category": "country",
+        "slug": "indonesia",
+        "label": "Indonesia",
+        "institution_slug": "u-koln",
+        "institution_label": "Universität zu Köln\n"
+      }
+    },
+    {
+      "id": 509,
+      "fields": {
+        "originCategory": 122,
+        "institution": 17,
+        "continent": 6,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          139
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "south_america",
+        "category": "continent",
+        "slug": "south_america",
+        "label": "South America",
+        "institution_slug": "u-koln",
+        "institution_label": "Universität zu Köln\n"
+      }
+    },
+    {
+      "id": 513,
+      "fields": {
+        "originCategory": 123,
+        "institution": 17,
+        "continent": 7,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          140
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "north_america",
+        "category": "continent",
+        "slug": "north_america",
+        "label": "North America",
+        "institution_slug": "u-koln",
+        "institution_label": "Universität zu Köln\n"
+      }
+    },
+    {
+      "id": 517,
+      "fields": {
+        "originCategory": 124,
+        "institution": 17,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          141
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "continent",
+        "slug": "africa",
+        "label": "Africa",
+        "institution_slug": "u-koln",
+        "institution_label": "Universität zu Köln\n"
+      }
+    },
+    {
+      "id": 523,
+      "fields": {
+        "originCategory": 125,
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 4,
+        "group": [
+          "L",
+          142
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "maasai",
+        "label": "Maasai",
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg"
+      }
+    },
+    {
+      "id": 527,
+      "fields": {
+        "originCategory": 126,
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 10,
+        "group": [
+          "L",
+          143
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "zulu",
+        "label": "Zulu",
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg"
+      }
+    },
+    {
+      "id": 531,
+      "fields": {
+        "originCategory": 127,
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 43,
+        "group": [
+          "L",
+          144
+        ],
+        "currentCount": 30,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "dschagga",
+        "label": "Wachaga",
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg"
+      }
+    },
+    {
+      "id": 534,
+      "fields": {
+        "originCategory": 128,
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 44,
+        "group": [
+          "L",
+          145
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "nyamwesi",
+        "label": "Wanyamwesi",
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg"
+      }
+    },
+    {
+      "id": 538,
+      "fields": {
+        "originCategory": 129,
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 45,
+        "group": [
+          "L",
+          146
+        ],
+        "currentCount": 12,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "bangwa",
+        "label": "Bangwa (Nwe)",
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg"
+      }
+    },
+    {
+      "id": 541,
+      "fields": {
+        "originCategory": 130,
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 46,
+        "group": [
+          "L",
+          147
+        ],
+        "currentCount": 9,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "bamenda",
+        "label": "Nkwen (Bamenda)",
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg"
+      }
+    },
+    {
+      "id": 544,
+      "fields": {
+        "originCategory": 131,
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 47,
+        "group": [
+          "L",
+          148
+        ],
+        "currentCount": 10,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "cross_river",
+        "label": "Ejagham (Ekoi)",
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg"
+      }
+    },
+    {
+      "id": 547,
+      "fields": {
+        "originCategory": 132,
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 48,
+        "group": [
+          "L",
+          149
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "batscha",
+        "label": "Batcha (Bamiléké)",
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg"
+      }
+    },
+    {
+      "id": 561,
+      "fields": {
+        "originCategory": 133,
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 49,
+        "group": [
+          "L",
+          150
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "bali",
+        "label": "Bali",
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg"
+      }
+    },
+    {
+      "id": 562,
+      "fields": {
+        "originCategory": 134,
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 50,
+        "group": [
+          "L",
+          151
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "babadju",
+        "label": "Babadjou (Bamiléké)",
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg"
+      }
+    },
+    {
+      "id": 563,
+      "fields": {
+        "originCategory": 135,
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 51,
+        "group": [
+          "L",
+          152
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "mamfe",
+        "label": "Mamfé (Banyang)",
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg"
+      }
+    },
+    {
+      "id": 567,
+      "fields": {
+        "originCategory": 136,
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 52,
+        "group": [
+          "L",
+          153
+        ],
+        "currentCount": 6,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "bakumba",
+        "label": "Bakumba (Mbonge)",
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg"
+      }
+    },
+    {
+      "id": 571,
+      "fields": {
+        "originCategory": 137,
+        "institution": 14,
+        "continent": 3,
+        "region": 3,
+        "country": 10,
+        "ancestry": 62,
+        "group": [
+          "L",
+          154
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "asia",
+        "category": "ancestry",
+        "slug": "bugi",
+        "label": "Bugi",
+        "institution_slug": "uni-marburg",
+        "institution_label": "Medizinhistorisch-anatomische Sammlung, Fachbereich Medizin, Philipps-Universität Marburg\n"
+      }
+    },
+    {
+      "id": 575,
+      "fields": {
+        "originCategory": 138,
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 53,
+        "group": [
+          "L",
+          155
+        ],
+        "currentCount": 11,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "bafut",
+        "label": "Bafut",
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg"
+      }
+    },
+    {
+      "id": 580,
+      "fields": {
+        "originCategory": 139,
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 54,
+        "group": [
+          "L",
+          156
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "bali-kumbat",
+        "label": "Balikumbat",
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg"
+      }
+    },
+    {
+      "id": 583,
+      "fields": {
+        "originCategory": 140,
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 55,
+        "group": [
+          "L",
+          157
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "bamum",
+        "label": "Bamum",
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg"
+      }
+    },
+    {
+      "id": 586,
+      "fields": {
+        "originCategory": 141,
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 56,
+        "group": [
+          "L",
+          158
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "suaheli",
+        "label": "Waswahili",
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg"
+      }
+    },
+    {
+      "id": 589,
+      "fields": {
+        "originCategory": 142,
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 57,
+        "group": [
+          "L",
+          159
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "mindeh",
+        "label": "Mende",
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg"
+      }
+    },
+    {
+      "id": 600,
+      "fields": {
+        "originCategory": 143,
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 58,
+        "group": [
+          "L",
+          160
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "loango",
+        "label": "Loango",
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg"
+      }
+    },
+    {
+      "id": 601,
+      "fields": {
+        "originCategory": 144,
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 59,
+        "group": [
+          "L",
+          161
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "bakundu",
+        "label": "Bakundu",
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg"
+      }
+    },
+    {
+      "id": 602,
+      "fields": {
+        "originCategory": 145,
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 27,
+        "group": [
+          "L",
+          162
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "ovaherero",
+        "label": "Ovaherero",
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg"
+      }
+    },
+    {
+      "id": 603,
+      "fields": {
+        "originCategory": 146,
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 61,
+        "group": [
+          "L",
+          163
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "mandingo",
+        "label": "Mandingo / Malinke",
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg"
+      }
+    },
+    {
+      "id": 604,
+      "fields": {
+        "originCategory": 147,
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 9,
+        "group": [
+          "L",
+          164
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "xhosa",
+        "label": "Xhosa",
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg"
+      }
+    },
+    {
+      "id": 605,
+      "fields": {
+        "originCategory": 148,
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 4,
+        "group": [
+          "L",
+          165
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "maasai",
+        "label": "Maasai",
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg"
+      }
+    },
+    {
+      "id": 606,
+      "fields": {
+        "originCategory": 149,
+        "institution": 18,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 10,
+        "group": [
+          "L",
+          166
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "zulu",
+        "label": "Zulu",
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg"
+      }
+    },
+    {
+      "id": 612,
+      "fields": {
+        "originCategory": 150,
+        "institution": 19,
+        "continent": 1,
+        "region": 91,
+        "country": 36,
+        "ancestry": 21,
+        "group": [
+          "L",
+          167
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "region",
+        "slug": "dendera",
+        "label": "Dendera",
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg"
+      }
+    },
+    {
+      "id": 613,
+      "fields": {
+        "originCategory": 151,
+        "institution": 19,
+        "continent": 1,
+        "region": 93,
+        "country": 36,
+        "ancestry": 21,
+        "group": [
+          "L",
+          168
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "region",
+        "slug": "gebel muota",
+        "label": "Gebel Muota",
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg"
+      }
+    },
+    {
+      "id": 615,
+      "fields": {
+        "originCategory": 152,
+        "institution": 19,
+        "continent": 1,
+        "region": 95,
+        "country": 36,
+        "ancestry": 21,
+        "group": [
+          "L",
+          169
+        ],
+        "currentCount": 6,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "region",
+        "slug": "theben",
+        "label": "Theben",
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg"
+      }
+    },
+    {
+      "id": 616,
+      "fields": {
+        "originCategory": 153,
+        "institution": 19,
+        "continent": 1,
+        "region": 3,
+        "country": 36,
+        "ancestry": 21,
+        "group": [
+          "L",
+          170
+        ],
+        "currentCount": 27,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "country",
+        "slug": "egypt",
+        "label": "Egypt",
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg"
+      }
+    },
+    {
+      "id": 617,
+      "fields": {
+        "originCategory": 154,
+        "institution": 19,
+        "continent": 1,
+        "region": 103,
+        "country": 36,
+        "ancestry": 21,
+        "group": [
+          "L",
+          171
+        ],
+        "currentCount": 3,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "region",
+        "slug": "abydos",
+        "label": "Abydos",
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg"
+      }
+    },
+    {
+      "id": 618,
+      "fields": {
+        "originCategory": 155,
+        "institution": 19,
+        "continent": 1,
+        "region": 104,
+        "country": 36,
+        "ancestry": 21,
+        "group": [
+          "L",
+          172
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "region",
+        "slug": "gizeh",
+        "label": "Gizeh",
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg"
+      }
+    },
+    {
+      "id": 621,
+      "fields": {
+        "originCategory": 156,
+        "institution": 19,
+        "continent": 1,
+        "region": 105,
+        "country": 36,
+        "ancestry": 21,
+        "group": [
+          "L",
+          173
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "region",
+        "slug": "cairo",
+        "label": "Cairo",
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg"
+      }
+    },
+    {
+      "id": 622,
+      "fields": {
+        "originCategory": 157,
+        "institution": 19,
+        "continent": 1,
+        "region": 106,
+        "country": 36,
+        "ancestry": 21,
+        "group": [
+          "L",
+          174
+        ],
+        "currentCount": 5,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "region",
+        "slug": "nubia",
+        "label": "Nubia",
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg"
+      }
+    },
+    {
+      "id": 627,
+      "fields": {
+        "originCategory": 158,
+        "institution": 19,
+        "continent": 1,
+        "region": 109,
+        "country": 51,
+        "ancestry": 21,
+        "group": [
+          "L",
+          175
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "region",
+        "slug": "wadi halfa",
+        "label": "Wadi Halfa",
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg"
+      }
+    },
+    {
+      "id": 628,
+      "fields": {
+        "originCategory": 159,
+        "institution": 19,
+        "continent": 1,
+        "region": 110,
+        "country": 51,
+        "ancestry": 21,
+        "group": [
+          "L",
+          176
+        ],
+        "currentCount": 3,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "region",
+        "slug": "fazogli",
+        "label": "Fazogli",
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg"
+      }
+    },
+    {
+      "id": 629,
+      "fields": {
+        "originCategory": 160,
+        "institution": 19,
+        "continent": 1,
+        "region": 111,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          177
+        ],
+        "currentCount": 3,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "region",
+        "slug": "east africa",
+        "label": "East Africa",
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg"
+      }
+    },
+    {
+      "id": 630,
+      "fields": {
+        "originCategory": 161,
+        "institution": 19,
+        "continent": 1,
+        "region": 112,
+        "country": 51,
+        "ancestry": 21,
+        "group": [
+          "L",
+          178
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "region",
+        "slug": "darfur",
+        "label": "Darfur",
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg"
+      }
+    },
+    {
+      "id": 632,
+      "fields": {
+        "originCategory": 162,
+        "institution": 19,
+        "continent": 1,
+        "region": 3,
+        "country": 47,
+        "ancestry": 21,
+        "group": [
+          "L",
+          179
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "country",
+        "slug": "ghana",
+        "label": "Ghana",
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg"
+      }
+    },
+    {
+      "id": 639,
+      "fields": {
+        "originCategory": 163,
+        "institution": 19,
+        "continent": 1,
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          180
+        ],
+        "currentCount": 7,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "continent",
+        "slug": "africa",
+        "label": "Africa",
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg"
+      }
+    },
+    {
+      "id": 640,
+      "fields": {
+        "originCategory": 164,
+        "institution": 19,
+        "continent": 1,
+        "region": 3,
+        "country": 51,
+        "ancestry": 21,
+        "group": [
+          "L",
+          181
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "country",
+        "slug": "sudan",
+        "label": "Sudan",
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg"
+      }
+    },
+    {
+      "id": 641,
+      "fields": {
+        "originCategory": 165,
+        "institution": 19,
+        "continent": 1,
+        "region": 113,
+        "country": 52,
+        "ancestry": 21,
+        "group": [
+          "L",
+          182
+        ],
+        "currentCount": 17,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "region",
+        "slug": "tunis",
+        "label": "Tunis",
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg"
+      }
+    },
+    {
+      "id": 642,
+      "fields": {
+        "originCategory": 166,
+        "institution": 19,
+        "continent": 1,
+        "region": 3,
+        "country": 53,
+        "ancestry": 21,
+        "group": [
+          "L",
+          183
+        ],
+        "currentCount": 8,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "country",
+        "slug": "south_sudan",
+        "label": "South Sudan",
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg"
+      }
+    },
+    {
+      "id": 643,
+      "fields": {
+        "originCategory": 167,
+        "institution": 19,
+        "continent": 1,
+        "region": 3,
+        "country": 36,
+        "ancestry": 64,
+        "group": [
+          "L",
+          184
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "fellah",
+        "label": "Fellah",
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg"
+      }
+    },
+    {
+      "id": 644,
+      "fields": {
+        "originCategory": 168,
+        "institution": 19,
+        "continent": 1,
+        "region": 114,
+        "country": 16,
+        "ancestry": 21,
+        "group": [
+          "L",
+          185
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "region",
+        "slug": "shakawa",
+        "label": "Shakawa",
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg"
+      }
+    },
+    {
+      "id": 685,
+      "fields": {
+        "originCategory": 169,
+        "institution": 19,
+        "continent": 1,
+        "region": 3,
+        "country": 54,
+        "ancestry": 21,
+        "group": [
+          "L",
+          186
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "country",
+        "slug": "gabun",
+        "label": "Gabun",
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg"
+      }
+    },
+    {
+      "id": 686,
+      "fields": {
+        "originCategory": 170,
+        "institution": 19,
+        "continent": 1,
+        "region": 3,
+        "country": 55,
+        "ancestry": 21,
+        "group": [
+          "L",
+          187
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "country",
+        "slug": "guinea",
+        "label": "Guinea",
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg"
+      }
+    },
+    {
+      "id": 687,
+      "fields": {
+        "originCategory": 171,
+        "institution": 19,
+        "continent": 1,
+        "region": 3,
+        "country": 4,
+        "ancestry": 63,
+        "group": [
+          "L",
+          188
+        ],
+        "currentCount": 6,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "makaa",
+        "label": "Makaa",
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg"
+      }
+    },
+    {
+      "id": 688,
+      "fields": {
+        "originCategory": 172,
+        "institution": 19,
+        "continent": 1,
+        "region": 3,
+        "country": 16,
+        "ancestry": 21,
+        "group": [
+          "L",
+          189
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "country",
+        "slug": "congo",
+        "label": "Congo",
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg"
+      }
+    },
+    {
+      "id": 689,
+      "fields": {
+        "originCategory": 173,
+        "institution": 19,
+        "continent": 1,
+        "region": 3,
+        "country": 5,
+        "ancestry": 21,
+        "group": [
+          "L",
+          190
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "country",
+        "slug": "togo",
+        "label": "Togo",
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg"
+      }
+    },
+    {
+      "id": 690,
+      "fields": {
+        "originCategory": 174,
+        "institution": 19,
+        "continent": 1,
+        "region": 3,
+        "country": 56,
+        "ancestry": 21,
+        "group": [
+          "L",
+          191
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "country",
+        "slug": "mali",
+        "label": "Mali",
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg"
+      }
+    },
+    {
+      "id": 691,
+      "fields": {
+        "originCategory": 176,
+        "institution": 19,
+        "continent": 1,
+        "region": 116,
+        "country": 58,
+        "ancestry": 21,
+        "group": [
+          "L",
+          193
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "region",
+        "slug": "bissagos",
+        "label": "Bissagos-Archipel",
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg"
+      }
+    },
+    {
+      "id": 692,
+      "fields": {
+        "originCategory": 177,
+        "institution": 19,
+        "continent": 1,
+        "region": 117,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          194
+        ],
+        "currentCount": 4,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "region",
+        "slug": "southwest africa",
+        "label": "Southwest Africa",
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg"
+      }
+    },
+    {
+      "id": 693,
+      "fields": {
+        "originCategory": 178,
+        "institution": 19,
+        "continent": 1,
+        "region": 3,
+        "country": 14,
+        "ancestry": 21,
+        "group": [
+          "L",
+          195
+        ],
+        "currentCount": 0,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 11,
+        "parent": "africa",
+        "category": "country",
+        "slug": "namibia",
+        "label": "Namibia",
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg"
+      }
+    },
+    {
+      "id": 694,
+      "fields": {
+        "originCategory": 179,
+        "institution": 19,
+        "continent": 1,
+        "region": 118,
+        "country": 13,
+        "ancestry": 21,
+        "group": [
+          "L",
+          196
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "region",
+        "slug": "cape peninsula",
+        "label": "Cape Peninsula",
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg"
+      }
+    },
+    {
+      "id": 695,
+      "fields": {
+        "originCategory": 180,
+        "institution": 19,
+        "continent": 1,
+        "region": 119,
+        "country": 59,
+        "ancestry": 21,
+        "group": [
+          "L",
+          197
+        ],
+        "currentCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "region",
+        "slug": "bari",
+        "label": "Bari",
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg"
+      }
+    },
+    {
+      "id": 696,
+      "fields": {
+        "originCategory": 181,
+        "institution": 19,
+        "continent": 1,
+        "region": 3,
+        "country": 48,
+        "ancestry": 21,
+        "group": [
+          "L",
+          198
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "country",
+        "slug": "nigeria",
+        "label": "Nigeria",
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg"
+      }
+    },
+    {
+      "id": 697,
+      "fields": {
+        "originCategory": 182,
+        "institution": 19,
+        "continent": 1,
+        "region": 3,
+        "country": 4,
+        "ancestry": 21,
+        "group": [
+          "L",
+          199
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "country",
+        "slug": "cameroon",
+        "label": "Cameroon",
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg"
+      }
+    },
+    {
+      "id": 698,
+      "fields": {
+        "originCategory": 183,
+        "institution": 19,
+        "continent": 1,
+        "region": 3,
+        "country": 11,
+        "ancestry": 21,
+        "group": [
+          "L",
+          200
+        ],
+        "currentCount": 3,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "country",
+        "slug": "ethopia",
+        "label": "Ethopia",
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg"
+      }
+    },
+    {
+      "id": 699,
+      "fields": {
+        "originCategory": 184,
+        "institution": 19,
+        "continent": 1,
+        "region": 3,
+        "country": 59,
+        "ancestry": 21,
+        "group": [
+          "L",
+          201
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "country",
+        "slug": "somalia",
+        "label": "Somalia",
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg"
+      }
+    },
+    {
+      "id": 700,
+      "fields": {
+        "originCategory": 185,
+        "institution": 19,
+        "continent": 1,
+        "region": 120,
+        "country": 46,
+        "ancestry": 21,
+        "group": [
+          "L",
+          202
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "region",
+        "slug": "sambesi",
+        "label": "Sambesi",
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg"
+      }
+    },
+    {
+      "id": 701,
+      "fields": {
+        "originCategory": 186,
+        "institution": 19,
+        "continent": 1,
+        "region": 122,
+        "country": 10,
+        "ancestry": 21,
+        "group": [
+          "L",
+          203
+        ],
+        "currentCount": 10,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "region",
+        "slug": "notheast_africa",
+        "label": "Northeast Africa",
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg"
+      }
+    },
+    {
+      "id": 702,
+      "fields": {
+        "originCategory": 188,
+        "institution": 19,
+        "continent": 1,
+        "region": 111,
+        "country": 10,
+        "ancestry": 1,
+        "group": [
+          "L",
+          205
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "africa",
+        "category": "ancestry",
+        "slug": "hehe",
+        "label": "Wahehe",
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg"
+      }
+    },
+    {
+      "id": 703,
+      "fields": {
+        "originCategory": 187,
+        "institution": 19,
+        "continent": 2,
+        "region": 121,
+        "country": 57,
+        "ancestry": 21,
+        "group": [
+          "L",
+          204
+        ],
+        "currentCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "europe",
+        "category": "region",
+        "slug": "canary-islands",
+        "label": "Canary Islands",
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg"
+      }
+    },
+    {
+      "id": 704,
+      "fields": {
+        "originCategory": 175,
+        "institution": 19,
+        "continent": 2,
+        "region": 3,
+        "country": 57,
+        "ancestry": 21,
+        "group": [
+          "L",
+          192
+        ],
+        "currentCount": 22,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "parent": "europe",
+        "category": "country",
+        "slug": "spain",
+        "label": "Spain",
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg"
+      }
+    }
+  ]
+}

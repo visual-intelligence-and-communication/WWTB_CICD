@@ -1,0 +1,4288 @@
+{
+  "records": [
+    {
+      "id": 1,
+      "fields": {
+        "originalCount": 213,
+        "certaintyOfCount": 0.9,
+        "repatriatedCount": 0,
+        "originCategory": 1,
+        "institution": 1,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 1,
+        "ancestry": 21,
+        "id2": 1,
+        "latitude2": -6.355794,
+        "longitude2": 34.818322,
+        "currentCount": 213
+      }
+    },
+    {
+      "id": 2,
+      "fields": {
+        "originalCount": 907,
+        "certaintyOfCount": 0.89,
+        "repatriatedCount": 0,
+        "originCategory": 2,
+        "institution": 1,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 2,
+        "ancestry": 21,
+        "id2": 2,
+        "latitude2": -2.014687,
+        "longitude2": 29.91944,
+        "currentCount": 907
+      }
+    },
+    {
+      "id": 3,
+      "fields": {
+        "originalCount": 22,
+        "certaintyOfCount": 0.9,
+        "repatriatedCount": 0,
+        "originCategory": 3,
+        "institution": 1,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 3,
+        "ancestry": 21,
+        "id2": 3,
+        "latitude2": 0.689918,
+        "longitude2": 37.953094,
+        "currentCount": 22
+      }
+    },
+    {
+      "id": 4,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 0.9,
+        "repatriatedCount": 0,
+        "originCategory": 78,
+        "institution": 1,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 23,
+        "country": 10,
+        "ancestry": 21,
+        "id2": 4,
+        "latitude2": -2.3752786558776964,
+        "longitude2": 30.60790261261619,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 5,
+      "fields": {
+        "originalCount": 300,
+        "certaintyOfCount": 0.7,
+        "repatriatedCount": 0,
+        "originCategory": 5,
+        "institution": 1,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 4,
+        "ancestry": 21,
+        "id2": 5,
+        "latitude2": 6.294168,
+        "longitude2": 12.948474,
+        "currentCount": 300
+      }
+    },
+    {
+      "id": 6,
+      "fields": {
+        "originalCount": 50,
+        "certaintyOfCount": 0.7,
+        "repatriatedCount": 0,
+        "originCategory": 6,
+        "institution": 1,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 5,
+        "ancestry": 21,
+        "id2": 6,
+        "latitude2": 8.660743,
+        "longitude2": 0.899086,
+        "currentCount": 50
+      }
+    },
+    {
+      "id": 7,
+      "fields": {
+        "originalCount": 20,
+        "certaintyOfCount": 0.7,
+        "repatriatedCount": 0,
+        "originCategory": 7,
+        "institution": 1,
+        "continent": [
+          "L",
+          5
+        ],
+        "region": 1,
+        "country": 10,
+        "ancestry": 21,
+        "id2": 7,
+        "latitude2": 6.878945,
+        "longitude2": 158.22919,
+        "currentCount": 20
+      }
+    },
+    {
+      "id": 8,
+      "fields": {
+        "originalCount": 10,
+        "certaintyOfCount": 0.7,
+        "repatriatedCount": 0,
+        "originCategory": 8,
+        "institution": 1,
+        "continent": [
+          "L",
+          5
+        ],
+        "region": 3,
+        "country": 6,
+        "ancestry": 21,
+        "id2": 8,
+        "latitude2": -0.522102,
+        "longitude2": 166.929376,
+        "currentCount": 10
+      }
+    },
+    {
+      "id": 9,
+      "fields": {
+        "originalCount": 10,
+        "certaintyOfCount": 0.7,
+        "repatriatedCount": 0,
+        "originCategory": 9,
+        "institution": 1,
+        "continent": [
+          "L",
+          5
+        ],
+        "region": 3,
+        "country": 7,
+        "ancestry": 21,
+        "id2": 9,
+        "latitude2": 7.534776,
+        "longitude2": 134.579651,
+        "currentCount": 10
+      }
+    },
+    {
+      "id": 10,
+      "fields": {
+        "originalCount": 2000,
+        "certaintyOfCount": 0.7,
+        "repatriatedCount": 0,
+        "originCategory": 10,
+        "institution": 1,
+        "continent": [
+          "L",
+          5
+        ],
+        "region": 3,
+        "country": 23,
+        "ancestry": 21,
+        "id2": 10,
+        "latitude2": -9.26,
+        "longitude2": 147.21,
+        "currentCount": 2000
+      }
+    },
+    {
+      "id": 11,
+      "fields": {
+        "originalCount": 20,
+        "certaintyOfCount": 0.7,
+        "repatriatedCount": 0,
+        "originCategory": 11,
+        "institution": 1,
+        "continent": [
+          "L",
+          5
+        ],
+        "region": 2,
+        "country": 10,
+        "ancestry": 21,
+        "id2": 11,
+        "latitude2": 14.944217936027455,
+        "longitude2": 145.44891665689454,
+        "currentCount": 20
+      }
+    },
+    {
+      "id": 12,
+      "fields": {
+        "originalCount": 2,
+        "certaintyOfCount": 0.5,
+        "repatriatedCount": 0,
+        "originCategory": 12,
+        "institution": 1,
+        "continent": [
+          "L",
+          5
+        ],
+        "region": 3,
+        "country": 9,
+        "ancestry": 21,
+        "id2": 12,
+        "latitude2": -13.634253,
+        "longitude2": -172.441077,
+        "currentCount": 2
+      }
+    },
+    {
+      "id": 13,
+      "fields": {
+        "originalCount": 33,
+        "certaintyOfCount": 0.8,
+        "repatriatedCount": 0,
+        "originCategory": 13,
+        "institution": 2,
+        "continent": [
+          "L",
+          8
+        ],
+        "region": 19,
+        "country": 10,
+        "ancestry": 21,
+        "id2": 13,
+        "latitude2": 49.334668991454095,
+        "longitude2": 111.57097234371439,
+        "currentCount": 33
+      }
+    },
+    {
+      "id": 14,
+      "fields": {
+        "originalCount": 5,
+        "certaintyOfCount": 0.8,
+        "repatriatedCount": 0,
+        "originCategory": 14,
+        "institution": 2,
+        "continent": [
+          "L",
+          8
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "id2": 14,
+        "latitude2": 18.124569746225802,
+        "longitude2": 16.162174978577365,
+        "currentCount": 5
+      }
+    },
+    {
+      "id": 15,
+      "fields": {
+        "originalCount": 30,
+        "certaintyOfCount": 0.8,
+        "repatriatedCount": 0,
+        "originCategory": 15,
+        "institution": 2,
+        "continent": [
+          "L",
+          8
+        ],
+        "region": 21,
+        "country": 10,
+        "ancestry": 21,
+        "id2": 15,
+        "latitude2": 9.0781897391037,
+        "longitude2": 99.14011974443791,
+        "currentCount": 30
+      }
+    },
+    {
+      "id": 16,
+      "fields": {
+        "originalCount": 61,
+        "certaintyOfCount": 0.8,
+        "repatriatedCount": 0,
+        "originCategory": 16,
+        "institution": 2,
+        "continent": [
+          "L",
+          8
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "id2": 16,
+        "latitude2": 18.124569746225802,
+        "longitude2": 16.162174978577365,
+        "currentCount": 61
+      }
+    },
+    {
+      "id": 17,
+      "fields": {
+        "originalCount": 31,
+        "certaintyOfCount": 0.8,
+        "repatriatedCount": 0,
+        "originCategory": 17,
+        "institution": 2,
+        "continent": [
+          "L",
+          8
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "id2": 17,
+        "latitude2": 50.26487079067549,
+        "longitude2": -104.42544904987916,
+        "currentCount": 31
+      }
+    },
+    {
+      "id": 18,
+      "fields": {
+        "originalCount": 96,
+        "certaintyOfCount": 0.8,
+        "repatriatedCount": 0,
+        "originCategory": 61,
+        "institution": 2,
+        "continent": [
+          "L",
+          6
+        ],
+        "region": 22,
+        "country": 10,
+        "ancestry": 21,
+        "id2": 18,
+        "latitude2": 19.850338631935664,
+        "longitude2": -97.75841250652446,
+        "currentCount": 96
+      }
+    },
+    {
+      "id": 19,
+      "fields": {
+        "originalCount": 699,
+        "certaintyOfCount": 0.8,
+        "repatriatedCount": 0,
+        "originCategory": 19,
+        "institution": 2,
+        "continent": [
+          "L",
+          6
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "id2": 19,
+        "latitude2": -8.19683014174719,
+        "longitude2": -61.51873222725019,
+        "currentCount": 699
+      }
+    },
+    {
+      "id": 20,
+      "fields": {
+        "originalCount": 1009,
+        "certaintyOfCount": 0.8,
+        "repatriatedCount": 0,
+        "originCategory": 20,
+        "institution": 2,
+        "continent": [
+          "L",
+          5
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "id2": 20,
+        "latitude2": -4.827784594522241,
+        "longitude2": 128.2188155426399,
+        "currentCount": 1009
+      }
+    },
+    {
+      "id": 21,
+      "fields": {
+        "originalCount": 3,
+        "certaintyOfCount": 0.8,
+        "repatriatedCount": 0,
+        "originCategory": 21,
+        "institution": 2,
+        "continent": [
+          "L",
+          8
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "id2": 21,
+        "latitude2": 0,
+        "longitude2": 0,
+        "currentCount": 3
+      }
+    },
+    {
+      "id": 22,
+      "fields": {
+        "originalCount": 21,
+        "certaintyOfCount": 0.9,
+        "repatriatedCount": 0,
+        "originCategory": 1,
+        "institution": 2,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 1,
+        "ancestry": 21,
+        "id2": 22,
+        "latitude2": -6.355794,
+        "longitude2": 34.818322,
+        "currentCount": 21
+      }
+    },
+    {
+      "id": 23,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 0.9,
+        "repatriatedCount": 0,
+        "originCategory": 3,
+        "institution": 2,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 3,
+        "ancestry": 21,
+        "id2": 23,
+        "latitude2": 0.689918,
+        "longitude2": 37.953094,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 24,
+      "fields": {
+        "originalCount": 67,
+        "certaintyOfCount": 0.7,
+        "repatriatedCount": 0,
+        "originCategory": 5,
+        "institution": 2,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 4,
+        "ancestry": 21,
+        "id2": 24,
+        "latitude2": 6.294168,
+        "longitude2": 12.948474,
+        "currentCount": 67
+      }
+    },
+    {
+      "id": 25,
+      "fields": {
+        "originalCount": 16,
+        "certaintyOfCount": 0.7,
+        "repatriatedCount": 0,
+        "originCategory": 6,
+        "institution": 2,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 5,
+        "ancestry": 21,
+        "id2": 25,
+        "latitude2": 8.660743,
+        "longitude2": 0.899086,
+        "currentCount": 16
+      }
+    },
+    {
+      "id": 26,
+      "fields": {
+        "originalCount": 17,
+        "certaintyOfCount": 0.7,
+        "repatriatedCount": 0,
+        "originCategory": 12,
+        "institution": 2,
+        "continent": [
+          "L",
+          5
+        ],
+        "region": 3,
+        "country": 9,
+        "ancestry": 21,
+        "id2": 26,
+        "latitude2": -13.634253,
+        "longitude2": -172.441077,
+        "currentCount": 17
+      }
+    },
+    {
+      "id": 27,
+      "fields": {
+        "originalCount": 3500,
+        "certaintyOfCount": 0.6,
+        "repatriatedCount": 0,
+        "originCategory": 22,
+        "institution": 3,
+        "continent": [
+          "L",
+          8
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "id2": 27,
+        "latitude2": 0,
+        "longitude2": 0,
+        "currentCount": 3500
+      }
+    },
+    {
+      "id": 28,
+      "fields": {
+        "originalCount": 12,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 23,
+        "institution": 4,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 1,
+        "ancestry": 1,
+        "id2": 28,
+        "latitude2": -7.80346427,
+        "longitude2": 35.60269597,
+        "currentCount": 12
+      }
+    },
+    {
+      "id": 29,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 24,
+        "institution": 4,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 1,
+        "ancestry": 2,
+        "id2": 29,
+        "latitude2": -9.43949327,
+        "longitude2": 35.74394801,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 30,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 25,
+        "institution": 4,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 1,
+        "ancestry": 3,
+        "id2": 30,
+        "latitude2": -4.74837223,
+        "longitude2": 38.50343359,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 31,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 26,
+        "institution": 4,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 1,
+        "ancestry": 4,
+        "id2": 31,
+        "latitude2": -2.58588087,
+        "longitude2": 36.764372,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 32,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 27,
+        "institution": 4,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 1,
+        "ancestry": 21,
+        "id2": 32,
+        "latitude2": -6.355794,
+        "longitude2": 34.818322,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 33,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 28,
+        "institution": 4,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 1,
+        "ancestry": 5,
+        "id2": 33,
+        "latitude2": -3.38648264,
+        "longitude2": 36.68613965,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 34,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 29,
+        "institution": 4,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 11,
+        "ancestry": 21,
+        "id2": 34,
+        "latitude2": 8.72939,
+        "longitude2": 39.914903,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 35,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 30,
+        "institution": 4,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 12,
+        "ancestry": 6,
+        "id2": 35,
+        "latitude2": -16.04130948,
+        "longitude2": 34.80138589,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 36,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 31,
+        "institution": 4,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 12,
+        "ancestry": 7,
+        "id2": 36,
+        "latitude2": -23.82457252,
+        "longitude2": 29.44653657,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 37,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 32,
+        "institution": 4,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 2,
+        "ancestry": 8,
+        "id2": 37,
+        "latitude2": -1.94482532,
+        "longitude2": 30.06606365,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 38,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 33,
+        "institution": 4,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 2,
+        "ancestry": 21,
+        "id2": 38,
+        "latitude2": -2.014687,
+        "longitude2": 29.91944,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 39,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 34,
+        "institution": 4,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 13,
+        "ancestry": 21,
+        "id2": 39,
+        "latitude2": -28.553619,
+        "longitude2": 24.752527,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 40,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 35,
+        "institution": 4,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 13,
+        "ancestry": 9,
+        "id2": 40,
+        "latitude2": -33.9291,
+        "longitude2": 18.4174,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 41,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 36,
+        "institution": 4,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 13,
+        "ancestry": 10,
+        "id2": 41,
+        "latitude2": -28.31628442,
+        "longitude2": 31.45968861,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 42,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 37,
+        "institution": 4,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 13,
+        "ancestry": 11,
+        "id2": 42,
+        "latitude2": -32.87017404,
+        "longitude2": 27.39559154,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 43,
+      "fields": {
+        "originalCount": 3,
+        "certaintyOfCount": 0.8,
+        "repatriatedCount": 0,
+        "originCategory": 38,
+        "institution": 4,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 13,
+        "ancestry": 12,
+        "id2": 43,
+        "latitude2": -25.89360716,
+        "longitude2": 19.10073969,
+        "currentCount": 3
+      }
+    },
+    {
+      "id": 44,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 39,
+        "institution": 4,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 13,
+        "ancestry": 13,
+        "id2": 44,
+        "latitude2": -32.87017404,
+        "longitude2": 27.39559154,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 45,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 40,
+        "institution": 4,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 14,
+        "ancestry": 14,
+        "id2": 45,
+        "latitude2": -25.12808726,
+        "longitude2": 17.72575162,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 46,
+      "fields": {
+        "originalCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 41,
+        "institution": 4,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 14,
+        "ancestry": 15,
+        "id2": 46,
+        "latitude2": -17.92736265,
+        "longitude2": 16.30376425,
+        "currentCount": 2
+      }
+    },
+    {
+      "id": 47,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 42,
+        "institution": 4,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 5,
+        "ancestry": 16,
+        "id2": 47,
+        "latitude2": 9.26121985,
+        "longitude2": 0.77723963,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 48,
+      "fields": {
+        "originalCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 43,
+        "institution": 4,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 4,
+        "ancestry": 17,
+        "id2": 48,
+        "latitude2": 6.00375557,
+        "longitude2": 10.10218883,
+        "currentCount": 2
+      }
+    },
+    {
+      "id": 49,
+      "fields": {
+        "originalCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 44,
+        "institution": 4,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 15,
+        "ancestry": 18,
+        "id2": 49,
+        "latitude2": 5.31944446,
+        "longitude2": -7.4714422,
+        "currentCount": 2
+      }
+    },
+    {
+      "id": 50,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 0,
+        "repatriatedCount": 0,
+        "originCategory": 45,
+        "institution": 4,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 16,
+        "ancestry": 21,
+        "id2": 50,
+        "latitude2": -0.729439,
+        "longitude2": 14.879733,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 51,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 46,
+        "institution": 4,
+        "continent": [
+          "L",
+          5
+        ],
+        "region": 4,
+        "country": 10,
+        "ancestry": 21,
+        "id2": 51,
+        "latitude2": -38.35450975694103,
+        "longitude2": 145.35770969621856,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 52,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 47,
+        "institution": 4,
+        "continent": [
+          "L",
+          5
+        ],
+        "region": 3,
+        "country": 17,
+        "ancestry": 21,
+        "id2": 52,
+        "latitude2": -9.613105,
+        "longitude2": 160.164758,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 53,
+      "fields": {
+        "originalCount": 3,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 48,
+        "institution": 4,
+        "continent": [
+          "L",
+          5
+        ],
+        "region": 5,
+        "country": 10,
+        "ancestry": 21,
+        "id2": 53,
+        "latitude2": -21.928012052269708,
+        "longitude2": -157.92291225904802,
+        "currentCount": 3
+      }
+    },
+    {
+      "id": 54,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 49,
+        "institution": 4,
+        "continent": [
+          "L",
+          5
+        ],
+        "region": 6,
+        "country": 10,
+        "ancestry": 21,
+        "id2": 54,
+        "latitude2": -16.813486748855535,
+        "longitude2": -151.4449469963409,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 55,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 50,
+        "institution": 4,
+        "continent": [
+          "L",
+          5
+        ],
+        "region": 7,
+        "country": 10,
+        "ancestry": 21,
+        "id2": 55,
+        "latitude2": -17.634725606417447,
+        "longitude2": -149.45484393938438,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 56,
+      "fields": {
+        "originalCount": 3,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 51,
+        "institution": 4,
+        "continent": [
+          "L",
+          5
+        ],
+        "region": 8,
+        "country": 10,
+        "ancestry": 21,
+        "id2": 56,
+        "latitude2": -2.0600600449012716,
+        "longitude2": 146.90823838558978,
+        "currentCount": 3
+      }
+    },
+    {
+      "id": 57,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 52,
+        "institution": 4,
+        "continent": [
+          "L",
+          5
+        ],
+        "region": 9,
+        "country": 10,
+        "ancestry": 21,
+        "id2": 57,
+        "latitude2": 7.880324910428334,
+        "longitude2": 144.13296604537337,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 58,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 1,
+        "originCategory": 53,
+        "institution": 4,
+        "continent": [
+          "L",
+          5
+        ],
+        "region": 3,
+        "country": 18,
+        "ancestry": 21,
+        "id2": 58,
+        "latitude2": -42.63364565969775,
+        "longitude2": 172.24768689863598,
+        "currentCount": 0
+      }
+    },
+    {
+      "id": 59,
+      "fields": {
+        "originalCount": 4,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 22,
+        "institution": 4,
+        "continent": [
+          "L",
+          8
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "id2": 59,
+        "latitude2": 0,
+        "longitude2": 0,
+        "currentCount": 4
+      }
+    },
+    {
+      "id": 60,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 54,
+        "institution": 4,
+        "continent": [
+          "L",
+          3
+        ],
+        "region": 3,
+        "country": 19,
+        "ancestry": 21,
+        "id2": 60,
+        "latitude2": 38.073255,
+        "longitude2": 104.691139,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 61,
+      "fields": {
+        "originalCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 55,
+        "institution": 4,
+        "continent": [
+          "L",
+          3
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 20,
+        "id2": 61,
+        "latitude2": 47.017211166540655,
+        "longitude2": 92.80956884880557,
+        "currentCount": 2
+      }
+    },
+    {
+      "id": 62,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 56,
+        "institution": 4,
+        "continent": [
+          "L",
+          5
+        ],
+        "region": 3,
+        "country": 20,
+        "ancestry": 21,
+        "id2": 62,
+        "latitude2": -25.697338,
+        "longitude2": 134.022772,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 63,
+      "fields": {
+        "originalCount": 33,
+        "certaintyOfCount": 0,
+        "repatriatedCount": 0,
+        "originCategory": 57,
+        "institution": 6,
+        "continent": [
+          "L",
+          3
+        ],
+        "region": 3,
+        "country": 21,
+        "ancestry": 21,
+        "id2": 63,
+        "latitude2": -6.18,
+        "longitude2": 106.77,
+        "currentCount": 33
+      }
+    },
+    {
+      "id": 65,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 0,
+        "repatriatedCount": 0,
+        "originCategory": 1,
+        "institution": 1,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 1,
+        "ancestry": 21,
+        "id2": 65,
+        "latitude2": -6.355794,
+        "longitude2": 34.818322,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 66,
+      "fields": {
+        "originalCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 54,
+        "institution": 7,
+        "continent": [
+          "L",
+          3
+        ],
+        "region": 3,
+        "country": 19,
+        "ancestry": 21,
+        "id2": 66,
+        "latitude2": 38.073255,
+        "longitude2": 104.691139,
+        "currentCount": 2
+      }
+    },
+    {
+      "id": 67,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 0.5,
+        "repatriatedCount": 0,
+        "originCategory": 22,
+        "institution": 7,
+        "continent": [
+          "L",
+          8
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "id2": 67,
+        "latitude2": 0,
+        "longitude2": 0,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 68,
+      "fields": {
+        "originalCount": 15,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 1,
+        "originCategory": 63,
+        "institution": 3,
+        "continent": [
+          "L",
+          3
+        ],
+        "region": 3,
+        "country": 24,
+        "ancestry": 24,
+        "id2": 68,
+        "latitude2": 43.30018056,
+        "longitude2": 142.49508457,
+        "currentCount": 14
+      }
+    },
+    {
+      "id": 69,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 1,
+        "originCategory": 56,
+        "institution": 3,
+        "continent": [
+          "L",
+          5
+        ],
+        "region": 3,
+        "country": 20,
+        "ancestry": 21,
+        "id2": 69,
+        "latitude2": -25.697338,
+        "longitude2": 134.022772,
+        "currentCount": 0
+      }
+    },
+    {
+      "id": 70,
+      "fields": {
+        "originalCount": 4,
+        "certaintyOfCount": 0.3,
+        "repatriatedCount": 0,
+        "originCategory": 22,
+        "institution": 8,
+        "continent": [
+          "L",
+          8
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "id2": 70,
+        "latitude2": 0,
+        "longitude2": 0,
+        "currentCount": 4
+      }
+    },
+    {
+      "id": 71,
+      "fields": {
+        "originalCount": 2,
+        "certaintyOfCount": 0.5,
+        "repatriatedCount": 0,
+        "originCategory": 22,
+        "institution": 9,
+        "continent": [
+          "L",
+          8
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "id2": 71,
+        "latitude2": 0,
+        "longitude2": 0,
+        "currentCount": 2
+      }
+    },
+    {
+      "id": 72,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 0.5,
+        "repatriatedCount": 0,
+        "originCategory": 22,
+        "institution": 11,
+        "continent": [
+          "L",
+          8
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "id2": 72,
+        "latitude2": 0,
+        "longitude2": 0,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 73,
+      "fields": {
+        "originalCount": 12,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 22,
+        "institution": 14,
+        "continent": [
+          "L",
+          8
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "id2": 73,
+        "latitude2": 0,
+        "longitude2": 0,
+        "currentCount": 12
+      }
+    },
+    {
+      "id": 74,
+      "fields": {
+        "originalCount": 3,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 65,
+        "institution": 14,
+        "continent": [
+          "L",
+          3
+        ],
+        "region": 3,
+        "country": 19,
+        "ancestry": 21,
+        "id2": 74,
+        "latitude2": 38.073255,
+        "longitude2": 104.691139,
+        "currentCount": 3
+      }
+    },
+    {
+      "id": 75,
+      "fields": {
+        "originalCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 35,
+        "institution": 14,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 13,
+        "ancestry": 9,
+        "id2": 75,
+        "latitude2": -33.9291,
+        "longitude2": 18.4174,
+        "currentCount": 2
+      }
+    },
+    {
+      "id": 76,
+      "fields": {
+        "originalCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 66,
+        "institution": 14,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 13,
+        "ancestry": 10,
+        "id2": 76,
+        "latitude2": -28.31628442,
+        "longitude2": 31.45968861,
+        "currentCount": 2
+      }
+    },
+    {
+      "id": 77,
+      "fields": {
+        "originalCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 67,
+        "institution": 14,
+        "continent": [
+          "L",
+          3
+        ],
+        "region": 30,
+        "country": 21,
+        "ancestry": 21,
+        "id2": 77,
+        "latitude2": -7.337809240854551,
+        "longitude2": 109.9633934539286,
+        "currentCount": 2
+      }
+    },
+    {
+      "id": 78,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 68,
+        "institution": 14,
+        "continent": [
+          "L",
+          3
+        ],
+        "region": 27,
+        "country": 21,
+        "ancestry": 34,
+        "id2": 78,
+        "latitude2": 4.50588326,
+        "longitude2": 114.6208821,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 79,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 69,
+        "institution": 14,
+        "continent": [
+          "L",
+          5
+        ],
+        "region": 28,
+        "country": 30,
+        "ancestry": 38,
+        "id2": 79,
+        "latitude2": -17.8017413,
+        "longitude2": 177.97550923,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 80,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 70,
+        "institution": 14,
+        "continent": [
+          "L",
+          7
+        ],
+        "region": 3,
+        "country": 31,
+        "ancestry": 39,
+        "id2": 80,
+        "latitude2": 69.6354163,
+        "longitude2": -42.1736914,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 81,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 71,
+        "institution": 14,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 74,
+        "country": 10,
+        "ancestry": 10,
+        "id2": 81,
+        "latitude2": -28.31628442,
+        "longitude2": 31.45968861,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 82,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 72,
+        "institution": 14,
+        "continent": [
+          "L",
+          3
+        ],
+        "region": 3,
+        "country": 32,
+        "ancestry": 21,
+        "id2": 82,
+        "latitude2": 3.78,
+        "longitude2": 102.134,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 83,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 73,
+        "institution": 14,
+        "continent": [
+          "L",
+          3
+        ],
+        "region": 27,
+        "country": 21,
+        "ancestry": 34,
+        "id2": 83,
+        "latitude2": 4.50588326,
+        "longitude2": 114.6208821,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 84,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 74,
+        "institution": 14,
+        "continent": [
+          "L",
+          3
+        ],
+        "region": 27,
+        "country": 21,
+        "ancestry": 35,
+        "id2": 84,
+        "latitude2": -5.21134454,
+        "longitude2": 120.46327002,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 85,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 75,
+        "institution": 14,
+        "continent": [
+          "L",
+          3
+        ],
+        "region": 57,
+        "country": 21,
+        "ancestry": 21,
+        "id2": 85,
+        "latitude2": -3.659491463463085,
+        "longitude2": 128.18873087541292,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 86,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 76,
+        "institution": 14,
+        "continent": [
+          "L",
+          3
+        ],
+        "region": 32,
+        "country": 21,
+        "ancestry": 21,
+        "id2": 86,
+        "latitude2": -7.069992170850837,
+        "longitude2": 113.30340421145624,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 87,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 77,
+        "institution": 14,
+        "continent": [
+          "L",
+          3
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 36,
+        "id2": 87,
+        "latitude2": 27.38847787,
+        "longitude2": 75.89147774,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 88,
+      "fields": {
+        "originalCount": 11,
+        "certaintyOfCount": 0.3,
+        "repatriatedCount": 0,
+        "originCategory": 22,
+        "institution": 12,
+        "continent": [
+          "L",
+          8
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "id2": 88,
+        "latitude2": 0,
+        "longitude2": 0,
+        "currentCount": 11
+      }
+    },
+    {
+      "id": 89,
+      "fields": {
+        "originalCount": 8,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 22,
+        "institution": 13,
+        "continent": [
+          "L",
+          8
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "id2": 89,
+        "latitude2": 0,
+        "longitude2": 0,
+        "currentCount": 8
+      }
+    },
+    {
+      "id": 90,
+      "fields": {
+        "originalCount": 3,
+        "certaintyOfCount": 0.8,
+        "repatriatedCount": 0,
+        "originCategory": 22,
+        "institution": 12,
+        "continent": [
+          "L",
+          8
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "id2": 90,
+        "latitude2": 0,
+        "longitude2": 0,
+        "currentCount": 3
+      }
+    },
+    {
+      "id": 91,
+      "fields": {
+        "originalCount": 100,
+        "certaintyOfCount": 0,
+        "repatriatedCount": 0,
+        "originCategory": 79,
+        "institution": 1,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 24,
+        "country": 10,
+        "ancestry": 21,
+        "id2": 91,
+        "latitude2": -28.052533912849775,
+        "longitude2": 19.804856501467064,
+        "currentCount": 100
+      }
+    },
+    {
+      "id": 92,
+      "fields": {
+        "originalCount": 40,
+        "certaintyOfCount": 0,
+        "repatriatedCount": 0,
+        "originCategory": 80,
+        "institution": 1,
+        "continent": [
+          "L",
+          5
+        ],
+        "region": 60,
+        "country": 10,
+        "ancestry": 21,
+        "id2": 92,
+        "latitude2": -4.530828511804014,
+        "longitude2": 144.38005377598463,
+        "currentCount": 40
+      }
+    },
+    {
+      "id": 93,
+      "fields": {
+        "originalCount": 58,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 58,
+        "originCategory": 81,
+        "institution": 4,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 14,
+        "ancestry": 21,
+        "id2": 93,
+        "latitude2": -21.908582,
+        "longitude2": 18.164513,
+        "currentCount": 0
+      }
+    },
+    {
+      "id": 94,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 1,
+        "originCategory": 82,
+        "institution": 4,
+        "continent": [
+          "L",
+          6
+        ],
+        "region": 3,
+        "country": 25,
+        "ancestry": 21,
+        "id2": 94,
+        "latitude2": -23.896,
+        "longitude2": -58.087,
+        "currentCount": 0
+      }
+    },
+    {
+      "id": 95,
+      "fields": {
+        "originalCount": 49,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 49,
+        "originCategory": 56,
+        "institution": 4,
+        "continent": [
+          "L",
+          5
+        ],
+        "region": 3,
+        "country": 20,
+        "ancestry": 21,
+        "id2": 95,
+        "latitude2": -25.697338,
+        "longitude2": 134.022772,
+        "currentCount": 0
+      }
+    },
+    {
+      "id": 96,
+      "fields": {
+        "originalCount": 109,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 109,
+        "originCategory": 114,
+        "institution": 4,
+        "continent": [
+          "L",
+          5
+        ],
+        "region": 3,
+        "country": 18,
+        "ancestry": 32,
+        "id2": 96,
+        "latitude2": -42.63364565969775,
+        "longitude2": 172.24768689863598,
+        "currentCount": 0
+      }
+    },
+    {
+      "id": 97,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 1,
+        "originCategory": 56,
+        "institution": 3,
+        "continent": [
+          "L",
+          5
+        ],
+        "region": 3,
+        "country": 20,
+        "ancestry": 21,
+        "id2": 97,
+        "latitude2": -25.697338,
+        "longitude2": 134.022772,
+        "currentCount": 0
+      }
+    },
+    {
+      "id": 98,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 1,
+        "originCategory": 83,
+        "institution": 3,
+        "continent": [
+          "L",
+          3
+        ],
+        "region": 3,
+        "country": 24,
+        "ancestry": 21,
+        "id2": 98,
+        "latitude2": 36.138,
+        "longitude2": 139.02,
+        "currentCount": 0
+      }
+    },
+    {
+      "id": 99,
+      "fields": {
+        "originalCount": 24,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 57,
+        "institution": 15,
+        "continent": [
+          "L",
+          3
+        ],
+        "region": 3,
+        "country": 21,
+        "ancestry": 21,
+        "id2": 99,
+        "latitude2": -6.18,
+        "longitude2": 106.77,
+        "currentCount": 24
+      }
+    },
+    {
+      "id": 100,
+      "fields": {
+        "originalCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 58,
+        "institution": 15,
+        "continent": [
+          "L",
+          3
+        ],
+        "region": 14,
+        "country": 10,
+        "ancestry": 23,
+        "id2": 100,
+        "latitude2": 47.017211166540655,
+        "longitude2": 92.80956884880557,
+        "currentCount": 2
+      }
+    },
+    {
+      "id": 101,
+      "fields": {
+        "originalCount": 8,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 84,
+        "institution": 15,
+        "continent": [
+          "L",
+          5
+        ],
+        "region": 15,
+        "country": 23,
+        "ancestry": 21,
+        "id2": 101,
+        "latitude2": -4.127752308018803,
+        "longitude2": 142.92083931512778,
+        "currentCount": 8
+      }
+    },
+    {
+      "id": 102,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 0.5,
+        "repatriatedCount": 0,
+        "originCategory": 85,
+        "institution": 15,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 74,
+        "country": 10,
+        "ancestry": 28,
+        "id2": 102,
+        "latitude2": -26.56307108,
+        "longitude2": 18.13258851,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 103,
+      "fields": {
+        "originalCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 34,
+        "institution": 15,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 13,
+        "ancestry": 21,
+        "id2": 103,
+        "latitude2": -28.553619,
+        "longitude2": 24.752527,
+        "currentCount": 2
+      }
+    },
+    {
+      "id": 104,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 86,
+        "institution": 16,
+        "continent": [
+          "L",
+          3
+        ],
+        "region": 85,
+        "country": 19,
+        "ancestry": 21,
+        "id2": 104,
+        "latitude2": 36.07203854442552,
+        "longitude2": 120.38323395162689,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 105,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 87,
+        "institution": 16,
+        "continent": [
+          "L",
+          6
+        ],
+        "region": 3,
+        "country": 35,
+        "ancestry": 21,
+        "id2": 105,
+        "latitude2": -10.455855506800578,
+        "longitude2": -75.4892233716147,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 106,
+      "fields": {
+        "originalCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 88,
+        "institution": 16,
+        "continent": [
+          "L",
+          5
+        ],
+        "region": 3,
+        "country": 20,
+        "ancestry": 21,
+        "id2": 106,
+        "latitude2": -25.697338,
+        "longitude2": 134.022772,
+        "currentCount": 2
+      }
+    },
+    {
+      "id": 107,
+      "fields": {
+        "originalCount": 3,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 89,
+        "institution": 16,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 36,
+        "ancestry": 21,
+        "id2": 107,
+        "latitude2": 26.695683407691643,
+        "longitude2": 29.5456353686017,
+        "currentCount": 3
+      }
+    },
+    {
+      "id": 108,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 90,
+        "institution": 16,
+        "continent": [
+          "L",
+          3
+        ],
+        "region": 30,
+        "country": 21,
+        "ancestry": 21,
+        "id2": 108,
+        "latitude2": -7.337809240854551,
+        "longitude2": 109.9633934539286,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 109,
+      "fields": {
+        "originalCount": 2,
+        "certaintyOfCount": 0.8,
+        "repatriatedCount": 0,
+        "originCategory": 91,
+        "institution": 16,
+        "continent": [
+          "L",
+          3
+        ],
+        "region": 86,
+        "country": 37,
+        "ancestry": 21,
+        "id2": 109,
+        "latitude2": 23.02323574319994,
+        "longitude2": 72.57699786138986,
+        "currentCount": 2
+      }
+    },
+    {
+      "id": 110,
+      "fields": {
+        "originalCount": 11,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 92,
+        "institution": 16,
+        "continent": [
+          "L",
+          5
+        ],
+        "region": 3,
+        "country": 23,
+        "ancestry": 21,
+        "id2": 110,
+        "latitude2": -9.26,
+        "longitude2": 147.21,
+        "currentCount": 11
+      }
+    },
+    {
+      "id": 111,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 93,
+        "institution": 16,
+        "continent": [
+          "L",
+          5
+        ],
+        "region": 3,
+        "country": 38,
+        "ancestry": 21,
+        "id2": 111,
+        "latitude2": -15.207112473043772,
+        "longitude2": 166.87281933187825,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 112,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 94,
+        "institution": 16,
+        "continent": [
+          "L",
+          3
+        ],
+        "region": 14,
+        "country": 23,
+        "ancestry": 21,
+        "id2": 112,
+        "latitude2": 1.0877635358881501,
+        "longitude2": 113.69838605671005,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 113,
+      "fields": {
+        "originalCount": 3,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 95,
+        "institution": 16,
+        "continent": [
+          "L",
+          3
+        ],
+        "region": 88,
+        "country": 37,
+        "ancestry": 21,
+        "id2": 113,
+        "latitude2": 12.523856602114208,
+        "longitude2": 92.7878739255,
+        "currentCount": 3
+      }
+    },
+    {
+      "id": 114,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 0.75,
+        "repatriatedCount": 0,
+        "originCategory": 96,
+        "institution": 16,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 1,
+        "ancestry": 21,
+        "id2": 114,
+        "latitude2": -6.355794,
+        "longitude2": 34.818322,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 115,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 97,
+        "institution": 16,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 39,
+        "ancestry": 21,
+        "id2": 115,
+        "latitude2": -22.211637472685844,
+        "longitude2": 24.032277654034083,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 116,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 0.75,
+        "repatriatedCount": 0,
+        "originCategory": 104,
+        "institution": 16,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 3,
+        "ancestry": 4,
+        "id2": 116,
+        "latitude2": -2.58588087,
+        "longitude2": 36.764372,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 117,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 98,
+        "institution": 16,
+        "continent": [
+          "L",
+          5
+        ],
+        "region": 3,
+        "country": 40,
+        "ancestry": 21,
+        "id2": 117,
+        "latitude2": -17.659289021082703,
+        "longitude2": -149.4509413429868,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 118,
+      "fields": {
+        "originalCount": 18,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 99,
+        "institution": 16,
+        "continent": [
+          "L",
+          6
+        ],
+        "region": 3,
+        "country": 35,
+        "ancestry": 41,
+        "id2": 118,
+        "latitude2": -8.19683014174719,
+        "longitude2": -61.51873222725019,
+        "currentCount": 18
+      }
+    },
+    {
+      "id": 119,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 100,
+        "institution": 16,
+        "continent": [
+          "L",
+          6
+        ],
+        "region": 3,
+        "country": 35,
+        "ancestry": 42,
+        "id2": 119,
+        "latitude2": -8.19683014174719,
+        "longitude2": -61.51873222725019,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 120,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 101,
+        "institution": 16,
+        "continent": [
+          "L",
+          6
+        ],
+        "region": 89,
+        "country": 41,
+        "ancestry": 21,
+        "id2": 120,
+        "latitude2": 9.361092082918413,
+        "longitude2": -79.89658654266012,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 121,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 102,
+        "institution": 16,
+        "continent": [
+          "L",
+          6
+        ],
+        "region": 3,
+        "country": 42,
+        "ancestry": 21,
+        "id2": 121,
+        "latitude2": -26.62754639328036,
+        "longitude2": -70.11036623064528,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 122,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 103,
+        "institution": 16,
+        "continent": [
+          "L",
+          7
+        ],
+        "region": 3,
+        "country": 31,
+        "ancestry": 21,
+        "id2": 122,
+        "latitude2": 71.788,
+        "longitude2": -42.252,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 123,
+      "fields": {
+        "originalCount": 222,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 105,
+        "institution": 1,
+        "continent": [
+          "L",
+          5
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "id2": 123,
+        "latitude2": -4.827784594522241,
+        "longitude2": 128.2188155426399,
+        "currentCount": 222
+      }
+    },
+    {
+      "id": 124,
+      "fields": {
+        "originalCount": 121,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 106,
+        "institution": 1,
+        "continent": [
+          "L",
+          7
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "id2": 124,
+        "latitude2": 50.26487079067549,
+        "longitude2": -104.42544904987916,
+        "currentCount": 121
+      }
+    },
+    {
+      "id": 125,
+      "fields": {
+        "originalCount": 446,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 107,
+        "institution": 1,
+        "continent": [
+          "L",
+          3
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "id2": 125,
+        "latitude2": 47.017211166540655,
+        "longitude2": 92.80956884880557,
+        "currentCount": 446
+      }
+    },
+    {
+      "id": 126,
+      "fields": {
+        "originalCount": 710,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 108,
+        "institution": 1,
+        "continent": [
+          "L",
+          6
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "id2": 126,
+        "latitude2": -8.19683014174719,
+        "longitude2": -61.51873222725019,
+        "currentCount": 710
+      }
+    },
+    {
+      "id": 127,
+      "fields": {
+        "originalCount": 969,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 109,
+        "institution": 1,
+        "continent": [
+          "L",
+          8
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "id2": 127,
+        "latitude2": 0,
+        "longitude2": 0,
+        "currentCount": 969
+      }
+    },
+    {
+      "id": 128,
+      "fields": {
+        "originalCount": 19,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 110,
+        "institution": 1,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 47,
+        "ancestry": 21,
+        "id2": 128,
+        "latitude2": 8.009116695186906,
+        "longitude2": -1.2617505084943887,
+        "currentCount": 19
+      }
+    },
+    {
+      "id": 129,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 111,
+        "institution": 1,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 48,
+        "ancestry": 21,
+        "id2": 129,
+        "latitude2": 9.614804786954124,
+        "longitude2": 8.397013009920489,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 130,
+      "fields": {
+        "originalCount": 369,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 112,
+        "institution": 1,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "id2": 130,
+        "latitude2": 18.124569746225802,
+        "longitude2": 16.162174978577365,
+        "currentCount": 369
+      }
+    },
+    {
+      "id": 131,
+      "fields": {
+        "originalCount": 3,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 113,
+        "institution": 16,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 4,
+        "ancestry": 21,
+        "id2": 131,
+        "latitude2": 6.294168,
+        "longitude2": 12.948474,
+        "currentCount": 3
+      }
+    },
+    {
+      "id": 132,
+      "fields": {
+        "originalCount": 3,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 115,
+        "institution": 17,
+        "continent": [
+          "L",
+          5
+        ],
+        "region": 3,
+        "country": 20,
+        "ancestry": 21,
+        "id2": 132,
+        "latitude2": -25.697338,
+        "longitude2": 134.022772,
+        "currentCount": 3
+      }
+    },
+    {
+      "id": 133,
+      "fields": {
+        "originalCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 116,
+        "institution": 17,
+        "continent": [
+          "L",
+          5
+        ],
+        "region": 3,
+        "country": 23,
+        "ancestry": 21,
+        "id2": 133,
+        "latitude2": -9.26,
+        "longitude2": 147.21,
+        "currentCount": 2
+      }
+    },
+    {
+      "id": 134,
+      "fields": {
+        "originalCount": 4,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 117,
+        "institution": 17,
+        "continent": [
+          "L",
+          6
+        ],
+        "region": 3,
+        "country": 50,
+        "ancestry": 21,
+        "id2": 134,
+        "latitude2": -8.075008419153662,
+        "longitude2": -55.76253892942066,
+        "currentCount": 4
+      }
+    },
+    {
+      "id": 135,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 118,
+        "institution": 17,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 51,
+        "ancestry": 21,
+        "id2": 135,
+        "latitude2": 16.434576121666346,
+        "longitude2": 30.23192976999008,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 136,
+      "fields": {
+        "originalCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 119,
+        "institution": 17,
+        "continent": [
+          "L",
+          3
+        ],
+        "region": 3,
+        "country": 19,
+        "ancestry": 21,
+        "id2": 136,
+        "latitude2": 38.073255,
+        "longitude2": 104.691139,
+        "currentCount": 2
+      }
+    },
+    {
+      "id": 137,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 120,
+        "institution": 17,
+        "continent": [
+          "L",
+          3
+        ],
+        "region": 3,
+        "country": 37,
+        "ancestry": 21,
+        "id2": 137,
+        "latitude2": 22.89249592536483,
+        "longitude2": 79.417825132978,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 138,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 121,
+        "institution": 17,
+        "continent": [
+          "L",
+          3
+        ],
+        "region": 3,
+        "country": 21,
+        "ancestry": 21,
+        "id2": 138,
+        "latitude2": -6.18,
+        "longitude2": 106.77,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 139,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 122,
+        "institution": 17,
+        "continent": [
+          "L",
+          6
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "id2": 139,
+        "latitude2": -8.19683014174719,
+        "longitude2": -61.51873222725019,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 140,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 123,
+        "institution": 17,
+        "continent": [
+          "L",
+          7
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "id2": 140,
+        "latitude2": 50.26487079067549,
+        "longitude2": -104.42544904987916,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 141,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 124,
+        "institution": 17,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "id2": 141,
+        "latitude2": 18.124569746225802,
+        "longitude2": 16.162174978577365,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 142,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 125,
+        "institution": 18,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 4,
+        "id2": 142,
+        "latitude2": -2.58588087,
+        "longitude2": 36.764372,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 143,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 126,
+        "institution": 18,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 10,
+        "id2": 143,
+        "latitude2": -28.31628442,
+        "longitude2": 31.45968861,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 144,
+      "fields": {
+        "originalCount": 30,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 127,
+        "institution": 18,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 43,
+        "id2": 144,
+        "latitude2": -3.314529429,
+        "longitude2": 37.40739896,
+        "currentCount": 30
+      }
+    },
+    {
+      "id": 145,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 128,
+        "institution": 18,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 44,
+        "id2": 145,
+        "latitude2": -5.01622,
+        "longitude2": 32.82663,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 146,
+      "fields": {
+        "originalCount": 12,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 129,
+        "institution": 18,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 45,
+        "id2": 146,
+        "latitude2": 5.478500903,
+        "longitude2": 9.85276792,
+        "currentCount": 12
+      }
+    },
+    {
+      "id": 147,
+      "fields": {
+        "originalCount": 9,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 130,
+        "institution": 18,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 46,
+        "id2": 147,
+        "latitude2": 5.962976544,
+        "longitude2": 10.15725773,
+        "currentCount": 9
+      }
+    },
+    {
+      "id": 148,
+      "fields": {
+        "originalCount": 10,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 131,
+        "institution": 18,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 47,
+        "id2": 148,
+        "latitude2": 5.883961566,
+        "longitude2": 8.981806009,
+        "currentCount": 10
+      }
+    },
+    {
+      "id": 149,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 132,
+        "institution": 18,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 48,
+        "id2": 149,
+        "latitude2": 5.1059,
+        "longitude2": 10.3508,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 150,
+      "fields": {
+        "originalCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 133,
+        "institution": 18,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 49,
+        "id2": 150,
+        "latitude2": 5.8747,
+        "longitude2": 10.0061,
+        "currentCount": 2
+      }
+    },
+    {
+      "id": 151,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 134,
+        "institution": 18,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 50,
+        "id2": 151,
+        "latitude2": 5.6783,
+        "longitude2": 10.162,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 152,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 135,
+        "institution": 18,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 51,
+        "id2": 152,
+        "latitude2": 5.6482,
+        "longitude2": 9.3733,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 153,
+      "fields": {
+        "originalCount": 6,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 136,
+        "institution": 18,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 52,
+        "id2": 153,
+        "latitude2": 6.015,
+        "longitude2": 9.141,
+        "currentCount": 6
+      }
+    },
+    {
+      "id": 154,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 137,
+        "institution": 14,
+        "continent": [
+          "L",
+          3
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 62,
+        "id2": 154,
+        "latitude2": -3.98193383,
+        "longitude2": 119.49113213,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 155,
+      "fields": {
+        "originalCount": 11,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 138,
+        "institution": 18,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 53,
+        "id2": 155,
+        "latitude2": 6.1655,
+        "longitude2": 10.0659,
+        "currentCount": 11
+      }
+    },
+    {
+      "id": 156,
+      "fields": {
+        "originalCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 139,
+        "institution": 18,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 54,
+        "id2": 156,
+        "latitude2": 5.624,
+        "longitude2": 10.113,
+        "currentCount": 2
+      }
+    },
+    {
+      "id": 157,
+      "fields": {
+        "originalCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 140,
+        "institution": 18,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 55,
+        "id2": 157,
+        "latitude2": 5.7187,
+        "longitude2": 10.869,
+        "currentCount": 2
+      }
+    },
+    {
+      "id": 158,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 141,
+        "institution": 18,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 56,
+        "id2": 158,
+        "latitude2": -4.0444275,
+        "longitude2": 39.66866757,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 159,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 142,
+        "institution": 18,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 57,
+        "id2": 159,
+        "latitude2": 8.383,
+        "longitude2": -12.574,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 160,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 143,
+        "institution": 18,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 58,
+        "id2": 160,
+        "latitude2": -4.6562,
+        "longitude2": 11.8115,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 161,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 144,
+        "institution": 18,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 59,
+        "id2": 161,
+        "latitude2": 4.2999,
+        "longitude2": 9.4826,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 162,
+      "fields": {
+        "originalCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 145,
+        "institution": 18,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 27,
+        "id2": 162,
+        "latitude2": 18.124569746225802,
+        "longitude2": 16.162174978577365,
+        "currentCount": 2
+      }
+    },
+    {
+      "id": 163,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 146,
+        "institution": 18,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 61,
+        "id2": 163,
+        "latitude2": 8.8881,
+        "longitude2": -12.0444,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 164,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 147,
+        "institution": 18,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 9,
+        "id2": 164,
+        "latitude2": -33.9291,
+        "longitude2": 18.4174,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 165,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 148,
+        "institution": 18,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 4,
+        "id2": 165,
+        "latitude2": -2.58588087,
+        "longitude2": 36.764372,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 166,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 149,
+        "institution": 18,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 10,
+        "id2": 166,
+        "latitude2": -28.31628442,
+        "longitude2": 31.45968861,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 167,
+      "fields": {
+        "originalCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 150,
+        "institution": 19,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 91,
+        "country": 36,
+        "ancestry": 21,
+        "id2": 167,
+        "latitude2": 26.167948255225344,
+        "longitude2": 32.65665223972524,
+        "currentCount": 2
+      }
+    },
+    {
+      "id": 168,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 151,
+        "institution": 19,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 93,
+        "country": 36,
+        "ancestry": 21,
+        "id2": 168,
+        "latitude2": 29.211429330087388,
+        "longitude2": 25.525371445168727,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 169,
+      "fields": {
+        "originalCount": 6,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 152,
+        "institution": 19,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 95,
+        "country": 36,
+        "ancestry": 21,
+        "id2": 169,
+        "latitude2": 25.733047804732145,
+        "longitude2": 32.60223826084408,
+        "currentCount": 6
+      }
+    },
+    {
+      "id": 170,
+      "fields": {
+        "originalCount": 27,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 153,
+        "institution": 19,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 36,
+        "ancestry": 21,
+        "id2": 170,
+        "latitude2": 26.695683407691643,
+        "longitude2": 29.5456353686017,
+        "currentCount": 27
+      }
+    },
+    {
+      "id": 171,
+      "fields": {
+        "originalCount": 3,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 154,
+        "institution": 19,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 103,
+        "country": 36,
+        "ancestry": 21,
+        "id2": 171,
+        "latitude2": 26.183844272955373,
+        "longitude2": 31.921710747983866,
+        "currentCount": 3
+      }
+    },
+    {
+      "id": 172,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 155,
+        "institution": 19,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 104,
+        "country": 36,
+        "ancestry": 21,
+        "id2": 172,
+        "latitude2": 29.038957167038227,
+        "longitude2": 29.480143689898057,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 173,
+      "fields": {
+        "originalCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 156,
+        "institution": 19,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 105,
+        "country": 36,
+        "ancestry": 21,
+        "id2": 173,
+        "latitude2": 30.045779263594795,
+        "longitude2": 31.237510614102145,
+        "currentCount": 2
+      }
+    },
+    {
+      "id": 174,
+      "fields": {
+        "originalCount": 5,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 157,
+        "institution": 19,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 106,
+        "country": 36,
+        "ancestry": 21,
+        "id2": 174,
+        "latitude2": 24.045279420637232,
+        "longitude2": 32.87520685342657,
+        "currentCount": 5
+      }
+    },
+    {
+      "id": 175,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 158,
+        "institution": 19,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 109,
+        "country": 51,
+        "ancestry": 21,
+        "id2": 175,
+        "latitude2": 21.800223541197976,
+        "longitude2": 31.371896859730033,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 176,
+      "fields": {
+        "originalCount": 3,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 159,
+        "institution": 19,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 110,
+        "country": 51,
+        "ancestry": 21,
+        "id2": 176,
+        "latitude2": 12.339380312651963,
+        "longitude2": 34.97643463106578,
+        "currentCount": 3
+      }
+    },
+    {
+      "id": 177,
+      "fields": {
+        "originalCount": 3,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 160,
+        "institution": 19,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 111,
+        "country": 10,
+        "ancestry": 21,
+        "id2": 177,
+        "latitude2": -1.8648013928554406,
+        "longitude2": 36.880491042961445,
+        "currentCount": 3
+      }
+    },
+    {
+      "id": 178,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 161,
+        "institution": 19,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 112,
+        "country": 51,
+        "ancestry": 21,
+        "id2": 178,
+        "latitude2": 12.897501449384421,
+        "longitude2": 24.351751504704882,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 179,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 162,
+        "institution": 19,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 47,
+        "ancestry": 21,
+        "id2": 179,
+        "latitude2": 8.009116695186906,
+        "longitude2": -1.2617505084943887,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 180,
+      "fields": {
+        "originalCount": 7,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 163,
+        "institution": 19,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 10,
+        "ancestry": 21,
+        "id2": 180,
+        "latitude2": 18.124569746225802,
+        "longitude2": 16.162174978577365,
+        "currentCount": 7
+      }
+    },
+    {
+      "id": 181,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 164,
+        "institution": 19,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 51,
+        "ancestry": 21,
+        "id2": 181,
+        "latitude2": 16.434576121666346,
+        "longitude2": 30.23192976999008,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 182,
+      "fields": {
+        "originalCount": 17,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 165,
+        "institution": 19,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 113,
+        "country": 52,
+        "ancestry": 21,
+        "id2": 182,
+        "latitude2": 36.80909442531333,
+        "longitude2": 10.178325701147255,
+        "currentCount": 17
+      }
+    },
+    {
+      "id": 183,
+      "fields": {
+        "originalCount": 8,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 166,
+        "institution": 19,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 53,
+        "ancestry": 21,
+        "id2": 183,
+        "latitude2": 7.575860883171803,
+        "longitude2": 29.869508445571324,
+        "currentCount": 8
+      }
+    },
+    {
+      "id": 184,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 167,
+        "institution": 19,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 36,
+        "ancestry": 64,
+        "id2": 184,
+        "latitude2": 26.711249019754316,
+        "longitude2": 29.61250995386261,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 185,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 168,
+        "institution": 19,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 114,
+        "country": 16,
+        "ancestry": 21,
+        "id2": 185,
+        "latitude2": -6.665856721198832,
+        "longitude2": 20.90141621234489,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 186,
+      "fields": {
+        "originalCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 169,
+        "institution": 19,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 54,
+        "ancestry": 21,
+        "id2": 186,
+        "latitude2": -0.6133891379475992,
+        "longitude2": 11.761064443583331,
+        "currentCount": 2
+      }
+    },
+    {
+      "id": 187,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 170,
+        "institution": 19,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 55,
+        "ancestry": 21,
+        "id2": 187,
+        "latitude2": 10.374390195511149,
+        "longitude2": -10.968809144058538,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 188,
+      "fields": {
+        "originalCount": 6,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 171,
+        "institution": 19,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 4,
+        "ancestry": 63,
+        "id2": 188,
+        "latitude2": 5.49239141164285,
+        "longitude2": 12.236044048206372,
+        "currentCount": 6
+      }
+    },
+    {
+      "id": 189,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 172,
+        "institution": 19,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 16,
+        "ancestry": 21,
+        "id2": 189,
+        "latitude2": -0.729439,
+        "longitude2": 14.879733,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 190,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 173,
+        "institution": 19,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 5,
+        "ancestry": 21,
+        "id2": 190,
+        "latitude2": 8.660743,
+        "longitude2": 0.899086,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 191,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 174,
+        "institution": 19,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 56,
+        "ancestry": 21,
+        "id2": 191,
+        "latitude2": 17.785922739153094,
+        "longitude2": -1.8004173997625268,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 192,
+      "fields": {
+        "originalCount": 22,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 175,
+        "institution": 19,
+        "continent": [
+          "L",
+          2
+        ],
+        "region": 3,
+        "country": 57,
+        "ancestry": 21,
+        "id2": 192,
+        "latitude2": 39.696230023558975,
+        "longitude2": -3.4074038301871967,
+        "currentCount": 22
+      }
+    },
+    {
+      "id": 193,
+      "fields": {
+        "originalCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 176,
+        "institution": 19,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 116,
+        "country": 58,
+        "ancestry": 21,
+        "id2": 193,
+        "latitude2": 11.357916298316121,
+        "longitude2": -15.968396428751882,
+        "currentCount": 2
+      }
+    },
+    {
+      "id": 194,
+      "fields": {
+        "originalCount": 4,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 177,
+        "institution": 19,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 117,
+        "country": 10,
+        "ancestry": 21,
+        "id2": 194,
+        "latitude2": -2.224953744247847,
+        "longitude2": 12.292331472375917,
+        "currentCount": 4
+      }
+    },
+    {
+      "id": 195,
+      "fields": {
+        "originalCount": 11,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 11,
+        "originCategory": 178,
+        "institution": 19,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 14,
+        "ancestry": 21,
+        "id2": 195,
+        "latitude2": -21.908582,
+        "longitude2": 18.164513,
+        "currentCount": 0
+      }
+    },
+    {
+      "id": 196,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 179,
+        "institution": 19,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 118,
+        "country": 13,
+        "ancestry": 21,
+        "id2": 196,
+        "latitude2": -34.22396480273133,
+        "longitude2": 18.411802329781548,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 197,
+      "fields": {
+        "originalCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 180,
+        "institution": 19,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 119,
+        "country": 59,
+        "ancestry": 21,
+        "id2": 197,
+        "latitude2": 10.186062746085883,
+        "longitude2": 50.288062612408616,
+        "currentCount": 2
+      }
+    },
+    {
+      "id": 198,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 181,
+        "institution": 19,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 48,
+        "ancestry": 21,
+        "id2": 198,
+        "latitude2": 9.614804786954124,
+        "longitude2": 8.397013009920489,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 199,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 182,
+        "institution": 19,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 4,
+        "ancestry": 21,
+        "id2": 199,
+        "latitude2": 6.294168,
+        "longitude2": 12.948474,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 200,
+      "fields": {
+        "originalCount": 3,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 183,
+        "institution": 19,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 11,
+        "ancestry": 21,
+        "id2": 200,
+        "latitude2": 8.72939,
+        "longitude2": 39.914903,
+        "currentCount": 3
+      }
+    },
+    {
+      "id": 201,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 184,
+        "institution": 19,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 3,
+        "country": 59,
+        "ancestry": 21,
+        "id2": 201,
+        "latitude2": 2.7756722168445496,
+        "longitude2": 45.11668181405366,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 202,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 185,
+        "institution": 19,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 120,
+        "country": 46,
+        "ancestry": 21,
+        "id2": 202,
+        "latitude2": -15.429405569406672,
+        "longitude2": 29.563030159849497,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 203,
+      "fields": {
+        "originalCount": 10,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 186,
+        "institution": 19,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 122,
+        "country": 10,
+        "ancestry": 21,
+        "id2": 203,
+        "latitude2": 18.867853436995386,
+        "longitude2": 33.17415543589365,
+        "currentCount": 10
+      }
+    },
+    {
+      "id": 204,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 187,
+        "institution": 19,
+        "continent": [
+          "L",
+          2
+        ],
+        "region": 121,
+        "country": 57,
+        "ancestry": 21,
+        "id2": 204,
+        "latitude2": 28.21921637714198,
+        "longitude2": -16.636752965336946,
+        "currentCount": 1
+      }
+    },
+    {
+      "id": 205,
+      "fields": {
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "originCategory": 188,
+        "institution": 19,
+        "continent": [
+          "L",
+          1
+        ],
+        "region": 111,
+        "country": 10,
+        "ancestry": 1,
+        "id2": 205,
+        "latitude2": -7.80346427,
+        "longitude2": 35.60269597,
+        "currentCount": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+Copyright (c) 2024 We Want Them Back Project
+
+Proprietary and Confidential
+
+All rights reserved. This software and associated documentation files (the "Software") 
+are proprietary and confidential. No part of this Software may be reproduced, distributed, 
+or transmitted in any form or by any means, including photocopying, recording, or other 
+electronic or mechanical methods, without the prior written permission of the copyright holder.
+
+Documentation License:
+The documentation in this repository is licensed under CC BY-NC-ND 4.0
+(https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+Third-Party Licenses:
+This project incorporates third-party open-source software:
+- Next.js (MIT License)
+- D3.js (BSD 3-Clause License)
+- Leaflet (BSD 2-Clause License)
+- React (MIT License)
+
+For licensing inquiries, please contact: [contact information]

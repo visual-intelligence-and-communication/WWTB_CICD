@@ -1,0 +1,83 @@
+{
+  "name": "database",
+  "createdAt": "2023-11-07T11:46:13.710Z",
+  "updatedAt": "2025-03-19T12:53:14.076Z",
+  "id": "jxjNGz9LgRHxnRe7ngRWJA",
+  "isPinned": false,
+  "urlId": "jxjNGz9LgRHx",
+  "trunkId": null,
+  "type": null,
+  "workspace": {
+    "name": "wwtb",
+    "createdAt": "2023-11-06T20:52:09.193Z",
+    "updatedAt": "2023-11-07T11:46:10.835Z",
+    "id": 46833,
+    "isSupportWorkspace": false,
+    "org": {
+      "name": "Personal",
+      "createdAt": "2023-11-06T20:52:09.193Z",
+      "updatedAt": "2023-11-06T20:52:09.210Z",
+      "id": 43692,
+      "domain": "docs-40706",
+      "host": null,
+      "owner": {
+        "id": 40706,
+        "name": "Visual Intelligence",
+        "picture": null,
+        "options": {},
+        "ref": "inGDj6dEZDv8VUKpFd8eze",
+        "createdAt": "2023-11-06T20:52:09.193Z"
+      },
+      "billingAccount": {
+        "id": 43689,
+        "features": null,
+        "individual": true,
+        "inGoodStanding": true,
+        "status": null,
+        "stripePlanId": null,
+        "paymentLink": null,
+        "externalId": null,
+        "externalOptions": null,
+        "product": {
+          "id": 8,
+          "name": "personalFree",
+          "features": {
+            "workspaces": true,
+            "maxSharesPerWorkspace": 0,
+            "maxSharesPerDoc": 2,
+            "snapshotWindow": {
+              "count": 30,
+              "unit": "days"
+            },
+            "baseMaxRowsPerDocument": 5000,
+            "baseMaxApiUnitsPerDocumentPerDay": 5000,
+            "baseMaxDataSizePerDocument": 10240000,
+            "baseMaxAttachmentsBytesPerDocument": 1073741824,
+            "gracePeriodDays": 14,
+            "baseMaxAssistantCalls": 100
+          }
+        }
+      },
+      "access": "owners"
+    },
+    "access": "owners",
+    "owner": {
+      "id": 40706,
+      "name": "Visual Intelligence",
+      "picture": null,
+      "options": {},
+      "ref": "inGDj6dEZDv8VUKpFd8eze",
+      "createdAt": "2023-11-06T20:52:09.193Z"
+    }
+  },
+  "aliases": [
+    {
+      "orgId": 43692,
+      "urlId": "jxjNGz9LgRHx",
+      "docId": "jxjNGz9LgRHxnRe7ngRWJA",
+      "createdAt": "2023-11-07T11:46:13.710Z"
+    }
+  ],
+  "forks": [],
+  "access": "owners"
+}

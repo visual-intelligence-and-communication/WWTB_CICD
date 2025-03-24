@@ -1,0 +1,2083 @@
+{
+  "records": [
+    {
+      "id": 1,
+      "fields": {
+        "institution": 1,
+        "ancestry": 21,
+        "group": [
+          "L",
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          65,
+          91,
+          92,
+          123,
+          124,
+          125,
+          126,
+          127,
+          128,
+          129,
+          130
+        ],
+        "count": 23,
+        "originalCount": 6553,
+        "certaintyOfCount": 0.7386956521739131,
+        "repatriatedCount": 0,
+        "currentCount": 6553,
+        "institution_currentCount": 6553,
+        "institution_slug": "spk-mvf",
+        "institution_label": "SPK – Museum für Vor- und Frühgeschichte",
+        "institution_latitude": 52.520005287705075,
+        "institution_longitude": 13.398000023299588,
+        "ancestry_currentCount": 12480,
+        "ancestry_slug": "unknown",
+        "ancestry_label": "Unspecified ancestry",
+        "ancestry_latitude": 0,
+        "ancestry_longitude": 0
+      }
+    },
+    {
+      "id": 2,
+      "fields": {
+        "institution": 2,
+        "ancestry": 21,
+        "group": [
+          "L",
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26
+        ],
+        "count": 14,
+        "originalCount": 2089,
+        "certaintyOfCount": 0.7928571428571427,
+        "repatriatedCount": 0,
+        "currentCount": 2089,
+        "institution_currentCount": 2089,
+        "institution_slug": "spk-em",
+        "institution_label": "SPK – Ethnologisches Museum",
+        "institution_latitude": 52.51738272182665,
+        "institution_longitude": 13.400731264227097,
+        "ancestry_currentCount": 12480,
+        "ancestry_slug": "unknown",
+        "ancestry_label": "Unspecified ancestry",
+        "ancestry_latitude": 0,
+        "ancestry_longitude": 0
+      }
+    },
+    {
+      "id": 3,
+      "fields": {
+        "institution": 3,
+        "ancestry": 21,
+        "group": [
+          "L",
+          27,
+          69,
+          97,
+          98
+        ],
+        "count": 4,
+        "originalCount": 3503,
+        "certaintyOfCount": 0.9,
+        "repatriatedCount": 3,
+        "currentCount": 3500,
+        "institution_currentCount": 3514,
+        "institution_slug": "bgaeu",
+        "institution_label": "Berliner Gesellschaft für Anthropologie, Ethnologie und Frühgeschichte (BGAEU)",
+        "institution_latitude": 52.52136221991101,
+        "institution_longitude": 13.39190674447113,
+        "ancestry_currentCount": 12480,
+        "ancestry_slug": "unknown",
+        "ancestry_label": "Unspecified ancestry",
+        "ancestry_latitude": 0,
+        "ancestry_longitude": 0
+      }
+    },
+    {
+      "id": 4,
+      "fields": {
+        "institution": 4,
+        "ancestry": 1,
+        "group": [
+          "L",
+          28
+        ],
+        "count": 1,
+        "originalCount": 12,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 12,
+        "institution_currentCount": 58,
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)",
+        "institution_latitude": 52.52605079679751,
+        "institution_longitude": 13.374526157949607,
+        "ancestry_currentCount": 13,
+        "ancestry_slug": "hehe",
+        "ancestry_label": "Wahehe",
+        "ancestry_latitude": -7.80346427,
+        "ancestry_longitude": 35.60269597
+      }
+    },
+    {
+      "id": 5,
+      "fields": {
+        "institution": 4,
+        "ancestry": 2,
+        "group": [
+          "L",
+          29
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 58,
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)",
+        "institution_latitude": 52.52605079679751,
+        "institution_longitude": 13.374526157949607,
+        "ancestry_currentCount": 1,
+        "ancestry_slug": "wapangwa",
+        "ancestry_label": "Wapangwa",
+        "ancestry_latitude": -9.43949327,
+        "ancestry_longitude": 35.74394801
+      }
+    },
+    {
+      "id": 6,
+      "fields": {
+        "institution": 4,
+        "ancestry": 3,
+        "group": [
+          "L",
+          30
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 58,
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)",
+        "institution_latitude": 52.52605079679751,
+        "institution_longitude": 13.374526157949607,
+        "ancestry_currentCount": 1,
+        "ancestry_slug": "wambugu",
+        "ancestry_label": "Wambugu",
+        "ancestry_latitude": -4.74837223,
+        "ancestry_longitude": 38.50343359
+      }
+    },
+    {
+      "id": 7,
+      "fields": {
+        "institution": 4,
+        "ancestry": 4,
+        "group": [
+          "L",
+          31
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 58,
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)",
+        "institution_latitude": 52.52605079679751,
+        "institution_longitude": 13.374526157949607,
+        "ancestry_currentCount": 4,
+        "ancestry_slug": "maasai",
+        "ancestry_label": "Maasai",
+        "ancestry_latitude": -2.58588087,
+        "ancestry_longitude": 36.764372
+      }
+    },
+    {
+      "id": 8,
+      "fields": {
+        "institution": 4,
+        "ancestry": 21,
+        "group": [
+          "L",
+          32,
+          34,
+          38,
+          39,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          62,
+          93,
+          94,
+          95
+        ],
+        "count": 19,
+        "originalCount": 131,
+        "certaintyOfCount": 0.9473684210526315,
+        "repatriatedCount": 109,
+        "currentCount": 22,
+        "institution_currentCount": 58,
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)",
+        "institution_latitude": 52.52605079679751,
+        "institution_longitude": 13.374526157949607,
+        "ancestry_currentCount": 12480,
+        "ancestry_slug": "unknown",
+        "ancestry_label": "Unspecified ancestry",
+        "ancestry_latitude": 0,
+        "ancestry_longitude": 0
+      }
+    },
+    {
+      "id": 9,
+      "fields": {
+        "institution": 4,
+        "ancestry": 5,
+        "group": [
+          "L",
+          33
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 58,
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)",
+        "institution_latitude": 52.52605079679751,
+        "institution_longitude": 13.374526157949607,
+        "ancestry_currentCount": 1,
+        "ancestry_slug": "iraqw_wambulu",
+        "ancestry_label": "Iraqw (Wambulu)",
+        "ancestry_latitude": -3.38648264,
+        "ancestry_longitude": 36.68613965
+      }
+    },
+    {
+      "id": 10,
+      "fields": {
+        "institution": 4,
+        "ancestry": 6,
+        "group": [
+          "L",
+          35
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 58,
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)",
+        "institution_latitude": 52.52605079679751,
+        "institution_longitude": 13.374526157949607,
+        "ancestry_currentCount": 1,
+        "ancestry_slug": "mang-anja_mangania_marari_nyanja",
+        "ancestry_label": "Mang'anja / Mangania / Marari / Nyanja",
+        "ancestry_latitude": -16.04130948,
+        "ancestry_longitude": 34.80138589
+      }
+    },
+    {
+      "id": 11,
+      "fields": {
+        "institution": 4,
+        "ancestry": 7,
+        "group": [
+          "L",
+          36
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 58,
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)",
+        "institution_latitude": 52.52605079679751,
+        "institution_longitude": 13.374526157949607,
+        "ancestry_currentCount": 1,
+        "ancestry_slug": "monyalo",
+        "ancestry_label": "Monyalo",
+        "ancestry_latitude": -23.82457252,
+        "ancestry_longitude": 29.44653657
+      }
+    },
+    {
+      "id": 12,
+      "fields": {
+        "institution": 4,
+        "ancestry": 8,
+        "group": [
+          "L",
+          37
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 58,
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)",
+        "institution_latitude": 52.52605079679751,
+        "institution_longitude": 13.374526157949607,
+        "ancestry_currentCount": 1,
+        "ancestry_slug": "mtutsi",
+        "ancestry_label": "Abatutsi (Tutsi)",
+        "ancestry_latitude": -1.94482532,
+        "ancestry_longitude": 30.06606365
+      }
+    },
+    {
+      "id": 13,
+      "fields": {
+        "institution": 4,
+        "ancestry": 9,
+        "group": [
+          "L",
+          40
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 58,
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)",
+        "institution_latitude": 52.52605079679751,
+        "institution_longitude": 13.374526157949607,
+        "ancestry_currentCount": 4,
+        "ancestry_slug": "xhosa",
+        "ancestry_label": "Xhosa",
+        "ancestry_latitude": -33.9291,
+        "ancestry_longitude": 18.4174
+      }
+    },
+    {
+      "id": 14,
+      "fields": {
+        "institution": 4,
+        "ancestry": 10,
+        "group": [
+          "L",
+          41
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 58,
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)",
+        "institution_latitude": 52.52605079679751,
+        "institution_longitude": 13.374526157949607,
+        "ancestry_currentCount": 6,
+        "ancestry_slug": "zulu",
+        "ancestry_label": "Zulu",
+        "ancestry_latitude": -28.31628442,
+        "ancestry_longitude": 31.45968861
+      }
+    },
+    {
+      "id": 15,
+      "fields": {
+        "institution": 4,
+        "ancestry": 11,
+        "group": [
+          "L",
+          42
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 58,
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)",
+        "institution_latitude": 52.52605079679751,
+        "institution_longitude": 13.374526157949607,
+        "ancestry_currentCount": 1,
+        "ancestry_slug": "mfengu",
+        "ancestry_label": "Mfengu",
+        "ancestry_latitude": -32.87017404,
+        "ancestry_longitude": 27.39559154
+      }
+    },
+    {
+      "id": 16,
+      "fields": {
+        "institution": 4,
+        "ancestry": 12,
+        "group": [
+          "L",
+          43
+        ],
+        "count": 1,
+        "originalCount": 3,
+        "certaintyOfCount": 0.8,
+        "repatriatedCount": 0,
+        "currentCount": 3,
+        "institution_currentCount": 58,
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)",
+        "institution_latitude": 52.52605079679751,
+        "institution_longitude": 13.374526157949607,
+        "ancestry_currentCount": 3,
+        "ancestry_slug": "san",
+        "ancestry_label": "San",
+        "ancestry_latitude": -25.89360716,
+        "ancestry_longitude": 19.10073969
+      }
+    },
+    {
+      "id": 17,
+      "fields": {
+        "institution": 4,
+        "ancestry": 13,
+        "group": [
+          "L",
+          44
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 58,
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)",
+        "institution_latitude": 52.52605079679751,
+        "institution_longitude": 13.374526157949607,
+        "ancestry_currentCount": 1,
+        "ancestry_slug": "ngqika",
+        "ancestry_label": "Ngqika (Xhosa)",
+        "ancestry_latitude": -32.87017404,
+        "ancestry_longitude": 27.39559154
+      }
+    },
+    {
+      "id": 18,
+      "fields": {
+        "institution": 4,
+        "ancestry": 14,
+        "group": [
+          "L",
+          45
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 58,
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)",
+        "institution_latitude": 52.52605079679751,
+        "institution_longitude": 13.374526157949607,
+        "ancestry_currentCount": 1,
+        "ancestry_slug": "damara",
+        "ancestry_label": "Damara",
+        "ancestry_latitude": -25.12808726,
+        "ancestry_longitude": 17.72575162
+      }
+    },
+    {
+      "id": 19,
+      "fields": {
+        "institution": 4,
+        "ancestry": 15,
+        "group": [
+          "L",
+          46
+        ],
+        "count": 1,
+        "originalCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 2,
+        "institution_currentCount": 58,
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)",
+        "institution_latitude": 52.52605079679751,
+        "institution_longitude": 13.374526157949607,
+        "ancestry_currentCount": 2,
+        "ancestry_slug": "ovambo",
+        "ancestry_label": "Ovambo",
+        "ancestry_latitude": -17.92736265,
+        "ancestry_longitude": 16.30376425
+      }
+    },
+    {
+      "id": 21,
+      "fields": {
+        "institution": 4,
+        "ancestry": 17,
+        "group": [
+          "L",
+          48
+        ],
+        "count": 1,
+        "originalCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 2,
+        "institution_currentCount": 58,
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)",
+        "institution_latitude": 52.52605079679751,
+        "institution_longitude": 13.374526157949607,
+        "ancestry_currentCount": 2,
+        "ancestry_slug": "ba-ndeng",
+        "ancestry_label": "Mankon (Bandeng)",
+        "ancestry_latitude": 6.00375557,
+        "ancestry_longitude": 10.10218883
+      }
+    },
+    {
+      "id": 22,
+      "fields": {
+        "institution": 4,
+        "ancestry": 18,
+        "group": [
+          "L",
+          49
+        ],
+        "count": 1,
+        "originalCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 2,
+        "institution_currentCount": 58,
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)",
+        "institution_latitude": 52.52605079679751,
+        "institution_longitude": 13.374526157949607,
+        "ancestry_currentCount": 2,
+        "ancestry_slug": "kru",
+        "ancestry_label": "Kru",
+        "ancestry_latitude": 5.31944446,
+        "ancestry_longitude": -7.4714422
+      }
+    },
+    {
+      "id": 23,
+      "fields": {
+        "institution": 4,
+        "ancestry": 20,
+        "group": [
+          "L",
+          61
+        ],
+        "count": 1,
+        "originalCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 2,
+        "institution_currentCount": 58,
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)",
+        "institution_latitude": 52.52605079679751,
+        "institution_longitude": 13.374526157949607,
+        "ancestry_currentCount": 2,
+        "ancestry_slug": "mongols",
+        "ancestry_label": "Mongols",
+        "ancestry_latitude": 47.017211166540655,
+        "ancestry_longitude": 92.80956884880557
+      }
+    },
+    {
+      "id": 29,
+      "fields": {
+        "institution": 6,
+        "ancestry": 21,
+        "group": [
+          "L",
+          63
+        ],
+        "count": 1,
+        "originalCount": 33,
+        "certaintyOfCount": 0,
+        "repatriatedCount": 0,
+        "currentCount": 33,
+        "institution_currentCount": 33,
+        "institution_slug": "ssf-gotha",
+        "institution_label": "Stiftung Schloss Friedenstein Gotha",
+        "institution_latitude": 50.945816,
+        "institution_longitude": 10.70442,
+        "ancestry_currentCount": 12480,
+        "ancestry_slug": "unknown",
+        "ancestry_label": "Unspecified ancestry",
+        "ancestry_latitude": 0,
+        "ancestry_longitude": 0
+      }
+    },
+    {
+      "id": 30,
+      "fields": {
+        "institution": 4,
+        "ancestry": 16,
+        "group": [
+          "L",
+          47
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 58,
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)",
+        "institution_latitude": 52.52605079679751,
+        "institution_longitude": 13.374526157949607,
+        "ancestry_currentCount": 1,
+        "ancestry_slug": "ntcham_bassari",
+        "ancestry_label": "Ntcham (Bassari)",
+        "ancestry_latitude": 9.26121985,
+        "ancestry_longitude": 0.77723963
+      }
+    },
+    {
+      "id": 33,
+      "fields": {
+        "institution": 7,
+        "ancestry": 21,
+        "group": [
+          "L",
+          66,
+          67
+        ],
+        "count": 2,
+        "originalCount": 3,
+        "certaintyOfCount": 0.75,
+        "repatriatedCount": 0,
+        "currentCount": 3,
+        "institution_currentCount": 3,
+        "institution_slug": "dhm",
+        "institution_label": "Deutsches Historisches Museum",
+        "institution_latitude": 52.51823671556848,
+        "institution_longitude": 13.396971362658126,
+        "ancestry_currentCount": 12480,
+        "ancestry_slug": "unknown",
+        "ancestry_label": "Unspecified ancestry",
+        "ancestry_latitude": 0,
+        "ancestry_longitude": 0
+      }
+    },
+    {
+      "id": 34,
+      "fields": {
+        "institution": 3,
+        "ancestry": 24,
+        "group": [
+          "L",
+          68
+        ],
+        "count": 1,
+        "originalCount": 15,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 1,
+        "currentCount": 14,
+        "institution_currentCount": 3514,
+        "institution_slug": "bgaeu",
+        "institution_label": "Berliner Gesellschaft für Anthropologie, Ethnologie und Frühgeschichte (BGAEU)",
+        "institution_latitude": 52.52136221991101,
+        "institution_longitude": 13.39190674447113,
+        "ancestry_currentCount": 14,
+        "ancestry_slug": "ainu",
+        "ancestry_label": "Ainu",
+        "ancestry_latitude": 43.30018056,
+        "ancestry_longitude": 142.49508457
+      }
+    },
+    {
+      "id": 38,
+      "fields": {
+        "institution": 8,
+        "ancestry": 21,
+        "group": [
+          "L",
+          70
+        ],
+        "count": 1,
+        "originalCount": 4,
+        "certaintyOfCount": 0.3,
+        "repatriatedCount": 0,
+        "currentCount": 4,
+        "institution_currentCount": 4,
+        "institution_slug": "khb",
+        "institution_label": "Weißensee kunshochschule berlin (khb)\n",
+        "institution_latitude": 52.558138192818774,
+        "institution_longitude": 13.439974295096098,
+        "ancestry_currentCount": 12480,
+        "ancestry_slug": "unknown",
+        "ancestry_label": "Unspecified ancestry",
+        "ancestry_latitude": 0,
+        "ancestry_longitude": 0
+      }
+    },
+    {
+      "id": 41,
+      "fields": {
+        "institution": 9,
+        "ancestry": 21,
+        "group": [
+          "L",
+          71
+        ],
+        "count": 1,
+        "originalCount": 2,
+        "certaintyOfCount": 0.5,
+        "repatriatedCount": 0,
+        "currentCount": 2,
+        "institution_currentCount": 2,
+        "institution_slug": "lhu-b",
+        "institution_label": "Lautarchiv der Humboldt-Universität",
+        "institution_latitude": 52.51751246920301,
+        "institution_longitude": 13.401558033524822,
+        "ancestry_currentCount": 12480,
+        "ancestry_slug": "unknown",
+        "ancestry_label": "Unspecified ancestry",
+        "ancestry_latitude": 0,
+        "ancestry_longitude": 0
+      }
+    },
+    {
+      "id": 44,
+      "fields": {
+        "institution": 11,
+        "ancestry": 21,
+        "group": [
+          "L",
+          72
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 0.5,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 1,
+        "institution_slug": "stabi-b\n",
+        "institution_label": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz\n",
+        "institution_latitude": 52.51767659737995,
+        "institution_longitude": 13.392588532941982,
+        "ancestry_currentCount": 12480,
+        "ancestry_slug": "unknown",
+        "ancestry_label": "Unspecified ancestry",
+        "ancestry_latitude": 0,
+        "ancestry_longitude": 0
+      }
+    },
+    {
+      "id": 46,
+      "fields": {
+        "institution": 14,
+        "ancestry": 21,
+        "group": [
+          "L",
+          73,
+          74,
+          77,
+          82,
+          85,
+          86
+        ],
+        "count": 6,
+        "originalCount": 20,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 20,
+        "institution_currentCount": 32,
+        "institution_slug": "uni-marburg",
+        "institution_label": "Medizinhistorisch-anatomische Sammlung, Fachbereich Medizin, Philipps-Universität Marburg\n",
+        "institution_latitude": 50.81342683936805,
+        "institution_longitude": 8.76853696663504,
+        "ancestry_currentCount": 12480,
+        "ancestry_slug": "unknown",
+        "ancestry_label": "Unspecified ancestry",
+        "ancestry_latitude": 0,
+        "ancestry_longitude": 0
+      }
+    },
+    {
+      "id": 49,
+      "fields": {
+        "institution": 14,
+        "ancestry": 9,
+        "group": [
+          "L",
+          75
+        ],
+        "count": 1,
+        "originalCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 2,
+        "institution_currentCount": 32,
+        "institution_slug": "uni-marburg",
+        "institution_label": "Medizinhistorisch-anatomische Sammlung, Fachbereich Medizin, Philipps-Universität Marburg\n",
+        "institution_latitude": 50.81342683936805,
+        "institution_longitude": 8.76853696663504,
+        "ancestry_currentCount": 4,
+        "ancestry_slug": "xhosa",
+        "ancestry_label": "Xhosa",
+        "ancestry_latitude": -33.9291,
+        "ancestry_longitude": 18.4174
+      }
+    },
+    {
+      "id": 53,
+      "fields": {
+        "institution": 14,
+        "ancestry": 10,
+        "group": [
+          "L",
+          76,
+          81
+        ],
+        "count": 2,
+        "originalCount": 3,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 3,
+        "institution_currentCount": 32,
+        "institution_slug": "uni-marburg",
+        "institution_label": "Medizinhistorisch-anatomische Sammlung, Fachbereich Medizin, Philipps-Universität Marburg\n",
+        "institution_latitude": 50.81342683936805,
+        "institution_longitude": 8.76853696663504,
+        "ancestry_currentCount": 6,
+        "ancestry_slug": "zulu",
+        "ancestry_label": "Zulu",
+        "ancestry_latitude": -28.31628442,
+        "ancestry_longitude": 31.45968861
+      }
+    },
+    {
+      "id": 56,
+      "fields": {
+        "institution": 14,
+        "ancestry": 34,
+        "group": [
+          "L",
+          78,
+          83
+        ],
+        "count": 2,
+        "originalCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 2,
+        "institution_currentCount": 32,
+        "institution_slug": "uni-marburg",
+        "institution_label": "Medizinhistorisch-anatomische Sammlung, Fachbereich Medizin, Philipps-Universität Marburg\n",
+        "institution_latitude": 50.81342683936805,
+        "institution_longitude": 8.76853696663504,
+        "ancestry_currentCount": 2,
+        "ancestry_slug": "boni",
+        "ancestry_label": "Bone/Boni",
+        "ancestry_latitude": 4.50588326,
+        "ancestry_longitude": 114.6208821
+      }
+    },
+    {
+      "id": 59,
+      "fields": {
+        "institution": 14,
+        "ancestry": 35,
+        "group": [
+          "L",
+          84
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 32,
+        "institution_slug": "uni-marburg",
+        "institution_label": "Medizinhistorisch-anatomische Sammlung, Fachbereich Medizin, Philipps-Universität Marburg\n",
+        "institution_latitude": 50.81342683936805,
+        "institution_longitude": 8.76853696663504,
+        "ancestry_currentCount": 1,
+        "ancestry_slug": "makassar",
+        "ancestry_label": "Makassar",
+        "ancestry_latitude": -5.21134454,
+        "ancestry_longitude": 120.46327002
+      }
+    },
+    {
+      "id": 62,
+      "fields": {
+        "institution": 14,
+        "ancestry": 36,
+        "group": [
+          "L",
+          87
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 32,
+        "institution_slug": "uni-marburg",
+        "institution_label": "Medizinhistorisch-anatomische Sammlung, Fachbereich Medizin, Philipps-Universität Marburg\n",
+        "institution_latitude": 50.81342683936805,
+        "institution_longitude": 8.76853696663504,
+        "ancestry_currentCount": 1,
+        "ancestry_slug": "hindustani",
+        "ancestry_label": "Hindustani",
+        "ancestry_latitude": 27.38847787,
+        "ancestry_longitude": 75.89147774
+      }
+    },
+    {
+      "id": 65,
+      "fields": {
+        "institution": 12,
+        "ancestry": 21,
+        "group": [
+          "L",
+          88,
+          90
+        ],
+        "count": 2,
+        "originalCount": 14,
+        "certaintyOfCount": 0.55,
+        "repatriatedCount": 0,
+        "currentCount": 14,
+        "institution_currentCount": 14,
+        "institution_slug": "zlfu-b",
+        "institution_label": "Zoologische Lehrsammlung, Freie Universität Berlin",
+        "institution_latitude": 52.4594156640832,
+        "institution_longitude": 13.306406969423424,
+        "ancestry_currentCount": 12480,
+        "ancestry_slug": "unknown",
+        "ancestry_label": "Unspecified ancestry",
+        "ancestry_latitude": 0,
+        "ancestry_longitude": 0
+      }
+    },
+    {
+      "id": 68,
+      "fields": {
+        "institution": 13,
+        "ancestry": 21,
+        "group": [
+          "L",
+          89
+        ],
+        "count": 1,
+        "originalCount": 8,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 8,
+        "institution_currentCount": 8,
+        "institution_slug": "zlhu-b",
+        "institution_label": "Zoologische Lehrsammlung, Humboldt Universität Berlin",
+        "institution_latitude": 52.52551143901556,
+        "institution_longitude": 13.380557993484747,
+        "ancestry_currentCount": 12480,
+        "ancestry_slug": "unknown",
+        "ancestry_label": "Unspecified ancestry",
+        "ancestry_latitude": 0,
+        "ancestry_longitude": 0
+      }
+    },
+    {
+      "id": 70,
+      "fields": {
+        "institution": 15,
+        "ancestry": 21,
+        "group": [
+          "L",
+          99,
+          101,
+          103
+        ],
+        "count": 3,
+        "originalCount": 34,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 34,
+        "institution_currentCount": 37,
+        "institution_slug": "uni-jena",
+        "institution_label": "Universitätsklinikum Jena, Institut für Anatomie / Anatomische Sammlung\n",
+        "institution_latitude": 50.9279213304004,
+        "institution_longitude": 11.585083489449067,
+        "ancestry_currentCount": 12480,
+        "ancestry_slug": "unknown",
+        "ancestry_label": "Unspecified ancestry",
+        "ancestry_latitude": 0,
+        "ancestry_longitude": 0
+      }
+    },
+    {
+      "id": 72,
+      "fields": {
+        "institution": 15,
+        "ancestry": 23,
+        "group": [
+          "L",
+          100
+        ],
+        "count": 1,
+        "originalCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 2,
+        "institution_currentCount": 37,
+        "institution_slug": "uni-jena",
+        "institution_label": "Universitätsklinikum Jena, Institut für Anatomie / Anatomische Sammlung\n",
+        "institution_latitude": 50.9279213304004,
+        "institution_longitude": 11.585083489449067,
+        "ancestry_currentCount": 2,
+        "ancestry_slug": "dayak",
+        "ancestry_label": "Dayak",
+        "ancestry_latitude": 47.017211166540655,
+        "ancestry_longitude": 92.80956884880557
+      }
+    },
+    {
+      "id": 75,
+      "fields": {
+        "institution": 15,
+        "ancestry": 28,
+        "group": [
+          "L",
+          102
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 0.5,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 37,
+        "institution_slug": "uni-jena",
+        "institution_label": "Universitätsklinikum Jena, Institut für Anatomie / Anatomische Sammlung\n",
+        "institution_latitude": 50.9279213304004,
+        "institution_longitude": 11.585083489449067,
+        "ancestry_currentCount": 1,
+        "ancestry_slug": "nama",
+        "ancestry_label": "Nama",
+        "ancestry_latitude": -26.56307108,
+        "ancestry_longitude": 18.13258851
+      }
+    },
+    {
+      "id": 76,
+      "fields": {
+        "institution": 14,
+        "ancestry": 38,
+        "group": [
+          "L",
+          79
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 32,
+        "institution_slug": "uni-marburg",
+        "institution_label": "Medizinhistorisch-anatomische Sammlung, Fachbereich Medizin, Philipps-Universität Marburg\n",
+        "institution_latitude": 50.81342683936805,
+        "institution_longitude": 8.76853696663504,
+        "ancestry_currentCount": 1,
+        "ancestry_slug": "fiji",
+        "ancestry_label": "iTaukei (Fiji)",
+        "ancestry_latitude": -17.8017413,
+        "ancestry_longitude": 177.97550923
+      }
+    },
+    {
+      "id": 77,
+      "fields": {
+        "institution": 14,
+        "ancestry": 39,
+        "group": [
+          "L",
+          80
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 32,
+        "institution_slug": "uni-marburg",
+        "institution_label": "Medizinhistorisch-anatomische Sammlung, Fachbereich Medizin, Philipps-Universität Marburg\n",
+        "institution_latitude": 50.81342683936805,
+        "institution_longitude": 8.76853696663504,
+        "ancestry_currentCount": 1,
+        "ancestry_slug": "inuit_greenland",
+        "ancestry_label": "Inuit",
+        "ancestry_latitude": 69.6354163,
+        "ancestry_longitude": -42.1736914
+      }
+    },
+    {
+      "id": 80,
+      "fields": {
+        "institution": 16,
+        "ancestry": 21,
+        "group": [
+          "L",
+          104,
+          105,
+          106,
+          107,
+          108,
+          109,
+          110,
+          111,
+          112,
+          113,
+          114,
+          115,
+          117,
+          120,
+          121,
+          122,
+          131
+        ],
+        "count": 17,
+        "originalCount": 35,
+        "certaintyOfCount": 0.973529411764706,
+        "repatriatedCount": 0,
+        "currentCount": 35,
+        "institution_currentCount": 55,
+        "institution_slug": "mm-hamburg",
+        "institution_label": "Medizinhistorisches Museum Hamburg",
+        "institution_latitude": 53.593889080045386,
+        "institution_longitude": 9.977342034686753,
+        "ancestry_currentCount": 12480,
+        "ancestry_slug": "unknown",
+        "ancestry_label": "Unspecified ancestry",
+        "ancestry_latitude": 0,
+        "ancestry_longitude": 0
+      }
+    },
+    {
+      "id": 83,
+      "fields": {
+        "institution": 16,
+        "ancestry": 41,
+        "group": [
+          "L",
+          118
+        ],
+        "count": 1,
+        "originalCount": 18,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 18,
+        "institution_currentCount": 55,
+        "institution_slug": "mm-hamburg",
+        "institution_label": "Medizinhistorisches Museum Hamburg",
+        "institution_latitude": 53.593889080045386,
+        "institution_longitude": 9.977342034686753,
+        "ancestry_currentCount": 18,
+        "ancestry_slug": "inka",
+        "ancestry_label": "Inka",
+        "ancestry_latitude": -8.19683014174719,
+        "ancestry_longitude": -61.51873222725019
+      }
+    },
+    {
+      "id": 86,
+      "fields": {
+        "institution": 16,
+        "ancestry": 42,
+        "group": [
+          "L",
+          119
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 55,
+        "institution_slug": "mm-hamburg",
+        "institution_label": "Medizinhistorisches Museum Hamburg",
+        "institution_latitude": 53.593889080045386,
+        "institution_longitude": 9.977342034686753,
+        "ancestry_currentCount": 1,
+        "ancestry_slug": "chincas",
+        "ancestry_label": "Chincas",
+        "ancestry_latitude": -8.19683014174719,
+        "ancestry_longitude": -61.51873222725019
+      }
+    },
+    {
+      "id": 87,
+      "fields": {
+        "institution": 16,
+        "ancestry": 4,
+        "group": [
+          "L",
+          116
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 0.75,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 55,
+        "institution_slug": "mm-hamburg",
+        "institution_label": "Medizinhistorisches Museum Hamburg",
+        "institution_latitude": 53.593889080045386,
+        "institution_longitude": 9.977342034686753,
+        "ancestry_currentCount": 4,
+        "ancestry_slug": "maasai",
+        "ancestry_label": "Maasai",
+        "ancestry_latitude": -2.58588087,
+        "ancestry_longitude": 36.764372
+      }
+    },
+    {
+      "id": 88,
+      "fields": {
+        "institution": 4,
+        "ancestry": 32,
+        "group": [
+          "L",
+          96
+        ],
+        "count": 1,
+        "originalCount": 109,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 109,
+        "currentCount": 0,
+        "institution_currentCount": 58,
+        "institution_slug": "charite-bmm",
+        "institution_label": "Charité – Anatomische Sammlung (im Institut für Anatomie) und Berliner Medizinhistorisches Museum (BMM)",
+        "institution_latitude": 52.52605079679751,
+        "institution_longitude": 13.374526157949607,
+        "ancestry_currentCount": 0,
+        "ancestry_slug": "moriori_maori",
+        "ancestry_label": "Moriori, Māori",
+        "ancestry_latitude": -42.63364565969775,
+        "ancestry_longitude": 172.24768689863598
+      }
+    },
+    {
+      "id": 91,
+      "fields": {
+        "institution": 17,
+        "ancestry": 21,
+        "group": [
+          "L",
+          132,
+          133,
+          134,
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141
+        ],
+        "count": 10,
+        "originalCount": 17,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 17,
+        "institution_currentCount": 17,
+        "institution_slug": "u-koln",
+        "institution_label": "Universität zu Köln\n",
+        "institution_latitude": 50.92837133053843,
+        "institution_longitude": 6.929779233078455,
+        "ancestry_currentCount": 12480,
+        "ancestry_slug": "unknown",
+        "ancestry_label": "Unspecified ancestry",
+        "ancestry_latitude": 0,
+        "ancestry_longitude": 0
+      }
+    },
+    {
+      "id": 96,
+      "fields": {
+        "institution": 18,
+        "ancestry": 4,
+        "group": [
+          "L",
+          142,
+          165
+        ],
+        "count": 2,
+        "originalCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 2,
+        "institution_currentCount": 100,
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg",
+        "institution_latitude": 48.579175603314994,
+        "institution_longitude": 7.766872931761126,
+        "ancestry_currentCount": 4,
+        "ancestry_slug": "maasai",
+        "ancestry_label": "Maasai",
+        "ancestry_latitude": -2.58588087,
+        "ancestry_longitude": 36.764372
+      }
+    },
+    {
+      "id": 99,
+      "fields": {
+        "institution": 18,
+        "ancestry": 10,
+        "group": [
+          "L",
+          143,
+          166
+        ],
+        "count": 2,
+        "originalCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 2,
+        "institution_currentCount": 100,
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg",
+        "institution_latitude": 48.579175603314994,
+        "institution_longitude": 7.766872931761126,
+        "ancestry_currentCount": 6,
+        "ancestry_slug": "zulu",
+        "ancestry_label": "Zulu",
+        "ancestry_latitude": -28.31628442,
+        "ancestry_longitude": 31.45968861
+      }
+    },
+    {
+      "id": 102,
+      "fields": {
+        "institution": 18,
+        "ancestry": 43,
+        "group": [
+          "L",
+          144
+        ],
+        "count": 1,
+        "originalCount": 30,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 30,
+        "institution_currentCount": 100,
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg",
+        "institution_latitude": 48.579175603314994,
+        "institution_longitude": 7.766872931761126,
+        "ancestry_currentCount": 30,
+        "ancestry_slug": "dschagga",
+        "ancestry_label": "Wachaga",
+        "ancestry_latitude": -3.314529429,
+        "ancestry_longitude": 37.40739896
+      }
+    },
+    {
+      "id": 104,
+      "fields": {
+        "institution": 18,
+        "ancestry": 44,
+        "group": [
+          "L",
+          145
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 100,
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg",
+        "institution_latitude": 48.579175603314994,
+        "institution_longitude": 7.766872931761126,
+        "ancestry_currentCount": 1,
+        "ancestry_slug": "nyamwesi",
+        "ancestry_label": "Wanyamwesi",
+        "ancestry_latitude": -5.01622,
+        "ancestry_longitude": 32.82663
+      }
+    },
+    {
+      "id": 107,
+      "fields": {
+        "institution": 18,
+        "ancestry": 45,
+        "group": [
+          "L",
+          146
+        ],
+        "count": 1,
+        "originalCount": 12,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 12,
+        "institution_currentCount": 100,
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg",
+        "institution_latitude": 48.579175603314994,
+        "institution_longitude": 7.766872931761126,
+        "ancestry_currentCount": 12,
+        "ancestry_slug": "bangwa",
+        "ancestry_label": "Bangwa (Nwe)",
+        "ancestry_latitude": 5.478500903,
+        "ancestry_longitude": 9.85276792
+      }
+    },
+    {
+      "id": 109,
+      "fields": {
+        "institution": 18,
+        "ancestry": 46,
+        "group": [
+          "L",
+          147
+        ],
+        "count": 1,
+        "originalCount": 9,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 9,
+        "institution_currentCount": 100,
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg",
+        "institution_latitude": 48.579175603314994,
+        "institution_longitude": 7.766872931761126,
+        "ancestry_currentCount": 9,
+        "ancestry_slug": "bamenda",
+        "ancestry_label": "Nkwen (Bamenda)",
+        "ancestry_latitude": 5.962976544,
+        "ancestry_longitude": 10.15725773
+      }
+    },
+    {
+      "id": 111,
+      "fields": {
+        "institution": 18,
+        "ancestry": 47,
+        "group": [
+          "L",
+          148
+        ],
+        "count": 1,
+        "originalCount": 10,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 10,
+        "institution_currentCount": 100,
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg",
+        "institution_latitude": 48.579175603314994,
+        "institution_longitude": 7.766872931761126,
+        "ancestry_currentCount": 10,
+        "ancestry_slug": "cross_river",
+        "ancestry_label": "Ejagham (Ekoi)",
+        "ancestry_latitude": 5.883961566,
+        "ancestry_longitude": 8.981806009
+      }
+    },
+    {
+      "id": 113,
+      "fields": {
+        "institution": 18,
+        "ancestry": 48,
+        "group": [
+          "L",
+          149
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 100,
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg",
+        "institution_latitude": 48.579175603314994,
+        "institution_longitude": 7.766872931761126,
+        "ancestry_currentCount": 1,
+        "ancestry_slug": "batscha",
+        "ancestry_label": "Batcha (Bamiléké)",
+        "ancestry_latitude": 5.1059,
+        "ancestry_longitude": 10.3508
+      }
+    },
+    {
+      "id": 115,
+      "fields": {
+        "institution": 18,
+        "ancestry": 49,
+        "group": [
+          "L",
+          150
+        ],
+        "count": 1,
+        "originalCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 2,
+        "institution_currentCount": 100,
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg",
+        "institution_latitude": 48.579175603314994,
+        "institution_longitude": 7.766872931761126,
+        "ancestry_currentCount": 2,
+        "ancestry_slug": "bali",
+        "ancestry_label": "Bali",
+        "ancestry_latitude": 5.8747,
+        "ancestry_longitude": 10.0061
+      }
+    },
+    {
+      "id": 117,
+      "fields": {
+        "institution": 18,
+        "ancestry": 50,
+        "group": [
+          "L",
+          151
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 100,
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg",
+        "institution_latitude": 48.579175603314994,
+        "institution_longitude": 7.766872931761126,
+        "ancestry_currentCount": 1,
+        "ancestry_slug": "babadju",
+        "ancestry_label": "Babadjou (Bamiléké)",
+        "ancestry_latitude": 5.6783,
+        "ancestry_longitude": 10.162
+      }
+    },
+    {
+      "id": 120,
+      "fields": {
+        "institution": 18,
+        "ancestry": 51,
+        "group": [
+          "L",
+          152
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 100,
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg",
+        "institution_latitude": 48.579175603314994,
+        "institution_longitude": 7.766872931761126,
+        "ancestry_currentCount": 1,
+        "ancestry_slug": "mamfe",
+        "ancestry_label": "Mamfé (Banyang)",
+        "ancestry_latitude": 5.6482,
+        "ancestry_longitude": 9.3733
+      }
+    },
+    {
+      "id": 123,
+      "fields": {
+        "institution": 18,
+        "ancestry": 52,
+        "group": [
+          "L",
+          153
+        ],
+        "count": 1,
+        "originalCount": 6,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 6,
+        "institution_currentCount": 100,
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg",
+        "institution_latitude": 48.579175603314994,
+        "institution_longitude": 7.766872931761126,
+        "ancestry_currentCount": 6,
+        "ancestry_slug": "bakumba",
+        "ancestry_label": "Bakumba (Mbonge)",
+        "ancestry_latitude": 6.015,
+        "ancestry_longitude": 9.141
+      }
+    },
+    {
+      "id": 126,
+      "fields": {
+        "institution": 14,
+        "ancestry": 62,
+        "group": [
+          "L",
+          154
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 32,
+        "institution_slug": "uni-marburg",
+        "institution_label": "Medizinhistorisch-anatomische Sammlung, Fachbereich Medizin, Philipps-Universität Marburg\n",
+        "institution_latitude": 50.81342683936805,
+        "institution_longitude": 8.76853696663504,
+        "ancestry_currentCount": 1,
+        "ancestry_slug": "bugi",
+        "ancestry_label": "Bugi",
+        "ancestry_latitude": -3.98193383,
+        "ancestry_longitude": 119.49113213
+      }
+    },
+    {
+      "id": 129,
+      "fields": {
+        "institution": 18,
+        "ancestry": 53,
+        "group": [
+          "L",
+          155
+        ],
+        "count": 1,
+        "originalCount": 11,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 11,
+        "institution_currentCount": 100,
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg",
+        "institution_latitude": 48.579175603314994,
+        "institution_longitude": 7.766872931761126,
+        "ancestry_currentCount": 11,
+        "ancestry_slug": "bafut",
+        "ancestry_label": "Bafut",
+        "ancestry_latitude": 6.1655,
+        "ancestry_longitude": 10.0659
+      }
+    },
+    {
+      "id": 131,
+      "fields": {
+        "institution": 18,
+        "ancestry": 54,
+        "group": [
+          "L",
+          156
+        ],
+        "count": 1,
+        "originalCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 2,
+        "institution_currentCount": 100,
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg",
+        "institution_latitude": 48.579175603314994,
+        "institution_longitude": 7.766872931761126,
+        "ancestry_currentCount": 2,
+        "ancestry_slug": "bali-kumbat",
+        "ancestry_label": "Balikumbat",
+        "ancestry_latitude": 5.624,
+        "ancestry_longitude": 10.113
+      }
+    },
+    {
+      "id": 133,
+      "fields": {
+        "institution": 18,
+        "ancestry": 55,
+        "group": [
+          "L",
+          157
+        ],
+        "count": 1,
+        "originalCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 2,
+        "institution_currentCount": 100,
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg",
+        "institution_latitude": 48.579175603314994,
+        "institution_longitude": 7.766872931761126,
+        "ancestry_currentCount": 2,
+        "ancestry_slug": "bamum",
+        "ancestry_label": "Bamum",
+        "ancestry_latitude": 5.7187,
+        "ancestry_longitude": 10.869
+      }
+    },
+    {
+      "id": 136,
+      "fields": {
+        "institution": 18,
+        "ancestry": 56,
+        "group": [
+          "L",
+          158
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 100,
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg",
+        "institution_latitude": 48.579175603314994,
+        "institution_longitude": 7.766872931761126,
+        "ancestry_currentCount": 1,
+        "ancestry_slug": "suaheli",
+        "ancestry_label": "Waswahili",
+        "ancestry_latitude": -4.0444275,
+        "ancestry_longitude": 39.66866757
+      }
+    },
+    {
+      "id": 138,
+      "fields": {
+        "institution": 18,
+        "ancestry": 57,
+        "group": [
+          "L",
+          159
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 100,
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg",
+        "institution_latitude": 48.579175603314994,
+        "institution_longitude": 7.766872931761126,
+        "ancestry_currentCount": 1,
+        "ancestry_slug": "mindeh",
+        "ancestry_label": "Mende",
+        "ancestry_latitude": 8.383,
+        "ancestry_longitude": -12.574
+      }
+    },
+    {
+      "id": 148,
+      "fields": {
+        "institution": 18,
+        "ancestry": 58,
+        "group": [
+          "L",
+          160
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 100,
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg",
+        "institution_latitude": 48.579175603314994,
+        "institution_longitude": 7.766872931761126,
+        "ancestry_currentCount": 1,
+        "ancestry_slug": "loango",
+        "ancestry_label": "Loango",
+        "ancestry_latitude": -4.6562,
+        "ancestry_longitude": 11.8115
+      }
+    },
+    {
+      "id": 149,
+      "fields": {
+        "institution": 18,
+        "ancestry": 59,
+        "group": [
+          "L",
+          161
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 100,
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg",
+        "institution_latitude": 48.579175603314994,
+        "institution_longitude": 7.766872931761126,
+        "ancestry_currentCount": 1,
+        "ancestry_slug": "bakundu",
+        "ancestry_label": "Bakundu",
+        "ancestry_latitude": 4.2999,
+        "ancestry_longitude": 9.4826
+      }
+    },
+    {
+      "id": 150,
+      "fields": {
+        "institution": 18,
+        "ancestry": 27,
+        "group": [
+          "L",
+          162
+        ],
+        "count": 1,
+        "originalCount": 2,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 2,
+        "institution_currentCount": 100,
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg",
+        "institution_latitude": 48.579175603314994,
+        "institution_longitude": 7.766872931761126,
+        "ancestry_currentCount": 2,
+        "ancestry_slug": "ovaherero",
+        "ancestry_label": "Ovaherero",
+        "ancestry_latitude": 18.124569746225802,
+        "ancestry_longitude": 16.162174978577365
+      }
+    },
+    {
+      "id": 151,
+      "fields": {
+        "institution": 18,
+        "ancestry": 61,
+        "group": [
+          "L",
+          163
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 100,
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg",
+        "institution_latitude": 48.579175603314994,
+        "institution_longitude": 7.766872931761126,
+        "ancestry_currentCount": 1,
+        "ancestry_slug": "mandingo",
+        "ancestry_label": "Mandingo / Malinke",
+        "ancestry_latitude": 8.8881,
+        "ancestry_longitude": -12.0444
+      }
+    },
+    {
+      "id": 152,
+      "fields": {
+        "institution": 18,
+        "ancestry": 9,
+        "group": [
+          "L",
+          164
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 100,
+        "institution_slug": "u-stras",
+        "institution_label": "Université de Strasbourg",
+        "institution_latitude": 48.579175603314994,
+        "institution_longitude": 7.766872931761126,
+        "ancestry_currentCount": 4,
+        "ancestry_slug": "xhosa",
+        "ancestry_label": "Xhosa",
+        "ancestry_latitude": -33.9291,
+        "ancestry_longitude": 18.4174
+      }
+    },
+    {
+      "id": 154,
+      "fields": {
+        "institution": 19,
+        "ancestry": 21,
+        "group": [
+          "L",
+          167,
+          168,
+          169,
+          170,
+          171,
+          172,
+          173,
+          174,
+          175,
+          176,
+          177,
+          178,
+          179,
+          180,
+          181,
+          182,
+          183,
+          185,
+          186,
+          187,
+          189,
+          190,
+          191,
+          192,
+          193,
+          194,
+          195,
+          196,
+          197,
+          198,
+          199,
+          200,
+          201,
+          202,
+          203,
+          204
+        ],
+        "count": 36,
+        "originalCount": 156,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 11,
+        "currentCount": 145,
+        "institution_currentCount": 153,
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg",
+        "institution_latitude": 47.99366230970573,
+        "institution_longitude": 7.846603395541588,
+        "ancestry_currentCount": 12480,
+        "ancestry_slug": "unknown",
+        "ancestry_label": "Unspecified ancestry",
+        "ancestry_latitude": 0,
+        "ancestry_longitude": 0
+      }
+    },
+    {
+      "id": 156,
+      "fields": {
+        "institution": 19,
+        "ancestry": 64,
+        "group": [
+          "L",
+          184
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 153,
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg",
+        "institution_latitude": 47.99366230970573,
+        "institution_longitude": 7.846603395541588,
+        "ancestry_currentCount": 1,
+        "ancestry_slug": "fellah",
+        "ancestry_label": "Fellah",
+        "ancestry_latitude": 26.711249019754316,
+        "ancestry_longitude": 29.61250995386261
+      }
+    },
+    {
+      "id": 160,
+      "fields": {
+        "institution": 19,
+        "ancestry": 63,
+        "group": [
+          "L",
+          188
+        ],
+        "count": 1,
+        "originalCount": 6,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 6,
+        "institution_currentCount": 153,
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg",
+        "institution_latitude": 47.99366230970573,
+        "institution_longitude": 7.846603395541588,
+        "ancestry_currentCount": 6,
+        "ancestry_slug": "makaa",
+        "ancestry_label": "Makaa",
+        "ancestry_latitude": 5.49239141164285,
+        "ancestry_longitude": 12.236044048206372
+      }
+    },
+    {
+      "id": 161,
+      "fields": {
+        "institution": 19,
+        "ancestry": 1,
+        "group": [
+          "L",
+          205
+        ],
+        "count": 1,
+        "originalCount": 1,
+        "certaintyOfCount": 1,
+        "repatriatedCount": 0,
+        "currentCount": 1,
+        "institution_currentCount": 153,
+        "institution_slug": "u-frei",
+        "institution_label": "Universität Freiburg",
+        "institution_latitude": 47.99366230970573,
+        "institution_longitude": 7.846603395541588,
+        "ancestry_currentCount": 13,
+        "ancestry_slug": "hehe",
+        "ancestry_label": "Wahehe",
+        "ancestry_latitude": -7.80346427,
+        "ancestry_longitude": 35.60269597
+      }
+    }
+  ]
+}
