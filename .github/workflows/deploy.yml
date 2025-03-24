@@ -36,7 +36,7 @@ jobs:
             
             # 2. Prepare Project Directory
             # Create project folder if it doesn't exist
-            mkdir -p project
+            mkdir -p wwtb
             cd project
             # → Create and move to project directory
             
@@ -44,7 +44,7 @@ jobs:
             # Clone if git repository doesn't exist, pull if it does
             if [ ! -d .git ]; then
               rm -rf ./* # Remove existing files if any
-              git clone 
+              git clone git@github.com:visual-intelligence-and-communication/WWTB_CICD.git .
             else
               git pull origin main
             fi
