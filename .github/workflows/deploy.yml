@@ -43,7 +43,8 @@ jobs:
             # 3. Get Code
             # Clone if git repository doesn't exist, pull if it does
             if [ ! -d .git ]; then
-              rm -rf ./* # Remove existing files if any
+              cd ~/wwtb
+              # rm -rf .git # Remove existing files if any
               git clone git@github.com:visual-intelligence-and-communication/WWTB_CICD.git .
             else
               git pull origin main
