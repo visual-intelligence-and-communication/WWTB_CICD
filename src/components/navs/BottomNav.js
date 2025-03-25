@@ -52,32 +52,32 @@ const BottomNav = ({ mode = false, desktopFullSize = false }) => {
       </div>
       {router.pathname === "/" && (
         <>
-          <div className={`${currentPage === "data-section" ? "opacity-100" : "opacity-50"} flex items-center justify-center`} onClick={() => onPush("data-section")}>
-            <Image width={iconSize} height={iconSize} src={searchI} alt="search" />
+          <div className={`flex items-center justify-center cursor-pointer active:opacity-50`} onClick={() => onPush("data-section")}>
+            <Image width={iconSize} height={iconSize} src={searchI} alt="search"  />
           </div>
-          <div className={`${currentPage === "stories-section" ? "opacity-100" : "opacity-50"} flex items-center justify-center`} onClick={() => onPush("stories-section")}>
+          <div className={`flex items-center justify-center cursor-pointer active:opacity-50`} onClick={() => onPush("stories-section")}>
             <Image width={iconSize} height={iconSize} src={storiesI} alt="search" />
           </div>
-          <div className={`${currentPage === "tools-section" ? "opacity-100" : "opacity-50"} flex items-center justify-center`} onClick={() => onPush("tools-section")}>
+          <div className={`flex items-center justify-center cursor-pointer active:opacity-50`} onClick={() => onPush("tools-section")}>
             <Image width={iconSize} height={iconSize} src={toolsI} alt="tools" />
           </div>
-          <div className={`${currentPage === "contact-section" ? "opacity-100" : "opacity-50"} flex items-center justify-center`} onClick={() => onPush("contact-section")}>
+          <div className={`flex items-center justify-center cursor-pointer active:opacity-50`} onClick={() => onPush("contact-section")}>
             <Image width={iconSize} height={iconSize} src={aboutI} alt="about" />
           </div>
         </>
       )}
       {router.pathname !== "/" && (
         <>
-          <div className={`${currentPage.split("/").some((element) => "search" === element) ? "opacity-100" : "opacity-50"} flex items-center justify-center`} onClick={() => onPush("data-section")}>
+          <div className={`flex items-center justify-center cursor-pointer active:opacity-50`} onClick={() => onPush("data-section")}>
             <Image width={iconSize} height={iconSize} src={searchI} alt="search" />
           </div>
-          <div className={`${currentPage.split("/").some((element) => "stories" === element) ? "opacity-100" : "opacity-50"} flex items-center justify-center`} onClick={() => onPush("stories-section")}>
+          <div className={`flex items-center justify-center cursor-pointer active:opacity-50`} onClick={() => onPush("stories-section")}>
             <Image width={iconSize} height={iconSize} src={storiesI} alt="search" />
           </div>
-          <div className={`${currentPage === "tools-section" ? "opacity-100" : "opacity-50"} flex items-center justify-center`} onClick={() => onPush("tools-section")}>
+          <div className={`flex items-center justify-center cursor-pointer active:opacity-50`} onClick={() => onPush("tools-section")}>
             <Image width={iconSize} height={iconSize} src={toolsI} alt="tools" />
           </div>
-          <div className={`${currentPage === "contact-section" ? "opacity-100" : "opacity-50"} flex items-center justify-center`} onClick={() => onPush("contact-section")}>
+          <div className={`flex items-center justify-center cursor-pointer active:opacity-50`} onClick={() => onPush("contact-section")}>
             <Image width={iconSize} height={iconSize} src={aboutI} alt="about" />
           </div>
         </>

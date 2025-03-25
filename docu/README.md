@@ -33,13 +33,22 @@
    - Privacy measures
    - User tracking
 
-9. [Getting Started](#getting-started)
+9. [Deployment & CI/CD](#deployment)
+   - Docker configuration
+   - Server infrastructure
+   - GitHub Actions workflows
+   - Automated data synchronization
+
+10. [Getting Started](#getting-started)
    - Setup and installation guide
 
-10. [License](#license)
+11. [License](#license)
     - Terms of use
     - Documentation license
     - Third-party licenses
+
+12. [Deployment](#deployment)
+    - Deployment process and infrastructure
 
 
 
@@ -779,6 +788,64 @@ This analytics implementation helps us understand user interactions while mainta
 
 
 
+&nbsp;
+# Deployment
+
+Our application is deployed using Docker and Docker Compose on Hetzner Cloud, with automated CI/CD pipelines for continuous deployment and scheduled data updates.
+
+## Infrastructure
+
+### Docker Configuration
+- [Dockerfile](/Dockerfile)
+
+```yaml
+# docker-compose.yml
+services:
+  wwtb-client:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: wwtb-client
+    expose:
+      - "3000"
+    restart: always
+    env_file:
+      - .env.production
+    environment:
+      - VIRTUAL_HOST=wewantthemback.berlin,www.wewantthemback.berlin   # Nginx Proxy
+      - VIRTUAL_PORT=3000
+      - LETSENCRYPT_HOST=wewantthemback.berlin,www.wewantthemback.berlin   # SSL Domain
+      - LETSENCRYPT_EMAIL=dain-p@visual-intelligence.org # SSL Email
+
+    networks:
+      - shared_network
+    
+networks:
+  shared_network:
+```
+## CI/CD Pipeline
+
+### GitHub Actions Configuration
+```yaml
+# .github/workflows/deploy.yml
+name: Deploy to Production
+
+on:
+  push:
+    branches: [ main ]
+```
+
+### Automated Data Sync
+```yaml
+# .github/workflows/cron.yml
+name: Grist Data Sync
+
+on:
+  schedule:
+    - cron: '0 22 * * *'  # UTC 22:00 = Germany 23:00 (Winter)
+ 
+```
+
 
 
 
@@ -814,8 +881,6 @@ cp .env.example .env
 - Accessing and updating case information
 - Using Grist features
 - Data export options
-
-
 
 
 
