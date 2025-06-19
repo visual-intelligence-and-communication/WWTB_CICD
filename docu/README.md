@@ -70,12 +70,14 @@ The platform modern technology:
 - **User Interface**: Designed for accessibility and ease of use
 
 ### Technical Stack
-- **Frontend**: Next.js, React
+- **Frontend**: Next.js
 - **Data Management**: Grist
-- **Visualization**: D3.js, Leaflet
+- **Visualization**: D3js, Leafletjs, Roughjs, Turfjs, GSAP
 - **Styling**: TailwindCSS
 - **Monitoring**: Matomo
-
+- **Deployment & CI/CD**: Docker, Hetzner, Github Action
+- **CMS**: Kirby
+- **Image Optimization**: Sharp
 
 
 &nbsp;
@@ -702,14 +704,14 @@ Our application uses Matomo (formerly Piwik) for privacy-focused web analytics t
 
 ## Matomo Dashboard
 
-### Visits in real-time
+<!-- ### Visits in real-time
 ![matomo-real-time](./assets/01.webp)
 
 ### Real-time Map
 ![matomo-real-time map](./assets/02.webp)
 
 ### Visitor Infomation
-![matomo-visitor detail info](./assets/03.webp)
+![matomo-visitor detail info](./assets/03.webp) -->
 
 ## Implementation
 
