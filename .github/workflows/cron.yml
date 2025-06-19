@@ -1,54 +1,54 @@
-name: Deploy to Hetzner Cron Job
+# name: Deploy to Hetzner Cron Job
 
-on:
-  schedule:
-    - cron: '0 22 * * *'  # UTC 22:00 = Germany 23:00 (Winter)
+# on:
+#   schedule:
+#     - cron: '0 22 * * *'  # UTC 22:00 = Germany 23:00 (Winter)
 
-jobs:
-  deploy:
-    runs-on: ubuntu-latest
+# jobs:
+#   deploy:
+#     runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3 # Get code from GitHub repository
+#     steps:
+#       - name: Checkout Repository
+#         uses: actions/checkout@v3 # Get code from GitHub repository
         
-      - name: Deploy to Hetzner via SSH
-        uses: appleboy/ssh-action@master
-        with:
-          host: ${{ secrets.HETZNER_IP }}
-          username: ${{ secrets.HETZNER_USER }}
-          key: ${{ secrets.HETZNER_SSH_KEY }}
-          port: ${{ secrets.HETZNER_PORT }}  # Specify SSH port (or other port number used by the server)
-          debug: true 
-          script: |
-            # 1. SSH Configuration
-            cd ~
-            mkdir -p ~/.ssh
-            ssh-keyscan -t rsa github.com >> ~/.ssh/known_hosts
-            # → Set up SSH for GitHub access
+#       - name: Deploy to Hetzner via SSH
+#         uses: appleboy/ssh-action@master
+#         with:
+#           host: ${{ secrets.HETZNER_IP }}
+#           username: ${{ secrets.HETZNER_USER }}
+#           key: ${{ secrets.HETZNER_SSH_KEY }}
+#           port: ${{ secrets.HETZNER_PORT }}  # Specify SSH port (or other port number used by the server)
+#           debug: true 
+#           script: |
+#             # 1. SSH Configuration
+#             cd ~
+#             mkdir -p ~/.ssh
+#             ssh-keyscan -t rsa github.com >> ~/.ssh/known_hosts
+#             # → Set up SSH for GitHub access
             
-            # 2. Prepare Project Directory
-            # Create project folder if it doesn't exist
-            mkdir -p wwtb
-            cd wwtb
-            # → Create and move to project directory
+#             # 2. Prepare Project Directory
+#             # Create project folder if it doesn't exist
+#             mkdir -p wwtb
+#             cd wwtb
+#             # → Create and move to project directory
             
-            # 3. Get Code
-            # Clone if git repository doesn't exist, pull if it does
-            if [ ! -d .git ]; then
-              cd ~/wwtb
-              rm -rf .git # Remove existing files if any
-              git clone git@github.com:visual-intelligence-and-communication/WWTB_CICD.git .
-            else
-              git pull origin main
-            fi
-            # → If no git repository: Clone new
-            # → If git repository exists: Get latest code
+#             # 3. Get Code
+#             # Clone if git repository doesn't exist, pull if it does
+#             if [ ! -d .git ]; then
+#               cd ~/wwtb
+#               rm -rf .git # Remove existing files if any
+#               git clone git@github.com:visual-intelligence-and-communication/WWTB_CICD.git .
+#             else
+#               git pull origin main
+#             fi
+#             # → If no git repository: Clone new
+#             # → If git repository exists: Get latest code
 
-            docker-compose down
-            # Clean up previous image
-            docker rmi wwtb-client
+#             docker-compose down
+#             # Clean up previous image
+#             docker rmi wwtb-client
            
-            docker-compose up -d --build
+#             docker-compose up -d --build
 
      
